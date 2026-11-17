@@ -1,0 +1,1001 @@
+EmployeeID,EmployeeName,Department,JobTitle,Region,HireDate,Manager,TargetAnnual
+30001,Employee 1,Sales,Sales Manager,East,2022-02-08,Manager B,1263145
+30002,Employee 2,Sales,Account Executive,West,2019-03-09,Manager E,1086952
+30003,Employee 3,Customer Success,Account Executive,Central,2022-10-11,Manager A,861421
+30004,Employee 4,Online Sales,Sales Specialist,East,2021-06-25,Manager D,1372517
+30005,Employee 5,Sales,Account Executive,Central,2025-08-12,Manager C,1374786
+30006,Employee 6,Retail,Sales Specialist,West,2024-09-25,Manager A,1459582
+30007,Employee 7,Sales,Sales Specialist,Central,2022-08-08,Manager D,409204
+30008,Employee 8,Sales,Sales Specialist,West,2021-06-10,Manager A,1368834
+30009,Employee 9,Retail,Sales Executive,East,2023-06-28,Manager C,531812
+30010,Employee 10,Retail,Store Manager,West,2023-02-15,Manager D,1044209
+30011,Employee 11,Retail,Sales Manager,South,2019-01-26,Manager A,1089585
+30012,Employee 12,Retail,Account Executive,West,2020-11-20,Manager B,546916
+30013,Employee 13,Sales,Account Executive,West,2025-08-10,Manager B,309751
+30014,Employee 14,Online Sales,Sales Manager,West,2020-06-14,Manager E,1432141
+30015,Employee 15,Online Sales,Sales Specialist,North,2018-02-07,Manager B,1369477
+30016,Employee 16,Online Sales,Sales Specialist,East,2024-05-24,Manager E,509832
+30017,Employee 17,Retail,Account Executive,West,2025-02-24,Manager C,1021596
+30018,Employee 18,Online Sales,Sales Executive,North,2023-01-10,Manager E,481712
+30019,Employee 19,Enterprise,Sales Executive,West,2022-11-13,Manager E,979852
+30020,Employee 20,Customer Success,Sales Manager,Central,2020-09-09,Manager B,681083
+30021,Employee 21,Enterprise,Sales Specialist,East,2020-10-03,Manager C,1202004
+30022,Employee 22,Online Sales,Account Executive,Central,2025-01-03,Manager D,988326
+30023,Employee 23,Retail,Sales Executive,Central,2024-07-30,Manager A,897687
+30024,Employee 24,Retail,Account Executive,East,2021-10-27,Manager D,1117767
+30025,Employee 25,Enterprise,Sales Specialist,Central,2020-05-26,Manager C,870944
+30026,Employee 26,Online Sales,Account Executive,Central,2019-06-12,Manager A,315951
+30027,Employee 27,Sales,Account Executive,North,2018-01-31,Manager E,1015143
+30028,Employee 28,Enterprise,Sales Executive,Central,2021-09-15,Manager B,1233626
+30029,Employee 29,Enterprise,Sales Specialist,North,2022-03-31,Manager E,888446
+30030,Employee 30,Sales,Sales Executive,East,2023-03-05,Manager B,510023
+30031,Employee 31,Enterprise,Sales Specialist,Central,2024-03-04,Manager C,309410
+30032,Employee 32,Sales,Sales Manager,West,2020-10-24,Manager B,655781
+30033,Employee 33,Enterprise,Sales Executive,South,2019-04-13,Manager E,1221651
+30034,Employee 34,Enterprise,Sales Manager,West,2024-06-20,Manager E,686504
+30035,Employee 35,Sales,Sales Executive,South,2023-11-05,Manager D,1447381
+30036,Employee 36,Enterprise,Sales Executive,South,2022-02-01,Manager E,698935
+30037,Employee 37,Sales,Sales Executive,Central,2018-04-20,Manager D,813139
+30038,Employee 38,Online Sales,Store Manager,North,2021-08-02,Manager B,1212441
+30039,Employee 39,Enterprise,Sales Specialist,Central,2022-09-30,Manager E,1036728
+30040,Employee 40,Online Sales,Sales Manager,East,2024-08-01,Manager C,349133
+30041,Employee 41,Customer Success,Store Manager,North,2021-11-23,Manager B,391535
+30042,Employee 42,Customer Success,Sales Manager,West,2021-07-20,Manager A,535821
+30043,Employee 43,Customer Success,Account Executive,North,2020-11-29,Manager D,1345955
+30044,Employee 44,Sales,Sales Manager,South,2021-03-06,Manager B,326783
+30045,Employee 45,Sales,Sales Specialist,South,2018-02-15,Manager D,385924
+30046,Employee 46,Sales,Account Executive,West,2018-10-18,Manager A,1233959
+30047,Employee 47,Retail,Account Executive,South,2023-10-19,Manager D,1047422
+30048,Employee 48,Retail,Sales Specialist,West,2020-10-11,Manager D,1480466
+30049,Employee 49,Enterprise,Store Manager,North,2024-07-10,Manager C,563516
+30050,Employee 50,Online Sales,Sales Executive,West,2021-01-16,Manager D,1091456
+30051,Employee 51,Sales,Sales Executive,West,2025-08-23,Manager E,461426
+30052,Employee 52,Enterprise,Sales Manager,South,2019-05-21,Manager E,1008167
+30053,Employee 53,Enterprise,Sales Executive,Central,2019-06-11,Manager C,427412
+30054,Employee 54,Enterprise,Store Manager,East,2022-07-04,Manager E,1389679
+30055,Employee 55,Online Sales,Account Executive,West,2024-02-26,Manager E,799186
+30056,Employee 56,Retail,Sales Executive,North,2019-02-07,Manager A,605944
+30057,Employee 57,Customer Success,Account Executive,Central,2021-11-09,Manager B,1481406
+30058,Employee 58,Enterprise,Sales Specialist,South,2019-09-19,Manager D,379754
+30059,Employee 59,Customer Success,Sales Specialist,West,2023-08-27,Manager C,1259873
+30060,Employee 60,Retail,Sales Specialist,North,2022-04-21,Manager A,911963
+30061,Employee 61,Sales,Sales Specialist,North,2023-01-06,Manager C,1125127
+30062,Employee 62,Enterprise,Store Manager,North,2020-01-24,Manager B,612418
+30063,Employee 63,Retail,Sales Specialist,Central,2020-03-19,Manager D,1357617
+30064,Employee 64,Sales,Sales Specialist,South,2022-11-27,Manager C,841297
+30065,Employee 65,Sales,Store Manager,Central,2020-09-15,Manager A,802269
+30066,Employee 66,Online Sales,Account Executive,East,2023-04-18,Manager A,847559
+30067,Employee 67,Sales,Sales Specialist,North,2019-03-08,Manager B,655661
+30068,Employee 68,Enterprise,Account Executive,East,2020-04-23,Manager A,682598
+30069,Employee 69,Enterprise,Sales Executive,East,2018-10-12,Manager E,468118
+30070,Employee 70,Online Sales,Sales Executive,South,2018-09-02,Manager B,883589
+30071,Employee 71,Sales,Account Executive,West,2020-01-05,Manager D,869672
+30072,Employee 72,Sales,Sales Executive,Central,2021-10-02,Manager A,756182
+30073,Employee 73,Customer Success,Sales Executive,Central,2019-02-09,Manager C,1482733
+30074,Employee 74,Online Sales,Sales Manager,East,2018-09-18,Manager E,435671
+30075,Employee 75,Sales,Account Executive,Central,2024-09-22,Manager D,1392348
+30076,Employee 76,Enterprise,Account Executive,Central,2021-12-13,Manager B,1340070
+30077,Employee 77,Customer Success,Account Executive,North,2023-06-27,Manager D,326716
+30078,Employee 78,Sales,Account Executive,West,2023-07-27,Manager C,1141528
+30079,Employee 79,Customer Success,Sales Specialist,West,2018-10-12,Manager B,551033
+30080,Employee 80,Enterprise,Sales Manager,North,2022-10-03,Manager E,349570
+30081,Employee 81,Online Sales,Account Executive,West,2024-08-06,Manager E,1333210
+30082,Employee 82,Enterprise,Store Manager,Central,2021-06-09,Manager C,438943
+30083,Employee 83,Retail,Sales Manager,South,2024-08-10,Manager A,658672
+30084,Employee 84,Enterprise,Sales Executive,Central,2025-04-02,Manager C,415817
+30085,Employee 85,Sales,Sales Executive,Central,2022-03-10,Manager C,470344
+30086,Employee 86,Online Sales,Sales Manager,West,2018-10-12,Manager E,374092
+30087,Employee 87,Enterprise,Sales Manager,West,2022-09-25,Manager D,1310826
+30088,Employee 88,Customer Success,Sales Executive,East,2024-09-30,Manager B,370868
+30089,Employee 89,Sales,Sales Manager,East,2022-06-11,Manager C,1211093
+30090,Employee 90,Online Sales,Store Manager,East,2024-02-19,Manager A,488534
+30091,Employee 91,Enterprise,Sales Specialist,East,2022-02-08,Manager C,1397885
+30092,Employee 92,Customer Success,Account Executive,East,2021-03-21,Manager C,1317443
+30093,Employee 93,Enterprise,Sales Executive,Central,2025-04-01,Manager C,1055335
+30094,Employee 94,Enterprise,Store Manager,West,2019-03-05,Manager C,1293879
+30095,Employee 95,Online Sales,Sales Executive,South,2021-06-07,Manager C,658004
+30096,Employee 96,Sales,Sales Executive,East,2019-03-13,Manager D,1239775
+30097,Employee 97,Enterprise,Account Executive,South,2023-01-08,Manager C,565896
+30098,Employee 98,Enterprise,Account Executive,North,2025-01-25,Manager A,1037647
+30099,Employee 99,Retail,Sales Manager,South,2025-08-25,Manager D,1403275
+30100,Employee 100,Retail,Sales Specialist,North,2019-10-17,Manager D,1168192
+30101,Employee 101,Online Sales,Sales Executive,Central,2023-07-31,Manager D,623514
+30102,Employee 102,Retail,Sales Executive,North,2024-09-13,Manager D,1186177
+30103,Employee 103,Online Sales,Account Executive,South,2024-05-23,Manager A,1359984
+30104,Employee 104,Retail,Account Executive,South,2021-11-10,Manager E,1367175
+30105,Employee 105,Sales,Sales Specialist,South,2019-05-04,Manager E,1187006
+30106,Employee 106,Enterprise,Sales Executive,South,2021-07-16,Manager A,1178811
+30107,Employee 107,Online Sales,Account Executive,West,2023-12-13,Manager B,1241804
+30108,Employee 108,Enterprise,Sales Executive,Central,2022-10-01,Manager B,1183751
+30109,Employee 109,Retail,Sales Executive,North,2020-12-23,Manager E,460489
+30110,Employee 110,Customer Success,Account Executive,South,2019-08-26,Manager E,1264897
+30111,Employee 111,Online Sales,Store Manager,East,2022-12-31,Manager B,515965
+30112,Employee 112,Online Sales,Sales Executive,South,2021-04-14,Manager D,967625
+30113,Employee 113,Online Sales,Sales Specialist,West,2021-08-14,Manager B,707348
+30114,Employee 114,Enterprise,Account Executive,South,2025-03-12,Manager A,555634
+30115,Employee 115,Sales,Account Executive,East,2018-01-26,Manager B,638303
+30116,Employee 116,Enterprise,Sales Specialist,East,2019-10-30,Manager A,401450
+30117,Employee 117,Customer Success,Sales Manager,South,2025-01-19,Manager E,827588
+30118,Employee 118,Enterprise,Sales Manager,West,2025-01-24,Manager D,802852
+30119,Employee 119,Sales,Store Manager,West,2020-04-27,Manager A,784118
+30120,Employee 120,Retail,Sales Executive,East,2025-08-15,Manager C,410022
+30121,Employee 121,Retail,Sales Specialist,East,2019-08-16,Manager B,1028165
+30122,Employee 122,Online Sales,Sales Specialist,Central,2018-05-26,Manager C,503164
+30123,Employee 123,Retail,Sales Specialist,Central,2020-05-09,Manager E,1327096
+30124,Employee 124,Enterprise,Account Executive,Central,2022-01-27,Manager E,328608
+30125,Employee 125,Customer Success,Store Manager,North,2018-01-17,Manager E,366321
+30126,Employee 126,Online Sales,Sales Specialist,Central,2019-04-27,Manager B,660247
+30127,Employee 127,Online Sales,Sales Executive,Central,2024-01-24,Manager A,789462
+30128,Employee 128,Online Sales,Sales Manager,Central,2022-10-07,Manager A,1463997
+30129,Employee 129,Retail,Account Executive,West,2022-08-22,Manager A,930363
+30130,Employee 130,Retail,Store Manager,South,2025-08-02,Manager D,754717
+30131,Employee 131,Enterprise,Store Manager,West,2019-10-02,Manager D,1305127
+30132,Employee 132,Online Sales,Sales Specialist,East,2024-11-16,Manager E,589071
+30133,Employee 133,Online Sales,Account Executive,Central,2020-09-21,Manager A,1376405
+30134,Employee 134,Sales,Sales Executive,South,2025-02-02,Manager B,784139
+30135,Employee 135,Sales,Sales Executive,West,2024-01-02,Manager D,675257
+30136,Employee 136,Sales,Sales Specialist,West,2019-08-21,Manager D,661606
+30137,Employee 137,Online Sales,Account Executive,Central,2019-08-10,Manager C,311631
+30138,Employee 138,Enterprise,Store Manager,North,2022-02-27,Manager A,1108652
+30139,Employee 139,Enterprise,Account Executive,Central,2021-11-08,Manager C,992753
+30140,Employee 140,Customer Success,Sales Specialist,South,2019-10-20,Manager A,1061360
+30141,Employee 141,Retail,Sales Manager,Central,2019-12-31,Manager C,1082190
+30142,Employee 142,Retail,Sales Executive,North,2024-11-23,Manager E,332811
+30143,Employee 143,Customer Success,Store Manager,South,2023-10-12,Manager A,1353185
+30144,Employee 144,Sales,Account Executive,West,2019-06-20,Manager A,913587
+30145,Employee 145,Enterprise,Sales Specialist,East,2023-07-24,Manager D,1129700
+30146,Employee 146,Customer Success,Sales Executive,West,2019-03-08,Manager A,343439
+30147,Employee 147,Retail,Sales Manager,East,2021-05-31,Manager E,1213255
+30148,Employee 148,Online Sales,Sales Specialist,North,2018-02-04,Manager D,1112835
+30149,Employee 149,Enterprise,Sales Specialist,West,2022-12-23,Manager C,742116
+30150,Employee 150,Customer Success,Sales Executive,East,2019-05-25,Manager B,1422969
+30151,Employee 151,Online Sales,Sales Specialist,East,2019-10-24,Manager B,1080814
+30152,Employee 152,Retail,Sales Executive,South,2019-06-16,Manager B,1388985
+30153,Employee 153,Sales,Sales Executive,Central,2019-05-29,Manager E,1285938
+30154,Employee 154,Online Sales,Sales Specialist,West,2018-08-05,Manager D,546854
+30155,Employee 155,Enterprise,Sales Executive,North,2022-04-02,Manager B,1495768
+30156,Employee 156,Retail,Sales Manager,North,2024-08-26,Manager A,1191174
+30157,Employee 157,Sales,Sales Executive,North,2020-04-24,Manager C,527653
+30158,Employee 158,Online Sales,Account Executive,North,2023-12-24,Manager D,1251679
+30159,Employee 159,Sales,Sales Executive,West,2022-03-03,Manager D,814803
+30160,Employee 160,Enterprise,Sales Manager,West,2019-12-14,Manager B,1337241
+30161,Employee 161,Customer Success,Sales Manager,East,2018-06-22,Manager C,507969
+30162,Employee 162,Sales,Store Manager,East,2024-01-03,Manager A,611518
+30163,Employee 163,Online Sales,Account Executive,Central,2018-03-06,Manager C,717150
+30164,Employee 164,Customer Success,Sales Executive,Central,2021-03-28,Manager D,841001
+30165,Employee 165,Customer Success,Account Executive,East,2018-04-06,Manager B,1057570
+30166,Employee 166,Enterprise,Account Executive,East,2023-12-12,Manager B,565805
+30167,Employee 167,Enterprise,Sales Manager,East,2025-08-03,Manager C,1146694
+30168,Employee 168,Customer Success,Account Executive,Central,2020-06-23,Manager E,329171
+30169,Employee 169,Online Sales,Sales Manager,West,2020-05-28,Manager D,697211
+30170,Employee 170,Customer Success,Sales Manager,South,2022-05-01,Manager E,1090815
+30171,Employee 171,Customer Success,Store Manager,Central,2021-11-06,Manager A,617881
+30172,Employee 172,Online Sales,Sales Manager,South,2020-12-04,Manager E,817756
+30173,Employee 173,Sales,Sales Manager,West,2020-10-21,Manager A,1027271
+30174,Employee 174,Retail,Sales Executive,Central,2019-06-10,Manager B,597740
+30175,Employee 175,Enterprise,Store Manager,Central,2019-12-04,Manager C,1457208
+30176,Employee 176,Customer Success,Store Manager,North,2022-06-28,Manager B,1316524
+30177,Employee 177,Sales,Store Manager,South,2023-08-19,Manager E,1465232
+30178,Employee 178,Online Sales,Sales Executive,West,2023-10-04,Manager E,894816
+30179,Employee 179,Enterprise,Account Executive,North,2021-12-17,Manager C,712081
+30180,Employee 180,Sales,Sales Manager,North,2023-10-10,Manager C,1493589
+30181,Employee 181,Enterprise,Store Manager,South,2022-07-16,Manager D,1174189
+30182,Employee 182,Online Sales,Sales Manager,East,2020-09-24,Manager D,1252029
+30183,Employee 183,Sales,Account Executive,North,2020-09-16,Manager C,519239
+30184,Employee 184,Online Sales,Account Executive,North,2021-12-23,Manager E,1343053
+30185,Employee 185,Enterprise,Store Manager,South,2020-05-11,Manager A,933762
+30186,Employee 186,Customer Success,Store Manager,East,2023-11-09,Manager B,1227998
+30187,Employee 187,Sales,Sales Specialist,East,2019-06-03,Manager A,1290029
+30188,Employee 188,Retail,Account Executive,West,2018-06-02,Manager A,427109
+30189,Employee 189,Online Sales,Sales Specialist,Central,2021-10-07,Manager A,418894
+30190,Employee 190,Enterprise,Sales Specialist,North,2018-07-21,Manager D,378034
+30191,Employee 191,Enterprise,Account Executive,West,2019-06-21,Manager E,1071529
+30192,Employee 192,Customer Success,Store Manager,North,2020-11-19,Manager C,1398094
+30193,Employee 193,Online Sales,Sales Specialist,South,2018-01-12,Manager C,336135
+30194,Employee 194,Online Sales,Sales Specialist,South,2019-09-18,Manager B,465836
+30195,Employee 195,Online Sales,Sales Manager,West,2022-03-06,Manager A,883099
+30196,Employee 196,Enterprise,Store Manager,South,2020-11-15,Manager C,769471
+30197,Employee 197,Retail,Account Executive,Central,2024-11-14,Manager A,423601
+30198,Employee 198,Sales,Sales Executive,South,2018-09-20,Manager D,1031893
+30199,Employee 199,Customer Success,Sales Manager,Central,2023-07-09,Manager C,1386523
+30200,Employee 200,Sales,Sales Specialist,Central,2022-07-16,Manager B,554278
+30201,Employee 201,Customer Success,Sales Specialist,East,2022-12-09,Manager A,303398
+30202,Employee 202,Sales,Store Manager,North,2023-02-24,Manager B,570342
+30203,Employee 203,Retail,Sales Specialist,West,2018-05-27,Manager A,521524
+30204,Employee 204,Online Sales,Account Executive,East,2024-01-27,Manager D,859489
+30205,Employee 205,Enterprise,Store Manager,South,2020-07-16,Manager C,428779
+30206,Employee 206,Retail,Sales Executive,East,2022-12-27,Manager D,733074
+30207,Employee 207,Online Sales,Sales Manager,South,2020-04-03,Manager C,443334
+30208,Employee 208,Retail,Sales Executive,South,2021-01-14,Manager E,1111890
+30209,Employee 209,Customer Success,Sales Specialist,Central,2023-05-15,Manager D,863036
+30210,Employee 210,Online Sales,Store Manager,South,2025-03-02,Manager A,390091
+30211,Employee 211,Online Sales,Sales Specialist,East,2024-09-24,Manager A,352450
+30212,Employee 212,Sales,Account Executive,West,2023-07-27,Manager E,886510
+30213,Employee 213,Enterprise,Account Executive,South,2022-02-16,Manager B,1010155
+30214,Employee 214,Enterprise,Store Manager,West,2022-01-17,Manager D,509111
+30215,Employee 215,Enterprise,Account Executive,Central,2025-05-27,Manager D,688222
+30216,Employee 216,Sales,Sales Manager,Central,2019-08-03,Manager D,1028070
+30217,Employee 217,Enterprise,Sales Manager,North,2025-04-25,Manager B,865416
+30218,Employee 218,Customer Success,Account Executive,East,2022-12-23,Manager B,439455
+30219,Employee 219,Customer Success,Sales Executive,North,2022-09-22,Manager C,769522
+30220,Employee 220,Customer Success,Sales Executive,West,2022-07-15,Manager A,537158
+30221,Employee 221,Online Sales,Sales Executive,South,2024-03-24,Manager B,1412083
+30222,Employee 222,Enterprise,Sales Executive,Central,2023-03-29,Manager C,1264666
+30223,Employee 223,Retail,Sales Executive,North,2018-09-23,Manager B,674432
+30224,Employee 224,Retail,Sales Executive,Central,2023-12-28,Manager B,582200
+30225,Employee 225,Online Sales,Sales Executive,South,2023-08-03,Manager E,461569
+30226,Employee 226,Enterprise,Sales Specialist,Central,2025-01-06,Manager B,1184478
+30227,Employee 227,Customer Success,Sales Executive,North,2025-03-07,Manager E,1401900
+30228,Employee 228,Enterprise,Account Executive,South,2025-04-11,Manager E,627675
+30229,Employee 229,Customer Success,Sales Executive,South,2018-04-30,Manager D,1067728
+30230,Employee 230,Customer Success,Sales Specialist,Central,2022-10-31,Manager A,582033
+30231,Employee 231,Sales,Sales Manager,West,2025-03-01,Manager B,1400429
+30232,Employee 232,Customer Success,Store Manager,Central,2025-05-28,Manager E,658985
+30233,Employee 233,Customer Success,Store Manager,East,2022-03-19,Manager A,415303
+30234,Employee 234,Retail,Store Manager,West,2024-12-26,Manager C,1357118
+30235,Employee 235,Enterprise,Store Manager,West,2024-10-01,Manager C,1434628
+30236,Employee 236,Enterprise,Account Executive,West,2018-01-08,Manager E,776598
+30237,Employee 237,Enterprise,Store Manager,Central,2024-10-13,Manager E,1388757
+30238,Employee 238,Customer Success,Sales Specialist,Central,2022-11-21,Manager B,592512
+30239,Employee 239,Sales,Sales Manager,East,2022-05-26,Manager C,625073
+30240,Employee 240,Sales,Sales Specialist,East,2019-05-15,Manager D,943967
+30241,Employee 241,Online Sales,Sales Specialist,West,2025-01-16,Manager E,1020512
+30242,Employee 242,Retail,Store Manager,West,2020-04-06,Manager C,762769
+30243,Employee 243,Customer Success,Sales Specialist,Central,2021-03-15,Manager A,1259528
+30244,Employee 244,Enterprise,Sales Executive,West,2020-04-13,Manager E,1248237
+30245,Employee 245,Sales,Account Executive,Central,2025-06-07,Manager C,445143
+30246,Employee 246,Enterprise,Store Manager,West,2021-09-14,Manager A,1488534
+30247,Employee 247,Retail,Sales Specialist,Central,2018-11-16,Manager A,491019
+30248,Employee 248,Online Sales,Sales Executive,West,2018-01-31,Manager B,931889
+30249,Employee 249,Enterprise,Sales Specialist,Central,2025-07-07,Manager D,807646
+30250,Employee 250,Online Sales,Sales Executive,North,2019-10-23,Manager E,842098
+30251,Employee 251,Enterprise,Sales Manager,Central,2023-11-29,Manager C,454167
+30252,Employee 252,Sales,Store Manager,South,2018-03-23,Manager A,711642
+30253,Employee 253,Online Sales,Sales Manager,West,2024-11-16,Manager E,336410
+30254,Employee 254,Retail,Sales Specialist,South,2022-12-27,Manager D,1468006
+30255,Employee 255,Enterprise,Sales Specialist,East,2019-09-22,Manager C,472621
+30256,Employee 256,Customer Success,Sales Executive,West,2024-10-26,Manager A,879939
+30257,Employee 257,Online Sales,Sales Manager,East,2020-04-13,Manager E,559230
+30258,Employee 258,Customer Success,Sales Executive,West,2025-08-25,Manager A,513596
+30259,Employee 259,Customer Success,Store Manager,North,2022-08-06,Manager D,768257
+30260,Employee 260,Online Sales,Sales Specialist,Central,2021-06-09,Manager C,1463059
+30261,Employee 261,Sales,Store Manager,East,2018-06-13,Manager C,873827
+30262,Employee 262,Online Sales,Sales Executive,West,2019-12-30,Manager C,1453058
+30263,Employee 263,Enterprise,Sales Executive,South,2018-06-13,Manager B,1292450
+30264,Employee 264,Enterprise,Sales Executive,East,2024-07-16,Manager C,822870
+30265,Employee 265,Enterprise,Account Executive,East,2018-10-08,Manager B,1381417
+30266,Employee 266,Enterprise,Store Manager,North,2018-11-13,Manager C,717823
+30267,Employee 267,Sales,Sales Executive,East,2018-12-15,Manager D,901718
+30268,Employee 268,Retail,Sales Specialist,West,2025-06-20,Manager D,1116524
+30269,Employee 269,Customer Success,Sales Manager,Central,2025-06-10,Manager A,1007305
+30270,Employee 270,Online Sales,Account Executive,Central,2023-06-25,Manager E,1294708
+30271,Employee 271,Customer Success,Store Manager,South,2018-07-26,Manager A,495475
+30272,Employee 272,Sales,Account Executive,West,2021-11-12,Manager B,898238
+30273,Employee 273,Customer Success,Account Executive,North,2025-04-09,Manager B,1097663
+30274,Employee 274,Enterprise,Sales Manager,Central,2018-09-28,Manager B,696975
+30275,Employee 275,Enterprise,Account Executive,Central,2024-02-01,Manager B,1340293
+30276,Employee 276,Enterprise,Sales Manager,Central,2018-02-20,Manager B,661672
+30277,Employee 277,Customer Success,Sales Manager,East,2024-03-01,Manager C,661381
+30278,Employee 278,Online Sales,Store Manager,South,2022-03-05,Manager D,691918
+30279,Employee 279,Sales,Sales Specialist,West,2024-10-22,Manager E,1111773
+30280,Employee 280,Customer Success,Sales Specialist,West,2021-03-04,Manager B,441639
+30281,Employee 281,Sales,Sales Manager,South,2024-01-08,Manager B,471445
+30282,Employee 282,Enterprise,Sales Manager,East,2024-06-17,Manager D,1234344
+30283,Employee 283,Online Sales,Sales Executive,West,2020-06-28,Manager A,548777
+30284,Employee 284,Customer Success,Sales Manager,East,2022-12-04,Manager C,425951
+30285,Employee 285,Customer Success,Account Executive,South,2021-07-14,Manager B,616386
+30286,Employee 286,Retail,Sales Manager,South,2021-04-24,Manager D,777977
+30287,Employee 287,Retail,Store Manager,East,2024-02-18,Manager A,339740
+30288,Employee 288,Retail,Sales Executive,South,2019-09-25,Manager E,1301932
+30289,Employee 289,Retail,Account Executive,South,2018-12-02,Manager B,440997
+30290,Employee 290,Customer Success,Sales Manager,North,2021-09-07,Manager C,784927
+30291,Employee 291,Online Sales,Account Executive,South,2024-04-19,Manager C,542551
+30292,Employee 292,Customer Success,Sales Executive,West,2019-04-02,Manager C,653714
+30293,Employee 293,Enterprise,Account Executive,South,2020-08-10,Manager C,354299
+30294,Employee 294,Customer Success,Store Manager,North,2023-02-11,Manager B,1437904
+30295,Employee 295,Enterprise,Sales Specialist,Central,2021-08-28,Manager D,1424838
+30296,Employee 296,Customer Success,Sales Manager,East,2022-08-24,Manager C,451852
+30297,Employee 297,Retail,Account Executive,East,2022-01-18,Manager B,536736
+30298,Employee 298,Retail,Store Manager,East,2024-03-18,Manager B,1361824
+30299,Employee 299,Online Sales,Account Executive,East,2024-09-16,Manager C,797940
+30300,Employee 300,Online Sales,Account Executive,East,2021-06-12,Manager E,374492
+30301,Employee 301,Sales,Sales Manager,West,2021-04-23,Manager E,463044
+30302,Employee 302,Online Sales,Sales Specialist,Central,2020-02-20,Manager B,796235
+30303,Employee 303,Customer Success,Store Manager,Central,2021-05-27,Manager B,969528
+30304,Employee 304,Customer Success,Sales Specialist,East,2024-05-30,Manager A,1058065
+30305,Employee 305,Enterprise,Store Manager,South,2021-11-05,Manager C,483845
+30306,Employee 306,Online Sales,Sales Manager,North,2023-04-19,Manager B,744046
+30307,Employee 307,Retail,Sales Manager,East,2021-03-17,Manager E,613287
+30308,Employee 308,Enterprise,Sales Executive,Central,2023-06-02,Manager C,941527
+30309,Employee 309,Sales,Store Manager,South,2023-06-18,Manager B,685732
+30310,Employee 310,Customer Success,Store Manager,Central,2022-01-18,Manager E,544801
+30311,Employee 311,Customer Success,Sales Manager,West,2025-03-01,Manager E,1278245
+30312,Employee 312,Customer Success,Sales Executive,West,2024-09-18,Manager B,982841
+30313,Employee 313,Sales,Sales Specialist,East,2019-03-20,Manager A,868740
+30314,Employee 314,Customer Success,Sales Manager,West,2019-09-30,Manager B,461470
+30315,Employee 315,Enterprise,Account Executive,North,2025-04-27,Manager B,384970
+30316,Employee 316,Retail,Sales Executive,North,2021-01-29,Manager C,1255315
+30317,Employee 317,Sales,Sales Executive,North,2020-05-19,Manager E,1462342
+30318,Employee 318,Retail,Sales Specialist,West,2024-02-08,Manager E,1000547
+30319,Employee 319,Online Sales,Store Manager,East,2022-08-14,Manager D,346906
+30320,Employee 320,Customer Success,Sales Executive,South,2019-01-08,Manager E,878318
+30321,Employee 321,Online Sales,Sales Executive,North,2018-09-14,Manager A,636232
+30322,Employee 322,Online Sales,Account Executive,East,2024-03-12,Manager A,365600
+30323,Employee 323,Customer Success,Store Manager,South,2023-11-12,Manager E,470928
+30324,Employee 324,Sales,Account Executive,North,2020-09-14,Manager D,899729
+30325,Employee 325,Customer Success,Sales Specialist,North,2024-08-11,Manager B,812252
+30326,Employee 326,Customer Success,Store Manager,West,2018-12-18,Manager D,976283
+30327,Employee 327,Online Sales,Store Manager,West,2024-08-30,Manager A,1132096
+30328,Employee 328,Enterprise,Sales Manager,South,2018-08-10,Manager D,618801
+30329,Employee 329,Enterprise,Store Manager,East,2022-11-16,Manager E,643564
+30330,Employee 330,Retail,Sales Specialist,South,2024-06-18,Manager C,1113108
+30331,Employee 331,Enterprise,Sales Executive,East,2022-10-01,Manager D,536577
+30332,Employee 332,Sales,Store Manager,North,2023-12-21,Manager D,392118
+30333,Employee 333,Retail,Sales Specialist,Central,2020-08-20,Manager E,1324283
+30334,Employee 334,Retail,Account Executive,West,2020-03-17,Manager C,550426
+30335,Employee 335,Retail,Store Manager,Central,2020-01-15,Manager B,445055
+30336,Employee 336,Customer Success,Sales Manager,South,2018-11-22,Manager B,1185058
+30337,Employee 337,Customer Success,Sales Executive,Central,2020-02-16,Manager B,938191
+30338,Employee 338,Enterprise,Sales Specialist,East,2019-11-24,Manager A,476666
+30339,Employee 339,Retail,Sales Manager,North,2023-10-20,Manager D,1320647
+30340,Employee 340,Retail,Store Manager,South,2019-08-20,Manager B,594658
+30341,Employee 341,Sales,Sales Manager,Central,2019-04-10,Manager D,1111239
+30342,Employee 342,Retail,Sales Manager,West,2023-08-15,Manager A,1081026
+30343,Employee 343,Online Sales,Store Manager,West,2022-02-14,Manager B,1295575
+30344,Employee 344,Customer Success,Sales Manager,South,2019-08-27,Manager B,1174610
+30345,Employee 345,Enterprise,Sales Specialist,West,2023-05-31,Manager A,1143669
+30346,Employee 346,Customer Success,Sales Executive,Central,2019-08-29,Manager E,361787
+30347,Employee 347,Customer Success,Sales Executive,North,2024-01-09,Manager C,1425711
+30348,Employee 348,Retail,Sales Executive,South,2018-04-01,Manager E,451907
+30349,Employee 349,Retail,Sales Manager,North,2022-07-11,Manager E,604260
+30350,Employee 350,Enterprise,Sales Executive,North,2022-07-30,Manager A,835341
+30351,Employee 351,Retail,Sales Manager,Central,2020-11-09,Manager E,646088
+30352,Employee 352,Online Sales,Sales Executive,South,2023-04-14,Manager A,1011353
+30353,Employee 353,Enterprise,Store Manager,North,2020-11-29,Manager E,363492
+30354,Employee 354,Retail,Sales Executive,North,2023-01-04,Manager D,844537
+30355,Employee 355,Customer Success,Sales Specialist,Central,2019-09-18,Manager E,719346
+30356,Employee 356,Online Sales,Sales Specialist,East,2022-05-12,Manager C,1076483
+30357,Employee 357,Retail,Store Manager,West,2023-10-19,Manager A,923758
+30358,Employee 358,Retail,Store Manager,South,2025-05-29,Manager A,1207191
+30359,Employee 359,Customer Success,Store Manager,West,2020-10-05,Manager A,497341
+30360,Employee 360,Retail,Sales Specialist,Central,2021-08-16,Manager E,1439452
+30361,Employee 361,Sales,Account Executive,West,2021-08-26,Manager C,770560
+30362,Employee 362,Online Sales,Store Manager,East,2024-08-05,Manager B,719856
+30363,Employee 363,Customer Success,Account Executive,South,2025-05-19,Manager A,957999
+30364,Employee 364,Online Sales,Store Manager,South,2022-12-14,Manager A,495725
+30365,Employee 365,Online Sales,Sales Manager,East,2024-04-21,Manager B,1277471
+30366,Employee 366,Sales,Sales Executive,East,2018-08-24,Manager D,616900
+30367,Employee 367,Enterprise,Sales Specialist,North,2023-10-27,Manager E,1412918
+30368,Employee 368,Sales,Store Manager,North,2024-03-18,Manager D,477797
+30369,Employee 369,Online Sales,Store Manager,East,2023-06-25,Manager E,1337039
+30370,Employee 370,Enterprise,Sales Manager,North,2022-06-25,Manager B,773094
+30371,Employee 371,Customer Success,Store Manager,East,2024-11-23,Manager B,1028832
+30372,Employee 372,Online Sales,Account Executive,South,2023-01-04,Manager D,1347080
+30373,Employee 373,Online Sales,Sales Executive,South,2024-06-27,Manager A,454970
+30374,Employee 374,Sales,Sales Specialist,North,2019-05-20,Manager E,716471
+30375,Employee 375,Retail,Sales Specialist,East,2023-02-07,Manager D,1438079
+30376,Employee 376,Customer Success,Sales Specialist,North,2021-05-09,Manager A,478587
+30377,Employee 377,Online Sales,Account Executive,West,2024-08-28,Manager A,423455
+30378,Employee 378,Online Sales,Sales Manager,Central,2024-10-01,Manager D,927159
+30379,Employee 379,Online Sales,Sales Executive,Central,2024-06-21,Manager D,329666
+30380,Employee 380,Customer Success,Store Manager,West,2019-08-27,Manager B,1490332
+30381,Employee 381,Retail,Sales Specialist,Central,2021-10-10,Manager D,1384496
+30382,Employee 382,Enterprise,Sales Executive,Central,2018-01-01,Manager C,525817
+30383,Employee 383,Enterprise,Store Manager,West,2025-07-05,Manager D,507237
+30384,Employee 384,Enterprise,Sales Executive,South,2019-12-23,Manager C,1233449
+30385,Employee 385,Retail,Store Manager,East,2022-10-15,Manager C,924887
+30386,Employee 386,Retail,Sales Executive,Central,2021-09-27,Manager B,1288030
+30387,Employee 387,Retail,Sales Specialist,West,2024-12-07,Manager A,1461140
+30388,Employee 388,Sales,Sales Executive,South,2024-04-18,Manager A,781606
+30389,Employee 389,Retail,Account Executive,North,2023-12-16,Manager A,604661
+30390,Employee 390,Customer Success,Store Manager,North,2022-12-07,Manager E,1043461
+30391,Employee 391,Sales,Sales Specialist,South,2018-12-01,Manager C,1062026
+30392,Employee 392,Customer Success,Sales Manager,Central,2025-01-17,Manager B,818848
+30393,Employee 393,Retail,Sales Specialist,East,2018-06-25,Manager E,658855
+30394,Employee 394,Online Sales,Sales Executive,North,2021-06-29,Manager E,614792
+30395,Employee 395,Sales,Account Executive,Central,2020-11-28,Manager B,925859
+30396,Employee 396,Enterprise,Sales Specialist,East,2020-12-30,Manager B,811342
+30397,Employee 397,Sales,Sales Manager,South,2025-06-29,Manager C,849034
+30398,Employee 398,Retail,Account Executive,Central,2019-10-10,Manager E,414348
+30399,Employee 399,Sales,Account Executive,South,2022-06-12,Manager D,1356952
+30400,Employee 400,Customer Success,Sales Manager,West,2019-09-03,Manager C,1148347
+30401,Employee 401,Sales,Store Manager,Central,2024-12-27,Manager B,1402746
+30402,Employee 402,Customer Success,Account Executive,East,2023-08-24,Manager B,1295031
+30403,Employee 403,Retail,Store Manager,West,2021-03-07,Manager A,1042563
+30404,Employee 404,Sales,Account Executive,South,2018-08-14,Manager D,668879
+30405,Employee 405,Enterprise,Sales Specialist,Central,2019-03-04,Manager E,1084752
+30406,Employee 406,Customer Success,Account Executive,North,2019-11-11,Manager D,979772
+30407,Employee 407,Online Sales,Store Manager,South,2021-02-11,Manager B,1408545
+30408,Employee 408,Customer Success,Store Manager,Central,2024-10-16,Manager C,578578
+30409,Employee 409,Enterprise,Sales Specialist,East,2018-12-01,Manager E,330796
+30410,Employee 410,Enterprise,Sales Specialist,North,2022-06-04,Manager C,452952
+30411,Employee 411,Online Sales,Sales Manager,East,2020-08-30,Manager E,510207
+30412,Employee 412,Sales,Sales Manager,South,2018-05-11,Manager C,1096342
+30413,Employee 413,Retail,Sales Manager,East,2022-10-01,Manager C,475977
+30414,Employee 414,Customer Success,Account Executive,South,2023-05-26,Manager C,460929
+30415,Employee 415,Retail,Account Executive,South,2025-05-10,Manager B,776411
+30416,Employee 416,Enterprise,Sales Executive,Central,2021-11-19,Manager C,1238374
+30417,Employee 417,Enterprise,Sales Specialist,North,2020-06-30,Manager B,809348
+30418,Employee 418,Online Sales,Sales Specialist,West,2024-07-20,Manager D,626105
+30419,Employee 419,Sales,Store Manager,North,2019-11-24,Manager D,641307
+30420,Employee 420,Customer Success,Sales Manager,East,2023-03-26,Manager B,1282216
+30421,Employee 421,Enterprise,Sales Specialist,West,2025-03-26,Manager E,819939
+30422,Employee 422,Retail,Sales Manager,Central,2018-01-13,Manager C,742205
+30423,Employee 423,Retail,Sales Manager,South,2025-02-03,Manager E,1228164
+30424,Employee 424,Customer Success,Sales Specialist,North,2019-07-31,Manager D,742611
+30425,Employee 425,Enterprise,Sales Specialist,West,2021-09-10,Manager E,728105
+30426,Employee 426,Enterprise,Account Executive,Central,2019-12-24,Manager E,1200687
+30427,Employee 427,Enterprise,Sales Executive,East,2019-02-09,Manager B,692946
+30428,Employee 428,Online Sales,Sales Executive,North,2023-05-21,Manager B,912318
+30429,Employee 429,Enterprise,Sales Specialist,East,2021-09-12,Manager E,1097586
+30430,Employee 430,Customer Success,Sales Manager,South,2021-11-27,Manager B,541172
+30431,Employee 431,Online Sales,Store Manager,East,2021-09-16,Manager D,454017
+30432,Employee 432,Retail,Sales Manager,North,2023-09-24,Manager A,1320490
+30433,Employee 433,Enterprise,Account Executive,South,2025-05-29,Manager E,656439
+30434,Employee 434,Retail,Sales Specialist,Central,2021-12-07,Manager D,708183
+30435,Employee 435,Customer Success,Account Executive,North,2019-03-12,Manager C,1007697
+30436,Employee 436,Retail,Account Executive,Central,2020-07-05,Manager C,423332
+30437,Employee 437,Online Sales,Account Executive,East,2021-10-20,Manager D,354703
+30438,Employee 438,Sales,Sales Manager,East,2018-10-18,Manager B,799201
+30439,Employee 439,Customer Success,Account Executive,Central,2019-10-04,Manager B,1461922
+30440,Employee 440,Enterprise,Account Executive,South,2019-07-22,Manager B,988754
+30441,Employee 441,Retail,Sales Executive,Central,2025-06-17,Manager A,994155
+30442,Employee 442,Retail,Account Executive,South,2021-01-27,Manager E,1031862
+30443,Employee 443,Retail,Store Manager,South,2024-09-27,Manager D,1333122
+30444,Employee 444,Customer Success,Sales Executive,East,2022-03-25,Manager C,1302729
+30445,Employee 445,Enterprise,Sales Specialist,West,2021-11-18,Manager E,329050
+30446,Employee 446,Customer Success,Sales Specialist,South,2025-03-13,Manager D,949688
+30447,Employee 447,Customer Success,Store Manager,West,2023-04-22,Manager C,955956
+30448,Employee 448,Enterprise,Sales Executive,North,2019-11-03,Manager A,568452
+30449,Employee 449,Retail,Account Executive,West,2020-02-28,Manager C,1470053
+30450,Employee 450,Online Sales,Sales Specialist,West,2023-02-09,Manager A,613999
+30451,Employee 451,Enterprise,Sales Executive,East,2018-01-07,Manager D,1300632
+30452,Employee 452,Enterprise,Store Manager,West,2019-03-04,Manager A,421008
+30453,Employee 453,Retail,Sales Specialist,West,2018-07-28,Manager C,1022147
+30454,Employee 454,Sales,Sales Executive,Central,2023-06-22,Manager B,1183109
+30455,Employee 455,Customer Success,Sales Manager,South,2021-05-20,Manager A,904948
+30456,Employee 456,Customer Success,Store Manager,East,2018-02-01,Manager C,427129
+30457,Employee 457,Online Sales,Sales Specialist,East,2023-09-08,Manager B,448705
+30458,Employee 458,Retail,Store Manager,South,2023-01-11,Manager B,1026975
+30459,Employee 459,Sales,Account Executive,Central,2023-07-06,Manager E,1335154
+30460,Employee 460,Customer Success,Store Manager,East,2019-04-03,Manager B,1016336
+30461,Employee 461,Online Sales,Account Executive,East,2024-09-15,Manager C,421001
+30462,Employee 462,Online Sales,Account Executive,North,2019-05-20,Manager A,1242604
+30463,Employee 463,Retail,Store Manager,East,2022-05-18,Manager B,851022
+30464,Employee 464,Online Sales,Sales Executive,West,2022-04-14,Manager B,389555
+30465,Employee 465,Enterprise,Sales Manager,East,2019-09-05,Manager D,741483
+30466,Employee 466,Customer Success,Sales Executive,West,2020-11-17,Manager A,543493
+30467,Employee 467,Customer Success,Store Manager,North,2018-05-27,Manager E,1483682
+30468,Employee 468,Retail,Store Manager,North,2021-08-12,Manager A,1391474
+30469,Employee 469,Sales,Sales Executive,South,2023-03-11,Manager D,427286
+30470,Employee 470,Customer Success,Sales Executive,South,2020-05-14,Manager A,986684
+30471,Employee 471,Online Sales,Sales Manager,Central,2022-02-14,Manager E,308469
+30472,Employee 472,Customer Success,Sales Manager,Central,2025-04-23,Manager D,849228
+30473,Employee 473,Online Sales,Account Executive,East,2019-10-19,Manager E,487097
+30474,Employee 474,Retail,Account Executive,East,2020-03-24,Manager E,1197211
+30475,Employee 475,Retail,Sales Manager,South,2018-12-02,Manager E,386475
+30476,Employee 476,Retail,Sales Executive,East,2022-02-26,Manager D,1383036
+30477,Employee 477,Sales,Store Manager,West,2019-07-25,Manager E,577375
+30478,Employee 478,Retail,Store Manager,West,2024-07-20,Manager A,615611
+30479,Employee 479,Retail,Store Manager,Central,2020-03-25,Manager D,1362906
+30480,Employee 480,Customer Success,Sales Specialist,East,2023-02-03,Manager E,1381770
+30481,Employee 481,Retail,Sales Specialist,South,2019-06-14,Manager B,415184
+30482,Employee 482,Customer Success,Sales Specialist,North,2020-06-22,Manager E,430433
+30483,Employee 483,Online Sales,Store Manager,West,2019-04-25,Manager C,1324120
+30484,Employee 484,Online Sales,Sales Executive,Central,2022-03-27,Manager C,1473219
+30485,Employee 485,Sales,Sales Manager,East,2018-03-19,Manager B,886485
+30486,Employee 486,Enterprise,Account Executive,Central,2018-08-21,Manager A,497822
+30487,Employee 487,Sales,Store Manager,South,2021-11-04,Manager E,483185
+30488,Employee 488,Online Sales,Sales Specialist,North,2022-03-08,Manager D,619483
+30489,Employee 489,Customer Success,Store Manager,West,2020-07-12,Manager C,1122459
+30490,Employee 490,Enterprise,Sales Manager,North,2021-04-22,Manager E,415912
+30491,Employee 491,Retail,Store Manager,North,2021-03-12,Manager A,1069761
+30492,Employee 492,Customer Success,Store Manager,West,2023-10-24,Manager D,1264411
+30493,Employee 493,Enterprise,Store Manager,East,2021-06-04,Manager C,472385
+30494,Employee 494,Customer Success,Account Executive,West,2024-07-02,Manager D,1481078
+30495,Employee 495,Enterprise,Store Manager,West,2019-08-31,Manager A,1484901
+30496,Employee 496,Retail,Sales Manager,South,2019-07-13,Manager D,656371
+30497,Employee 497,Sales,Sales Manager,West,2021-02-04,Manager D,434582
+30498,Employee 498,Online Sales,Sales Manager,East,2018-08-17,Manager E,690734
+30499,Employee 499,Enterprise,Sales Manager,East,2023-02-22,Manager B,610021
+30500,Employee 500,Online Sales,Store Manager,West,2020-12-29,Manager A,634775
+30501,Employee 501,Enterprise,Sales Manager,South,2020-10-22,Manager A,1409896
+30502,Employee 502,Sales,Sales Executive,East,2022-02-04,Manager A,485793
+30503,Employee 503,Sales,Sales Executive,East,2018-08-18,Manager B,680424
+30504,Employee 504,Online Sales,Sales Specialist,North,2020-11-21,Manager E,1244933
+30505,Employee 505,Online Sales,Account Executive,South,2025-06-15,Manager A,369040
+30506,Employee 506,Customer Success,Account Executive,North,2022-10-26,Manager A,372863
+30507,Employee 507,Online Sales,Sales Specialist,North,2022-05-27,Manager A,662257
+30508,Employee 508,Retail,Sales Executive,East,2021-11-16,Manager B,1461328
+30509,Employee 509,Retail,Sales Specialist,Central,2021-08-05,Manager D,1307339
+30510,Employee 510,Online Sales,Store Manager,Central,2025-03-07,Manager B,1412778
+30511,Employee 511,Customer Success,Store Manager,West,2025-02-17,Manager C,1336792
+30512,Employee 512,Enterprise,Account Executive,East,2021-02-20,Manager B,442126
+30513,Employee 513,Sales,Store Manager,South,2025-02-02,Manager E,781190
+30514,Employee 514,Online Sales,Sales Manager,South,2018-08-19,Manager A,935428
+30515,Employee 515,Sales,Sales Manager,West,2020-06-14,Manager B,499913
+30516,Employee 516,Online Sales,Sales Specialist,Central,2020-04-25,Manager C,1491421
+30517,Employee 517,Enterprise,Sales Manager,Central,2023-05-07,Manager E,1023684
+30518,Employee 518,Customer Success,Store Manager,South,2022-08-24,Manager C,1323143
+30519,Employee 519,Retail,Sales Specialist,East,2021-08-16,Manager A,610366
+30520,Employee 520,Sales,Account Executive,East,2019-12-18,Manager C,1158160
+30521,Employee 521,Sales,Sales Manager,North,2021-11-20,Manager B,427097
+30522,Employee 522,Retail,Sales Specialist,North,2020-01-24,Manager B,326953
+30523,Employee 523,Online Sales,Sales Specialist,North,2021-10-24,Manager E,1068748
+30524,Employee 524,Retail,Account Executive,West,2020-08-08,Manager E,382052
+30525,Employee 525,Sales,Sales Executive,South,2024-10-24,Manager B,631412
+30526,Employee 526,Online Sales,Account Executive,West,2023-09-21,Manager C,1252820
+30527,Employee 527,Retail,Account Executive,South,2019-05-06,Manager C,897239
+30528,Employee 528,Online Sales,Sales Executive,West,2025-03-17,Manager E,751733
+30529,Employee 529,Online Sales,Account Executive,North,2023-01-19,Manager E,648587
+30530,Employee 530,Online Sales,Sales Executive,South,2020-09-08,Manager B,1102118
+30531,Employee 531,Sales,Store Manager,South,2022-01-25,Manager A,1445319
+30532,Employee 532,Online Sales,Account Executive,East,2019-07-02,Manager A,1187017
+30533,Employee 533,Online Sales,Store Manager,East,2018-05-12,Manager A,730698
+30534,Employee 534,Customer Success,Account Executive,North,2021-03-23,Manager D,806621
+30535,Employee 535,Customer Success,Store Manager,West,2023-12-31,Manager D,423688
+30536,Employee 536,Retail,Store Manager,Central,2020-09-12,Manager E,472058
+30537,Employee 537,Online Sales,Sales Executive,North,2020-12-11,Manager A,621823
+30538,Employee 538,Retail,Account Executive,North,2025-08-04,Manager A,764033
+30539,Employee 539,Enterprise,Store Manager,Central,2025-07-27,Manager A,1488178
+30540,Employee 540,Online Sales,Account Executive,West,2021-07-22,Manager D,1345258
+30541,Employee 541,Enterprise,Sales Manager,Central,2018-05-04,Manager A,435637
+30542,Employee 542,Customer Success,Sales Specialist,West,2023-03-17,Manager D,697302
+30543,Employee 543,Retail,Sales Executive,West,2023-06-25,Manager E,367585
+30544,Employee 544,Sales,Sales Specialist,North,2025-01-02,Manager A,375179
+30545,Employee 545,Sales,Store Manager,East,2025-04-08,Manager D,749723
+30546,Employee 546,Customer Success,Sales Manager,South,2022-10-28,Manager C,1450957
+30547,Employee 547,Retail,Sales Executive,Central,2018-10-27,Manager E,522161
+30548,Employee 548,Online Sales,Sales Specialist,North,2019-11-30,Manager B,1116812
+30549,Employee 549,Enterprise,Account Executive,North,2023-06-30,Manager B,771156
+30550,Employee 550,Customer Success,Sales Specialist,East,2022-08-28,Manager A,949028
+30551,Employee 551,Retail,Sales Specialist,Central,2021-05-05,Manager D,1343101
+30552,Employee 552,Online Sales,Sales Executive,Central,2021-01-30,Manager E,1294928
+30553,Employee 553,Customer Success,Store Manager,East,2023-06-10,Manager A,1293852
+30554,Employee 554,Sales,Sales Manager,East,2021-03-28,Manager C,793392
+30555,Employee 555,Customer Success,Sales Specialist,South,2019-03-10,Manager D,358295
+30556,Employee 556,Retail,Sales Manager,Central,2025-07-05,Manager D,1482138
+30557,Employee 557,Sales,Sales Executive,North,2020-09-05,Manager E,1492789
+30558,Employee 558,Online Sales,Store Manager,North,2020-02-20,Manager D,1329087
+30559,Employee 559,Enterprise,Account Executive,East,2018-07-14,Manager E,872699
+30560,Employee 560,Enterprise,Account Executive,South,2021-08-06,Manager E,636653
+30561,Employee 561,Sales,Sales Manager,East,2025-07-24,Manager E,509508
+30562,Employee 562,Enterprise,Account Executive,Central,2019-03-24,Manager C,745257
+30563,Employee 563,Customer Success,Sales Specialist,South,2019-11-17,Manager C,701307
+30564,Employee 564,Enterprise,Store Manager,Central,2019-05-15,Manager C,630891
+30565,Employee 565,Enterprise,Sales Specialist,South,2018-09-21,Manager E,1440313
+30566,Employee 566,Sales,Sales Manager,South,2022-08-17,Manager B,1091209
+30567,Employee 567,Enterprise,Sales Specialist,North,2020-04-14,Manager D,567634
+30568,Employee 568,Enterprise,Sales Manager,West,2023-10-04,Manager D,1067198
+30569,Employee 569,Sales,Sales Specialist,Central,2021-01-26,Manager A,1146039
+30570,Employee 570,Online Sales,Sales Specialist,Central,2022-11-18,Manager C,927007
+30571,Employee 571,Customer Success,Sales Executive,North,2018-09-08,Manager A,1436039
+30572,Employee 572,Customer Success,Sales Specialist,West,2020-07-10,Manager D,1459008
+30573,Employee 573,Sales,Store Manager,North,2021-03-05,Manager C,818583
+30574,Employee 574,Enterprise,Store Manager,West,2018-06-16,Manager B,866730
+30575,Employee 575,Retail,Account Executive,West,2021-03-19,Manager A,560482
+30576,Employee 576,Retail,Sales Manager,North,2021-08-09,Manager A,1240466
+30577,Employee 577,Retail,Sales Specialist,North,2021-02-04,Manager D,1417301
+30578,Employee 578,Customer Success,Sales Executive,North,2021-11-12,Manager E,1089714
+30579,Employee 579,Retail,Sales Specialist,West,2024-02-11,Manager B,541281
+30580,Employee 580,Retail,Sales Manager,West,2023-11-28,Manager E,921821
+30581,Employee 581,Enterprise,Store Manager,North,2018-02-09,Manager C,1253483
+30582,Employee 582,Retail,Account Executive,East,2022-11-28,Manager B,350514
+30583,Employee 583,Customer Success,Sales Manager,West,2024-12-06,Manager C,1008247
+30584,Employee 584,Online Sales,Sales Manager,South,2024-09-05,Manager D,1088994
+30585,Employee 585,Customer Success,Sales Manager,West,2020-06-24,Manager E,944102
+30586,Employee 586,Enterprise,Sales Specialist,South,2024-01-02,Manager C,1071114
+30587,Employee 587,Customer Success,Store Manager,South,2024-02-21,Manager B,1375050
+30588,Employee 588,Online Sales,Store Manager,South,2020-10-21,Manager D,449848
+30589,Employee 589,Retail,Store Manager,South,2024-08-30,Manager C,984846
+30590,Employee 590,Sales,Account Executive,East,2022-11-06,Manager B,1255097
+30591,Employee 591,Customer Success,Sales Specialist,South,2023-10-05,Manager C,1286341
+30592,Employee 592,Customer Success,Sales Manager,South,2023-09-24,Manager C,860392
+30593,Employee 593,Online Sales,Sales Specialist,West,2023-12-28,Manager A,1496878
+30594,Employee 594,Sales,Sales Manager,South,2025-05-03,Manager A,688975
+30595,Employee 595,Enterprise,Sales Manager,West,2024-07-28,Manager D,828802
+30596,Employee 596,Enterprise,Account Executive,North,2021-03-28,Manager A,1288751
+30597,Employee 597,Retail,Store Manager,North,2022-04-23,Manager C,827152
+30598,Employee 598,Sales,Store Manager,Central,2022-12-21,Manager D,712045
+30599,Employee 599,Customer Success,Store Manager,East,2024-07-26,Manager B,966907
+30600,Employee 600,Retail,Sales Executive,West,2021-01-04,Manager B,1046220
+30601,Employee 601,Enterprise,Sales Executive,West,2020-05-26,Manager E,1463960
+30602,Employee 602,Customer Success,Sales Specialist,North,2023-08-28,Manager A,1041497
+30603,Employee 603,Retail,Sales Specialist,Central,2025-04-25,Manager D,522393
+30604,Employee 604,Sales,Sales Executive,East,2024-12-28,Manager A,363367
+30605,Employee 605,Customer Success,Sales Specialist,Central,2019-02-19,Manager E,1460820
+30606,Employee 606,Enterprise,Sales Manager,East,2025-01-17,Manager C,807400
+30607,Employee 607,Customer Success,Sales Specialist,East,2024-01-19,Manager A,541818
+30608,Employee 608,Enterprise,Sales Specialist,West,2019-03-16,Manager D,567334
+30609,Employee 609,Customer Success,Store Manager,North,2018-01-19,Manager A,427330
+30610,Employee 610,Customer Success,Sales Executive,West,2019-07-26,Manager B,539484
+30611,Employee 611,Online Sales,Store Manager,Central,2025-02-15,Manager C,1236313
+30612,Employee 612,Sales,Sales Executive,West,2023-10-15,Manager D,1085954
+30613,Employee 613,Sales,Sales Manager,North,2022-05-30,Manager C,1019791
+30614,Employee 614,Enterprise,Store Manager,West,2022-11-02,Manager E,313691
+30615,Employee 615,Online Sales,Sales Executive,North,2021-03-03,Manager C,1106830
+30616,Employee 616,Retail,Sales Manager,North,2024-12-09,Manager B,1462894
+30617,Employee 617,Enterprise,Store Manager,South,2019-03-14,Manager B,1407895
+30618,Employee 618,Retail,Sales Executive,South,2020-05-28,Manager E,774469
+30619,Employee 619,Sales,Sales Manager,North,2019-07-16,Manager D,1020328
+30620,Employee 620,Online Sales,Sales Executive,North,2024-07-02,Manager A,658564
+30621,Employee 621,Sales,Store Manager,West,2022-02-21,Manager D,1366324
+30622,Employee 622,Online Sales,Sales Executive,East,2023-03-30,Manager C,1403969
+30623,Employee 623,Enterprise,Sales Manager,North,2025-01-18,Manager B,567796
+30624,Employee 624,Retail,Account Executive,East,2019-07-02,Manager A,884006
+30625,Employee 625,Enterprise,Sales Manager,West,2025-05-24,Manager E,583492
+30626,Employee 626,Sales,Sales Manager,West,2018-12-21,Manager A,1037190
+30627,Employee 627,Enterprise,Sales Specialist,South,2023-10-14,Manager E,651440
+30628,Employee 628,Retail,Store Manager,North,2023-05-22,Manager A,1135020
+30629,Employee 629,Online Sales,Sales Executive,Central,2024-04-30,Manager C,1477779
+30630,Employee 630,Enterprise,Sales Specialist,West,2019-03-20,Manager A,1345693
+30631,Employee 631,Sales,Account Executive,Central,2025-05-11,Manager C,518665
+30632,Employee 632,Retail,Sales Executive,South,2024-02-03,Manager E,455690
+30633,Employee 633,Retail,Sales Specialist,North,2018-11-06,Manager C,1277607
+30634,Employee 634,Sales,Sales Manager,South,2022-04-09,Manager C,397983
+30635,Employee 635,Customer Success,Sales Manager,South,2024-04-07,Manager A,780256
+30636,Employee 636,Online Sales,Sales Executive,West,2021-08-28,Manager E,1492452
+30637,Employee 637,Sales,Sales Specialist,West,2020-12-02,Manager B,837749
+30638,Employee 638,Retail,Sales Manager,North,2020-02-11,Manager C,310660
+30639,Employee 639,Customer Success,Account Executive,East,2021-12-15,Manager E,1470377
+30640,Employee 640,Enterprise,Sales Manager,South,2025-07-17,Manager D,1149833
+30641,Employee 641,Enterprise,Sales Specialist,West,2022-08-29,Manager D,696816
+30642,Employee 642,Customer Success,Store Manager,South,2023-07-16,Manager A,1033278
+30643,Employee 643,Sales,Account Executive,East,2023-12-23,Manager C,1034709
+30644,Employee 644,Retail,Sales Manager,West,2023-12-19,Manager C,963061
+30645,Employee 645,Online Sales,Store Manager,South,2021-01-26,Manager A,1453109
+30646,Employee 646,Enterprise,Account Executive,North,2023-11-23,Manager B,1242993
+30647,Employee 647,Customer Success,Sales Specialist,West,2020-07-07,Manager E,610818
+30648,Employee 648,Sales,Store Manager,Central,2022-06-24,Manager E,1490967
+30649,Employee 649,Sales,Sales Executive,East,2020-04-26,Manager E,1455014
+30650,Employee 650,Customer Success,Sales Specialist,Central,2025-03-16,Manager E,356262
+30651,Employee 651,Retail,Sales Executive,North,2023-08-07,Manager E,656673
+30652,Employee 652,Online Sales,Sales Manager,Central,2022-06-23,Manager A,1037436
+30653,Employee 653,Sales,Account Executive,Central,2021-06-18,Manager E,1354021
+30654,Employee 654,Online Sales,Sales Manager,South,2021-12-27,Manager D,1160133
+30655,Employee 655,Sales,Sales Specialist,North,2023-12-24,Manager E,988854
+30656,Employee 656,Online Sales,Sales Specialist,West,2020-02-06,Manager D,667127
+30657,Employee 657,Sales,Sales Executive,Central,2024-05-08,Manager A,416000
+30658,Employee 658,Sales,Sales Manager,North,2020-02-28,Manager C,1371433
+30659,Employee 659,Customer Success,Sales Manager,West,2019-02-01,Manager D,939151
+30660,Employee 660,Enterprise,Store Manager,Central,2023-08-26,Manager A,848391
+30661,Employee 661,Customer Success,Account Executive,North,2023-06-07,Manager C,1475989
+30662,Employee 662,Online Sales,Store Manager,East,2020-07-26,Manager D,497374
+30663,Employee 663,Online Sales,Sales Executive,North,2022-12-22,Manager C,604768
+30664,Employee 664,Online Sales,Account Executive,North,2023-08-03,Manager D,1325289
+30665,Employee 665,Retail,Sales Manager,East,2024-01-15,Manager A,641226
+30666,Employee 666,Sales,Sales Manager,South,2025-04-21,Manager B,1431510
+30667,Employee 667,Online Sales,Store Manager,North,2024-07-20,Manager E,1329436
+30668,Employee 668,Customer Success,Sales Executive,Central,2021-05-15,Manager C,419417
+30669,Employee 669,Online Sales,Sales Executive,South,2019-10-07,Manager A,849272
+30670,Employee 670,Enterprise,Account Executive,Central,2018-09-30,Manager A,1202017
+30671,Employee 671,Online Sales,Store Manager,North,2022-05-26,Manager C,887514
+30672,Employee 672,Customer Success,Account Executive,East,2023-02-10,Manager E,558017
+30673,Employee 673,Enterprise,Sales Executive,West,2023-04-19,Manager A,354049
+30674,Employee 674,Customer Success,Store Manager,East,2018-01-27,Manager A,308066
+30675,Employee 675,Retail,Sales Manager,East,2023-05-18,Manager B,513934
+30676,Employee 676,Customer Success,Store Manager,West,2024-01-13,Manager B,612736
+30677,Employee 677,Online Sales,Sales Manager,North,2023-07-14,Manager A,662228
+30678,Employee 678,Retail,Sales Specialist,Central,2022-01-11,Manager B,1325891
+30679,Employee 679,Sales,Sales Manager,West,2018-02-12,Manager D,910348
+30680,Employee 680,Sales,Sales Specialist,West,2021-10-03,Manager E,469420
+30681,Employee 681,Enterprise,Sales Manager,East,2022-12-11,Manager B,399886
+30682,Employee 682,Online Sales,Store Manager,South,2022-05-14,Manager D,456802
+30683,Employee 683,Sales,Account Executive,East,2022-05-28,Manager E,676185
+30684,Employee 684,Online Sales,Sales Executive,West,2021-12-16,Manager A,1186857
+30685,Employee 685,Online Sales,Sales Executive,Central,2022-03-26,Manager E,359401
+30686,Employee 686,Enterprise,Account Executive,Central,2020-06-25,Manager A,787631
+30687,Employee 687,Sales,Sales Executive,North,2022-08-21,Manager D,837119
+30688,Employee 688,Sales,Store Manager,North,2020-02-28,Manager D,478183
+30689,Employee 689,Enterprise,Sales Executive,Central,2021-10-08,Manager E,370338
+30690,Employee 690,Sales,Account Executive,South,2021-03-08,Manager C,576000
+30691,Employee 691,Retail,Sales Manager,East,2023-06-23,Manager D,482179
+30692,Employee 692,Enterprise,Sales Executive,North,2024-11-10,Manager A,1253522
+30693,Employee 693,Retail,Sales Manager,North,2022-11-09,Manager C,1400021
+30694,Employee 694,Sales,Account Executive,East,2019-01-15,Manager E,1047922
+30695,Employee 695,Enterprise,Sales Manager,West,2023-02-13,Manager A,1210239
+30696,Employee 696,Sales,Sales Manager,West,2020-06-28,Manager A,1213114
+30697,Employee 697,Online Sales,Sales Manager,Central,2018-05-19,Manager D,1353137
+30698,Employee 698,Sales,Sales Manager,North,2019-06-23,Manager C,417327
+30699,Employee 699,Retail,Account Executive,South,2025-08-30,Manager C,1496458
+30700,Employee 700,Enterprise,Sales Specialist,East,2021-04-10,Manager B,849725
+30701,Employee 701,Enterprise,Account Executive,East,2019-07-19,Manager A,951595
+30702,Employee 702,Sales,Account Executive,North,2019-01-09,Manager D,1256527
+30703,Employee 703,Online Sales,Store Manager,East,2022-12-26,Manager B,892544
+30704,Employee 704,Sales,Account Executive,Central,2023-11-01,Manager D,618951
+30705,Employee 705,Online Sales,Sales Specialist,North,2020-09-15,Manager C,322825
+30706,Employee 706,Online Sales,Account Executive,Central,2018-10-17,Manager B,503026
+30707,Employee 707,Enterprise,Sales Manager,East,2020-09-20,Manager B,401252
+30708,Employee 708,Enterprise,Account Executive,East,2023-02-06,Manager D,758140
+30709,Employee 709,Customer Success,Store Manager,West,2018-11-16,Manager B,1234678
+30710,Employee 710,Online Sales,Sales Manager,West,2020-01-20,Manager E,700055
+30711,Employee 711,Sales,Sales Manager,West,2018-01-06,Manager C,1016765
+30712,Employee 712,Sales,Account Executive,North,2021-08-15,Manager E,522567
+30713,Employee 713,Customer Success,Sales Specialist,South,2019-04-23,Manager C,1008350
+30714,Employee 714,Customer Success,Sales Manager,Central,2019-07-14,Manager C,1444733
+30715,Employee 715,Online Sales,Account Executive,North,2018-11-13,Manager C,678471
+30716,Employee 716,Customer Success,Store Manager,West,2023-08-07,Manager C,879718
+30717,Employee 717,Retail,Store Manager,East,2021-10-02,Manager C,1455571
+30718,Employee 718,Sales,Sales Executive,North,2025-04-09,Manager E,1029691
+30719,Employee 719,Online Sales,Sales Manager,North,2021-01-11,Manager D,779000
+30720,Employee 720,Online Sales,Sales Specialist,Central,2019-09-13,Manager A,445328
+30721,Employee 721,Enterprise,Sales Specialist,North,2019-07-26,Manager A,1424790
+30722,Employee 722,Sales,Store Manager,North,2025-04-22,Manager A,1032042
+30723,Employee 723,Sales,Sales Executive,North,2022-07-10,Manager D,368391
+30724,Employee 724,Enterprise,Account Executive,West,2020-06-29,Manager B,966387
+30725,Employee 725,Online Sales,Sales Executive,Central,2023-01-06,Manager B,1462127
+30726,Employee 726,Online Sales,Sales Manager,North,2022-04-11,Manager E,1418315
+30727,Employee 727,Customer Success,Sales Specialist,West,2018-11-18,Manager A,534918
+30728,Employee 728,Customer Success,Sales Manager,West,2023-05-19,Manager A,794780
+30729,Employee 729,Retail,Sales Executive,South,2018-11-30,Manager A,1483702
+30730,Employee 730,Customer Success,Store Manager,North,2019-07-12,Manager B,1238474
+30731,Employee 731,Customer Success,Store Manager,East,2023-06-21,Manager A,972113
+30732,Employee 732,Retail,Store Manager,North,2021-05-30,Manager D,665017
+30733,Employee 733,Customer Success,Sales Specialist,North,2019-09-15,Manager D,1215400
+30734,Employee 734,Sales,Store Manager,East,2018-07-09,Manager A,994728
+30735,Employee 735,Sales,Store Manager,Central,2022-07-21,Manager C,928750
+30736,Employee 736,Customer Success,Sales Specialist,Central,2023-05-06,Manager B,1412364
+30737,Employee 737,Sales,Sales Manager,West,2019-07-23,Manager A,752775
+30738,Employee 738,Enterprise,Account Executive,South,2021-03-12,Manager C,1050085
+30739,Employee 739,Retail,Account Executive,South,2020-08-21,Manager D,352271
+30740,Employee 740,Enterprise,Store Manager,West,2024-11-01,Manager B,1153390
+30741,Employee 741,Enterprise,Account Executive,North,2024-01-24,Manager D,956656
+30742,Employee 742,Sales,Account Executive,East,2020-02-07,Manager E,1351181
+30743,Employee 743,Online Sales,Sales Executive,West,2021-12-08,Manager A,699499
+30744,Employee 744,Enterprise,Store Manager,Central,2025-01-30,Manager A,1410509
+30745,Employee 745,Customer Success,Sales Executive,North,2020-08-26,Manager B,990785
+30746,Employee 746,Customer Success,Account Executive,South,2019-01-30,Manager E,549929
+30747,Employee 747,Customer Success,Account Executive,South,2020-04-15,Manager A,492437
+30748,Employee 748,Customer Success,Store Manager,East,2022-08-27,Manager C,535005
+30749,Employee 749,Customer Success,Account Executive,North,2025-08-10,Manager C,662376
+30750,Employee 750,Retail,Sales Executive,Central,2020-05-11,Manager A,960571
+30751,Employee 751,Online Sales,Account Executive,Central,2018-06-13,Manager A,1341900
+30752,Employee 752,Retail,Sales Manager,South,2019-05-24,Manager A,1494619
+30753,Employee 753,Enterprise,Sales Manager,East,2021-03-01,Manager A,1113862
+30754,Employee 754,Retail,Sales Manager,East,2018-09-21,Manager C,888182
+30755,Employee 755,Customer Success,Sales Executive,North,2018-04-08,Manager E,1035968
+30756,Employee 756,Enterprise,Sales Specialist,Central,2023-01-10,Manager B,697085
+30757,Employee 757,Online Sales,Sales Manager,West,2024-04-27,Manager B,593856
+30758,Employee 758,Customer Success,Account Executive,South,2019-10-15,Manager B,944713
+30759,Employee 759,Customer Success,Sales Specialist,East,2022-01-03,Manager E,1293051
+30760,Employee 760,Retail,Sales Manager,South,2022-05-23,Manager E,377274
+30761,Employee 761,Sales,Sales Specialist,South,2023-02-13,Manager D,433038
+30762,Employee 762,Online Sales,Account Executive,South,2025-07-05,Manager C,512648
+30763,Employee 763,Customer Success,Sales Specialist,North,2024-10-14,Manager A,551917
+30764,Employee 764,Sales,Account Executive,Central,2020-06-03,Manager E,478704
+30765,Employee 765,Retail,Sales Executive,West,2025-06-24,Manager A,456218
+30766,Employee 766,Enterprise,Sales Specialist,Central,2018-04-08,Manager A,333498
+30767,Employee 767,Online Sales,Sales Specialist,North,2025-05-17,Manager D,718002
+30768,Employee 768,Customer Success,Sales Specialist,West,2019-02-04,Manager A,1166654
+30769,Employee 769,Retail,Sales Executive,East,2018-11-16,Manager A,488381
+30770,Employee 770,Sales,Sales Specialist,West,2018-12-01,Manager C,690569
+30771,Employee 771,Online Sales,Sales Manager,Central,2018-12-08,Manager A,1467903
+30772,Employee 772,Online Sales,Sales Specialist,South,2021-07-21,Manager B,502243
+30773,Employee 773,Online Sales,Sales Specialist,North,2022-11-28,Manager D,1484737
+30774,Employee 774,Customer Success,Sales Executive,North,2023-09-17,Manager A,914692
+30775,Employee 775,Online Sales,Sales Manager,East,2018-02-14,Manager D,1168998
+30776,Employee 776,Retail,Sales Manager,North,2020-04-10,Manager A,688133
+30777,Employee 777,Retail,Sales Manager,North,2019-01-06,Manager D,689488
+30778,Employee 778,Online Sales,Account Executive,North,2019-02-13,Manager A,771621
+30779,Employee 779,Retail,Account Executive,South,2023-09-21,Manager D,453520
+30780,Employee 780,Online Sales,Store Manager,North,2022-11-30,Manager D,678638
+30781,Employee 781,Sales,Store Manager,East,2019-08-11,Manager D,1373197
+30782,Employee 782,Retail,Sales Manager,West,2020-04-23,Manager B,304780
+30783,Employee 783,Retail,Sales Executive,South,2025-02-02,Manager B,986521
+30784,Employee 784,Sales,Store Manager,North,2022-05-30,Manager E,1125994
+30785,Employee 785,Enterprise,Sales Executive,East,2019-10-31,Manager D,469644
+30786,Employee 786,Enterprise,Sales Executive,North,2025-02-27,Manager A,432828
+30787,Employee 787,Online Sales,Store Manager,West,2019-07-11,Manager A,963000
+30788,Employee 788,Retail,Sales Manager,South,2020-03-26,Manager B,562970
+30789,Employee 789,Online Sales,Sales Executive,East,2023-04-24,Manager D,1473676
+30790,Employee 790,Enterprise,Sales Manager,South,2021-12-05,Manager B,528380
+30791,Employee 791,Sales,Account Executive,South,2018-07-13,Manager E,457099
+30792,Employee 792,Enterprise,Sales Specialist,North,2024-03-09,Manager C,697640
+30793,Employee 793,Sales,Sales Specialist,East,2019-10-01,Manager E,698327
+30794,Employee 794,Sales,Store Manager,North,2023-04-21,Manager E,492237
+30795,Employee 795,Online Sales,Sales Specialist,West,2020-07-25,Manager C,1097991
+30796,Employee 796,Sales,Account Executive,South,2023-10-06,Manager E,716342
+30797,Employee 797,Retail,Account Executive,East,2024-11-19,Manager C,932463
+30798,Employee 798,Sales,Sales Specialist,East,2023-12-04,Manager A,591917
+30799,Employee 799,Online Sales,Sales Manager,West,2025-01-23,Manager B,415733
+30800,Employee 800,Sales,Sales Specialist,West,2022-02-20,Manager C,373458
+30801,Employee 801,Customer Success,Sales Specialist,East,2018-07-02,Manager E,363373
+30802,Employee 802,Enterprise,Sales Manager,Central,2022-02-09,Manager E,1344675
+30803,Employee 803,Online Sales,Store Manager,South,2021-07-15,Manager A,617327
+30804,Employee 804,Sales,Store Manager,West,2023-07-06,Manager A,666697
+30805,Employee 805,Customer Success,Store Manager,South,2019-11-28,Manager C,995087
+30806,Employee 806,Enterprise,Sales Manager,West,2023-05-08,Manager C,414338
+30807,Employee 807,Customer Success,Sales Specialist,East,2021-05-21,Manager D,1020805
+30808,Employee 808,Sales,Account Executive,Central,2023-02-20,Manager B,925831
+30809,Employee 809,Online Sales,Sales Executive,South,2021-03-21,Manager E,1249749
+30810,Employee 810,Sales,Sales Executive,East,2020-12-05,Manager C,447930
+30811,Employee 811,Retail,Store Manager,North,2019-08-23,Manager B,320516
+30812,Employee 812,Sales,Account Executive,West,2024-05-08,Manager C,1227711
+30813,Employee 813,Sales,Sales Executive,North,2018-07-12,Manager E,744066
+30814,Employee 814,Retail,Account Executive,East,2019-10-24,Manager B,373893
+30815,Employee 815,Customer Success,Account Executive,North,2021-04-09,Manager C,967639
+30816,Employee 816,Enterprise,Sales Executive,South,2019-03-13,Manager E,857563
+30817,Employee 817,Enterprise,Sales Manager,East,2025-01-10,Manager A,1441161
+30818,Employee 818,Customer Success,Account Executive,South,2020-08-24,Manager C,1432591
+30819,Employee 819,Customer Success,Store Manager,South,2019-11-10,Manager D,946746
+30820,Employee 820,Sales,Store Manager,North,2019-12-12,Manager E,490762
+30821,Employee 821,Online Sales,Sales Executive,West,2019-06-21,Manager A,1197485
+30822,Employee 822,Enterprise,Store Manager,West,2023-01-31,Manager D,541642
+30823,Employee 823,Customer Success,Sales Specialist,East,2021-09-09,Manager E,1305587
+30824,Employee 824,Enterprise,Sales Executive,North,2019-10-09,Manager B,1020557
+30825,Employee 825,Enterprise,Sales Specialist,North,2024-09-11,Manager D,725311
+30826,Employee 826,Online Sales,Sales Executive,West,2023-01-13,Manager C,1475824
+30827,Employee 827,Online Sales,Store Manager,Central,2021-02-02,Manager D,917175
+30828,Employee 828,Sales,Sales Manager,Central,2021-12-08,Manager B,763002
+30829,Employee 829,Online Sales,Store Manager,East,2023-01-12,Manager A,526786
+30830,Employee 830,Sales,Sales Specialist,East,2019-03-03,Manager E,1078374
+30831,Employee 831,Customer Success,Sales Specialist,North,2024-03-13,Manager B,623876
+30832,Employee 832,Sales,Sales Specialist,North,2019-12-25,Manager A,482780
+30833,Employee 833,Online Sales,Sales Specialist,West,2018-03-24,Manager E,441998
+30834,Employee 834,Customer Success,Sales Manager,East,2021-12-31,Manager E,1069676
+30835,Employee 835,Customer Success,Account Executive,East,2024-09-19,Manager D,1405313
+30836,Employee 836,Online Sales,Store Manager,South,2023-08-15,Manager C,603194
+30837,Employee 837,Retail,Sales Executive,South,2020-05-13,Manager B,560819
+30838,Employee 838,Retail,Account Executive,Central,2021-01-20,Manager D,1035945
+30839,Employee 839,Customer Success,Account Executive,Central,2022-07-27,Manager D,471544
+30840,Employee 840,Enterprise,Sales Specialist,West,2019-10-14,Manager C,406393
+30841,Employee 841,Retail,Sales Executive,South,2024-04-15,Manager D,1065003
+30842,Employee 842,Online Sales,Sales Executive,West,2020-04-06,Manager C,929962
+30843,Employee 843,Online Sales,Sales Executive,South,2019-08-30,Manager E,334346
+30844,Employee 844,Enterprise,Account Executive,East,2018-09-24,Manager D,584885
+30845,Employee 845,Customer Success,Account Executive,North,2023-04-26,Manager B,538076
+30846,Employee 846,Sales,Account Executive,West,2018-03-12,Manager D,1118050
+30847,Employee 847,Enterprise,Sales Manager,North,2024-03-05,Manager B,1098838
+30848,Employee 848,Retail,Sales Manager,West,2025-06-17,Manager B,1197203
+30849,Employee 849,Sales,Account Executive,West,2018-11-08,Manager E,419150
+30850,Employee 850,Sales,Sales Executive,North,2018-09-27,Manager C,1317771
+30851,Employee 851,Online Sales,Store Manager,East,2025-03-01,Manager A,551174
+30852,Employee 852,Online Sales,Sales Executive,South,2018-12-16,Manager B,1490874
+30853,Employee 853,Sales,Store Manager,East,2021-02-15,Manager E,1346301
+30854,Employee 854,Online Sales,Account Executive,North,2024-09-04,Manager D,851225
+30855,Employee 855,Customer Success,Sales Specialist,West,2019-01-25,Manager E,1242765
+30856,Employee 856,Enterprise,Store Manager,East,2023-02-01,Manager C,1104713
+30857,Employee 857,Online Sales,Account Executive,South,2020-12-07,Manager A,1228376
+30858,Employee 858,Enterprise,Store Manager,Central,2021-05-06,Manager A,322108
+30859,Employee 859,Retail,Sales Executive,West,2025-02-19,Manager A,400607
+30860,Employee 860,Enterprise,Sales Executive,West,2022-12-23,Manager D,1386104
+30861,Employee 861,Online Sales,Account Executive,North,2020-06-13,Manager D,1237698
+30862,Employee 862,Sales,Sales Specialist,East,2025-03-02,Manager C,1038891
+30863,Employee 863,Online Sales,Sales Specialist,West,2022-06-15,Manager D,674822
+30864,Employee 864,Customer Success,Sales Manager,Central,2018-10-06,Manager C,805613
+30865,Employee 865,Retail,Sales Manager,West,2021-01-04,Manager D,771666
+30866,Employee 866,Sales,Sales Specialist,North,2019-11-14,Manager D,821175
+30867,Employee 867,Customer Success,Account Executive,West,2022-12-04,Manager C,1053937
+30868,Employee 868,Customer Success,Sales Executive,North,2024-08-05,Manager D,1209594
+30869,Employee 869,Retail,Sales Manager,South,2018-04-20,Manager B,760403
+30870,Employee 870,Enterprise,Sales Specialist,Central,2023-12-26,Manager D,1300164
+30871,Employee 871,Sales,Sales Specialist,Central,2025-01-09,Manager E,408550
+30872,Employee 872,Retail,Sales Specialist,Central,2025-08-15,Manager B,1269484
+30873,Employee 873,Customer Success,Sales Executive,South,2023-01-26,Manager D,1111768
+30874,Employee 874,Retail,Sales Specialist,West,2020-05-28,Manager A,912701
+30875,Employee 875,Sales,Sales Executive,West,2019-02-11,Manager B,750073
+30876,Employee 876,Enterprise,Sales Specialist,South,2025-03-30,Manager D,745375
+30877,Employee 877,Enterprise,Sales Specialist,Central,2021-03-01,Manager B,732539
+30878,Employee 878,Enterprise,Sales Manager,Central,2020-08-20,Manager B,1434647
+30879,Employee 879,Enterprise,Sales Executive,North,2023-08-18,Manager B,332152
+30880,Employee 880,Sales,Store Manager,West,2023-06-26,Manager A,1061039
+30881,Employee 881,Sales,Sales Executive,East,2024-03-16,Manager D,1486861
+30882,Employee 882,Enterprise,Account Executive,West,2024-10-07,Manager A,952384
+30883,Employee 883,Customer Success,Sales Manager,East,2024-09-21,Manager B,1066997
+30884,Employee 884,Sales,Account Executive,South,2019-04-24,Manager B,1017982
+30885,Employee 885,Retail,Sales Specialist,North,2019-04-20,Manager E,906960
+30886,Employee 886,Retail,Sales Specialist,East,2019-07-30,Manager E,1055839
+30887,Employee 887,Online Sales,Account Executive,Central,2022-10-23,Manager A,1384261
+30888,Employee 888,Enterprise,Sales Manager,Central,2022-06-15,Manager A,1155687
+30889,Employee 889,Customer Success,Sales Specialist,South,2024-07-28,Manager D,1319448
+30890,Employee 890,Customer Success,Account Executive,Central,2024-06-20,Manager B,963821
+30891,Employee 891,Sales,Sales Executive,South,2024-03-27,Manager D,1228030
+30892,Employee 892,Retail,Sales Specialist,East,2018-08-10,Manager E,1350426
+30893,Employee 893,Customer Success,Sales Specialist,South,2023-05-02,Manager A,554337
+30894,Employee 894,Online Sales,Sales Manager,East,2024-07-10,Manager E,1331657
+30895,Employee 895,Customer Success,Sales Executive,East,2025-07-13,Manager A,1123986
+30896,Employee 896,Retail,Sales Executive,West,2020-08-18,Manager B,830709
+30897,Employee 897,Retail,Account Executive,East,2023-12-15,Manager C,1229002
+30898,Employee 898,Online Sales,Sales Manager,East,2021-02-11,Manager E,502243
+30899,Employee 899,Customer Success,Store Manager,West,2019-03-27,Manager C,1138097
+30900,Employee 900,Retail,Store Manager,East,2020-08-09,Manager A,991986
+30901,Employee 901,Retail,Sales Executive,East,2019-12-05,Manager B,1365714
+30902,Employee 902,Retail,Sales Specialist,North,2024-12-27,Manager D,1044887
+30903,Employee 903,Sales,Sales Executive,Central,2019-05-07,Manager C,930847
+30904,Employee 904,Enterprise,Sales Executive,North,2019-01-02,Manager A,928055
+30905,Employee 905,Online Sales,Store Manager,Central,2022-06-12,Manager C,965856
+30906,Employee 906,Online Sales,Store Manager,West,2022-05-27,Manager C,1368693
+30907,Employee 907,Enterprise,Sales Specialist,Central,2022-04-21,Manager A,1242199
+30908,Employee 908,Sales,Account Executive,North,2019-02-19,Manager B,411624
+30909,Employee 909,Enterprise,Account Executive,South,2021-10-27,Manager E,938885
+30910,Employee 910,Retail,Store Manager,North,2025-02-13,Manager D,644902
+30911,Employee 911,Enterprise,Store Manager,East,2018-09-09,Manager A,497415
+30912,Employee 912,Sales,Store Manager,Central,2024-02-13,Manager A,1338947
+30913,Employee 913,Enterprise,Sales Manager,West,2018-12-19,Manager B,1328860
+30914,Employee 914,Online Sales,Sales Specialist,West,2019-10-17,Manager C,1427295
+30915,Employee 915,Customer Success,Sales Manager,Central,2024-11-19,Manager C,772666
+30916,Employee 916,Online Sales,Sales Manager,North,2020-04-13,Manager D,811110
+30917,Employee 917,Sales,Sales Manager,West,2022-01-02,Manager A,1233655
+30918,Employee 918,Retail,Sales Manager,South,2020-12-04,Manager A,531172
+30919,Employee 919,Sales,Sales Manager,West,2022-09-16,Manager D,365179
+30920,Employee 920,Online Sales,Account Executive,West,2021-02-09,Manager E,804395
+30921,Employee 921,Enterprise,Store Manager,West,2021-05-27,Manager A,1055079
+30922,Employee 922,Retail,Account Executive,East,2024-04-07,Manager B,847399
+30923,Employee 923,Enterprise,Sales Specialist,West,2022-04-01,Manager D,553452
+30924,Employee 924,Customer Success,Account Executive,East,2022-04-30,Manager A,923483
+30925,Employee 925,Retail,Account Executive,West,2024-03-05,Manager E,1431169
+30926,Employee 926,Retail,Sales Executive,East,2021-04-13,Manager B,629223
+30927,Employee 927,Sales,Sales Specialist,South,2024-04-25,Manager C,780036
+30928,Employee 928,Online Sales,Sales Executive,South,2023-07-08,Manager B,675152
+30929,Employee 929,Enterprise,Sales Executive,South,2024-10-10,Manager D,652283
+30930,Employee 930,Sales,Sales Specialist,West,2021-07-06,Manager A,1086705
+30931,Employee 931,Online Sales,Account Executive,Central,2022-04-14,Manager A,749582
+30932,Employee 932,Sales,Sales Executive,North,2018-12-26,Manager C,1046152
+30933,Employee 933,Customer Success,Account Executive,North,2018-11-08,Manager E,323649
+30934,Employee 934,Retail,Account Executive,East,2018-10-28,Manager D,1094523
+30935,Employee 935,Enterprise,Sales Executive,West,2022-11-08,Manager D,426624
+30936,Employee 936,Enterprise,Store Manager,North,2020-07-01,Manager C,752741
+30937,Employee 937,Online Sales,Store Manager,South,2020-03-19,Manager A,1347109
+30938,Employee 938,Sales,Sales Executive,North,2022-08-16,Manager C,703748
+30939,Employee 939,Online Sales,Store Manager,North,2021-01-20,Manager E,1137614
+30940,Employee 940,Sales,Sales Manager,North,2019-01-13,Manager D,721846
+30941,Employee 941,Online Sales,Store Manager,West,2022-04-10,Manager D,1382813
+30942,Employee 942,Online Sales,Sales Manager,Central,2022-03-21,Manager B,1441411
+30943,Employee 943,Enterprise,Sales Manager,East,2019-01-27,Manager C,1390816
+30944,Employee 944,Online Sales,Account Executive,North,2020-01-25,Manager D,774294
+30945,Employee 945,Sales,Account Executive,Central,2019-10-27,Manager D,681000
+30946,Employee 946,Customer Success,Sales Manager,South,2023-05-02,Manager E,1027358
+30947,Employee 947,Sales,Sales Specialist,North,2019-11-29,Manager D,1280028
+30948,Employee 948,Online Sales,Store Manager,North,2018-03-21,Manager B,927411
+30949,Employee 949,Online Sales,Account Executive,South,2020-01-17,Manager B,1185688
+30950,Employee 950,Sales,Sales Manager,West,2021-08-06,Manager D,1351466
+30951,Employee 951,Customer Success,Account Executive,South,2023-11-25,Manager E,1202412
+30952,Employee 952,Online Sales,Sales Executive,East,2018-05-27,Manager E,742940
+30953,Employee 953,Enterprise,Sales Specialist,South,2024-10-03,Manager D,599812
+30954,Employee 954,Sales,Sales Executive,Central,2020-07-14,Manager C,820973
+30955,Employee 955,Retail,Store Manager,West,2020-08-17,Manager E,990208
+30956,Employee 956,Sales,Sales Manager,West,2018-02-13,Manager E,1311353
+30957,Employee 957,Online Sales,Store Manager,East,2020-02-13,Manager A,660763
+30958,Employee 958,Retail,Sales Manager,East,2021-08-06,Manager B,493149
+30959,Employee 959,Customer Success,Sales Executive,Central,2022-10-20,Manager B,678623
+30960,Employee 960,Online Sales,Sales Specialist,West,2023-11-18,Manager C,1013153
+30961,Employee 961,Enterprise,Store Manager,Central,2022-01-03,Manager B,578538
+30962,Employee 962,Sales,Sales Executive,North,2018-10-08,Manager B,779889
+30963,Employee 963,Online Sales,Sales Executive,Central,2020-12-31,Manager A,608051
+30964,Employee 964,Enterprise,Account Executive,Central,2023-08-21,Manager A,1482949
+30965,Employee 965,Retail,Sales Specialist,West,2022-11-26,Manager C,915007
+30966,Employee 966,Retail,Account Executive,Central,2022-06-24,Manager E,1165660
+30967,Employee 967,Enterprise,Sales Executive,East,2021-11-24,Manager B,924362
+30968,Employee 968,Sales,Store Manager,South,2021-11-13,Manager B,312667
+30969,Employee 969,Enterprise,Account Executive,West,2025-08-12,Manager B,616674
+30970,Employee 970,Customer Success,Store Manager,West,2022-08-06,Manager E,1307368
+30971,Employee 971,Enterprise,Sales Manager,North,2022-07-30,Manager D,913509
+30972,Employee 972,Online Sales,Sales Executive,South,2020-07-29,Manager D,1143815
+30973,Employee 973,Online Sales,Sales Executive,South,2021-10-04,Manager A,1214003
+30974,Employee 974,Customer Success,Store Manager,East,2023-06-12,Manager E,973153
+30975,Employee 975,Enterprise,Store Manager,North,2024-07-30,Manager A,992960
+30976,Employee 976,Customer Success,Sales Manager,West,2023-12-24,Manager E,583354
+30977,Employee 977,Customer Success,Sales Executive,North,2023-01-29,Manager E,599154
+30978,Employee 978,Retail,Store Manager,Central,2023-12-20,Manager C,479179
+30979,Employee 979,Sales,Sales Executive,West,2018-04-03,Manager E,657122
+30980,Employee 980,Online Sales,Sales Executive,South,2020-01-25,Manager E,1054079
+30981,Employee 981,Online Sales,Account Executive,South,2019-11-12,Manager C,1414120
+30982,Employee 982,Customer Success,Store Manager,West,2023-01-05,Manager D,827928
+30983,Employee 983,Online Sales,Sales Specialist,North,2023-10-11,Manager C,1022413
+30984,Employee 984,Online Sales,Store Manager,West,2019-02-19,Manager C,1333944
+30985,Employee 985,Customer Success,Sales Specialist,East,2019-06-25,Manager B,1112827
+30986,Employee 986,Sales,Store Manager,South,2021-10-19,Manager D,614848
+30987,Employee 987,Enterprise,Sales Specialist,Central,2025-06-04,Manager B,637423
+30988,Employee 988,Retail,Sales Executive,West,2018-01-08,Manager A,1065023
+30989,Employee 989,Customer Success,Sales Executive,North,2024-09-28,Manager B,645372
+30990,Employee 990,Retail,Store Manager,West,2019-06-27,Manager A,598611
+30991,Employee 991,Retail,Sales Specialist,East,2020-01-22,Manager E,1010303
+30992,Employee 992,Customer Success,Store Manager,West,2022-11-04,Manager B,1063580
+30993,Employee 993,Customer Success,Sales Manager,East,2023-08-03,Manager D,603971
+30994,Employee 994,Enterprise,Account Executive,Central,2024-09-14,Manager C,358013
+30995,Employee 995,Enterprise,Sales Executive,Central,2018-01-16,Manager B,1221714
+30996,Employee 996,Customer Success,Sales Manager,North,2018-05-18,Manager B,770048
+30997,Employee 997,Customer Success,Store Manager,East,2021-09-01,Manager E,1059625
+30998,Employee 998,Enterprise,Sales Executive,South,2022-04-13,Manager C,507222
+30999,Employee 999,Online Sales,Account Executive,East,2020-01-01,Manager C,677293
+31000,Employee 1000,Enterprise,Sales Manager,North,2022-11-18,Manager D,1027120

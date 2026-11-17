@@ -1,0 +1,1001 @@
+StoreID,StoreName,StoreType,City,State,Region,OpeningDate,SquareFeet
+40001,Store 1,Retail,Chennai,Telangana,South,2021-01-01,10582
+40002,Store 2,Outlet,Kochi,Karnataka,North,2021-11-18,3257
+40003,Store 3,Flagship,Ahmedabad,Karnataka,West,2021-04-01,6699
+40004,Store 4,Flagship,Kolkata,West Bengal,South,2020-06-02,10695
+40005,Store 5,Outlet,Hyderabad,West Bengal,East,2017-06-16,13475
+40006,Store 6,Retail,Kolkata,Delhi,Central,2019-02-10,6823
+40007,Store 7,Retail,Pune,Maharashtra,West,2020-03-21,1589
+40008,Store 8,Mall,Delhi,Karnataka,South,2024-06-20,6497
+40009,Store 9,Flagship,Hyderabad,West Bengal,South,2023-08-14,9822
+40010,Store 10,Mall,Kochi,West Bengal,South,2022-01-21,13188
+40011,Store 11,Mall,Pune,Telangana,West,2022-10-17,12591
+40012,Store 12,Retail,Chennai,Gujarat,West,2022-09-26,11512
+40013,Store 13,Outlet,Ahmedabad,Rajasthan,East,2021-05-26,2896
+40014,Store 14,Retail,Delhi,Maharashtra,South,2022-11-28,8038
+40015,Store 15,Mall,Delhi,Delhi,North,2015-09-14,8853
+40016,Store 16,Outlet,Kochi,Karnataka,Central,2015-03-18,7294
+40017,Store 17,Retail,Jaipur,Gujarat,West,2019-04-04,13884
+40018,Store 18,Flagship,Chennai,Maharashtra,West,2015-07-11,14418
+40019,Store 19,Outlet,Kochi,Telangana,North,2018-04-02,3548
+40020,Store 20,Online,Hyderabad,Karnataka,South,2016-11-25,14368
+40021,Store 21,Mall,Kolkata,Rajasthan,South,2024-03-05,12774
+40022,Store 22,Retail,Bengaluru,Kerala,East,2021-04-12,10719
+40023,Store 23,Flagship,Kolkata,Tamil Nadu,West,2015-05-27,6030
+40024,Store 24,Flagship,Mumbai,Delhi,Central,2020-12-23,11522
+40025,Store 25,Online,Delhi,West Bengal,East,2022-01-07,8999
+40026,Store 26,Flagship,Jaipur,Rajasthan,South,2018-02-12,13536
+40027,Store 27,Outlet,Delhi,Maharashtra,East,2023-06-17,10813
+40028,Store 28,Flagship,Chennai,Karnataka,West,2024-04-28,14482
+40029,Store 29,Flagship,Kochi,Maharashtra,South,2024-05-25,6578
+40030,Store 30,Mall,Kochi,Karnataka,East,2015-11-22,1692
+40031,Store 31,Flagship,Chennai,Tamil Nadu,West,2019-04-21,7633
+40032,Store 32,Online,Bengaluru,Tamil Nadu,East,2022-06-11,14961
+40033,Store 33,Flagship,Delhi,Maharashtra,East,2019-03-30,9998
+40034,Store 34,Mall,Kolkata,Gujarat,West,2019-08-11,10693
+40035,Store 35,Mall,Hyderabad,Maharashtra,South,2018-02-23,9567
+40036,Store 36,Online,Ahmedabad,Kerala,North,2019-01-05,9094
+40037,Store 37,Online,Kochi,Delhi,West,2021-08-27,1389
+40038,Store 38,Outlet,Kolkata,Maharashtra,East,2015-03-31,6490
+40039,Store 39,Retail,Kolkata,Delhi,South,2022-08-29,1753
+40040,Store 40,Online,Pune,Telangana,North,2021-12-22,5377
+40041,Store 41,Outlet,Mumbai,Rajasthan,Central,2016-04-30,10937
+40042,Store 42,Online,Pune,Karnataka,West,2022-05-24,12161
+40043,Store 43,Retail,Kochi,Tamil Nadu,South,2019-12-30,3742
+40044,Store 44,Online,Kolkata,Maharashtra,West,2018-01-21,9989
+40045,Store 45,Flagship,Ahmedabad,Maharashtra,East,2019-05-14,3783
+40046,Store 46,Outlet,Jaipur,Telangana,South,2019-12-15,3410
+40047,Store 47,Retail,Hyderabad,Telangana,South,2017-01-06,14419
+40048,Store 48,Online,Hyderabad,Kerala,North,2020-10-23,9343
+40049,Store 49,Retail,Kochi,Delhi,Central,2021-01-11,3363
+40050,Store 50,Retail,Chennai,Tamil Nadu,Central,2018-07-10,2546
+40051,Store 51,Flagship,Ahmedabad,Telangana,Central,2019-05-31,1217
+40052,Store 52,Flagship,Kolkata,Gujarat,South,2020-11-24,7704
+40053,Store 53,Retail,Mumbai,Rajasthan,Central,2019-10-29,1967
+40054,Store 54,Outlet,Hyderabad,Rajasthan,South,2019-02-28,8960
+40055,Store 55,Flagship,Hyderabad,Karnataka,Central,2024-02-29,6789
+40056,Store 56,Flagship,Mumbai,Karnataka,North,2023-06-01,9717
+40057,Store 57,Outlet,Ahmedabad,Telangana,South,2018-08-21,3508
+40058,Store 58,Mall,Kochi,Tamil Nadu,East,2021-11-19,2606
+40059,Store 59,Retail,Kochi,Karnataka,Central,2022-10-06,1961
+40060,Store 60,Retail,Mumbai,Rajasthan,South,2016-01-22,1886
+40061,Store 61,Online,Chennai,Rajasthan,East,2020-09-02,1548
+40062,Store 62,Outlet,Delhi,Tamil Nadu,Central,2022-08-30,4251
+40063,Store 63,Online,Bengaluru,Gujarat,East,2015-07-20,12106
+40064,Store 64,Retail,Kolkata,Maharashtra,West,2018-03-27,9301
+40065,Store 65,Online,Jaipur,West Bengal,East,2022-08-24,4130
+40066,Store 66,Mall,Bengaluru,Rajasthan,North,2023-12-19,14009
+40067,Store 67,Online,Kolkata,Karnataka,South,2024-07-05,11535
+40068,Store 68,Online,Bengaluru,Delhi,East,2020-10-12,11797
+40069,Store 69,Outlet,Jaipur,Tamil Nadu,North,2015-05-30,13529
+40070,Store 70,Flagship,Bengaluru,Rajasthan,South,2015-04-07,11312
+40071,Store 71,Outlet,Chennai,Maharashtra,Central,2022-10-10,14373
+40072,Store 72,Flagship,Mumbai,Telangana,North,2022-01-14,5288
+40073,Store 73,Online,Chennai,Karnataka,South,2016-11-09,12914
+40074,Store 74,Online,Chennai,Maharashtra,West,2016-04-02,2119
+40075,Store 75,Flagship,Pune,Delhi,East,2016-05-25,4852
+40076,Store 76,Outlet,Jaipur,Telangana,South,2023-05-29,13433
+40077,Store 77,Retail,Kochi,Kerala,North,2022-04-30,2434
+40078,Store 78,Mall,Hyderabad,Maharashtra,Central,2024-02-02,7762
+40079,Store 79,Retail,Kochi,Maharashtra,East,2016-02-02,5437
+40080,Store 80,Mall,Chennai,Karnataka,East,2021-08-30,1957
+40081,Store 81,Online,Mumbai,Telangana,North,2023-11-07,3921
+40082,Store 82,Retail,Kolkata,Karnataka,South,2020-02-09,8257
+40083,Store 83,Online,Ahmedabad,Tamil Nadu,North,2022-06-02,9645
+40084,Store 84,Mall,Hyderabad,Tamil Nadu,Central,2020-10-08,10293
+40085,Store 85,Retail,Pune,Rajasthan,West,2015-01-25,2406
+40086,Store 86,Flagship,Chennai,Telangana,East,2019-02-09,5138
+40087,Store 87,Retail,Mumbai,Delhi,West,2017-07-03,2010
+40088,Store 88,Flagship,Hyderabad,West Bengal,North,2015-10-20,634
+40089,Store 89,Mall,Chennai,West Bengal,Central,2020-09-15,6162
+40090,Store 90,Flagship,Hyderabad,Karnataka,East,2023-11-25,9513
+40091,Store 91,Outlet,Kochi,Karnataka,East,2015-07-08,5876
+40092,Store 92,Retail,Hyderabad,Maharashtra,Central,2018-02-26,1081
+40093,Store 93,Outlet,Kolkata,Gujarat,North,2021-06-01,3689
+40094,Store 94,Flagship,Bengaluru,Delhi,East,2017-12-30,6775
+40095,Store 95,Online,Hyderabad,Kerala,North,2016-02-12,5658
+40096,Store 96,Outlet,Jaipur,Tamil Nadu,East,2016-10-31,12459
+40097,Store 97,Outlet,Jaipur,Kerala,South,2015-03-28,9170
+40098,Store 98,Online,Kochi,Delhi,East,2024-07-05,14983
+40099,Store 99,Outlet,Bengaluru,Tamil Nadu,West,2019-09-17,3044
+40100,Store 100,Outlet,Jaipur,Maharashtra,South,2024-01-12,5869
+40101,Store 101,Online,Delhi,Rajasthan,North,2021-07-27,1766
+40102,Store 102,Mall,Bengaluru,Maharashtra,North,2018-05-08,791
+40103,Store 103,Mall,Bengaluru,Karnataka,West,2024-01-12,13897
+40104,Store 104,Mall,Ahmedabad,Gujarat,East,2017-06-29,7647
+40105,Store 105,Flagship,Pune,Rajasthan,Central,2016-09-24,10067
+40106,Store 106,Outlet,Pune,West Bengal,Central,2022-09-19,4505
+40107,Store 107,Flagship,Jaipur,Rajasthan,North,2020-04-20,1247
+40108,Store 108,Outlet,Bengaluru,Delhi,West,2019-01-19,13445
+40109,Store 109,Mall,Bengaluru,Tamil Nadu,North,2020-08-20,10047
+40110,Store 110,Retail,Kochi,Rajasthan,North,2024-04-10,10816
+40111,Store 111,Retail,Kolkata,West Bengal,West,2017-09-07,8234
+40112,Store 112,Mall,Ahmedabad,West Bengal,East,2023-08-21,6362
+40113,Store 113,Retail,Pune,Gujarat,Central,2023-09-23,6622
+40114,Store 114,Online,Mumbai,West Bengal,North,2022-04-12,11549
+40115,Store 115,Online,Pune,Maharashtra,East,2016-07-04,3795
+40116,Store 116,Outlet,Kochi,Delhi,South,2015-11-11,5447
+40117,Store 117,Outlet,Mumbai,Gujarat,Central,2016-02-26,4957
+40118,Store 118,Mall,Mumbai,Delhi,West,2021-09-23,8065
+40119,Store 119,Outlet,Hyderabad,West Bengal,West,2018-10-31,14530
+40120,Store 120,Online,Chennai,Tamil Nadu,South,2024-06-17,13880
+40121,Store 121,Retail,Kolkata,West Bengal,Central,2015-01-22,8399
+40122,Store 122,Mall,Mumbai,Delhi,Central,2018-07-30,3402
+40123,Store 123,Retail,Kochi,Telangana,West,2017-07-13,14135
+40124,Store 124,Online,Mumbai,West Bengal,East,2023-06-13,5039
+40125,Store 125,Retail,Delhi,Maharashtra,Central,2016-02-29,5666
+40126,Store 126,Mall,Kochi,Telangana,West,2018-11-29,13341
+40127,Store 127,Online,Hyderabad,Kerala,North,2023-04-22,4318
+40128,Store 128,Mall,Pune,Maharashtra,Central,2024-04-22,7197
+40129,Store 129,Retail,Chennai,Maharashtra,North,2023-10-13,13793
+40130,Store 130,Retail,Delhi,Maharashtra,West,2021-04-06,5109
+40131,Store 131,Flagship,Pune,Gujarat,South,2016-07-24,9552
+40132,Store 132,Retail,Ahmedabad,Maharashtra,Central,2015-12-04,1040
+40133,Store 133,Outlet,Bengaluru,Maharashtra,West,2018-12-09,14936
+40134,Store 134,Flagship,Jaipur,Tamil Nadu,Central,2019-08-04,6574
+40135,Store 135,Outlet,Mumbai,West Bengal,West,2019-12-05,10219
+40136,Store 136,Online,Kochi,Karnataka,East,2015-06-24,7758
+40137,Store 137,Flagship,Kochi,Maharashtra,Central,2021-06-21,6792
+40138,Store 138,Retail,Kochi,Maharashtra,South,2018-10-14,6391
+40139,Store 139,Online,Kolkata,Delhi,East,2016-01-16,757
+40140,Store 140,Online,Kochi,Delhi,South,2023-10-09,4523
+40141,Store 141,Outlet,Jaipur,Gujarat,North,2018-06-03,6019
+40142,Store 142,Outlet,Kolkata,Maharashtra,Central,2017-03-23,5852
+40143,Store 143,Outlet,Jaipur,Maharashtra,East,2019-09-20,4466
+40144,Store 144,Mall,Hyderabad,Kerala,North,2024-02-09,9815
+40145,Store 145,Mall,Jaipur,Tamil Nadu,Central,2022-11-26,12522
+40146,Store 146,Online,Kochi,Rajasthan,Central,2015-12-16,13423
+40147,Store 147,Flagship,Kolkata,Kerala,West,2021-07-31,14597
+40148,Store 148,Online,Mumbai,Maharashtra,South,2021-05-15,9920
+40149,Store 149,Outlet,Delhi,Delhi,Central,2023-06-28,6459
+40150,Store 150,Mall,Mumbai,Tamil Nadu,West,2024-04-02,9869
+40151,Store 151,Retail,Pune,Karnataka,South,2022-02-23,2419
+40152,Store 152,Outlet,Chennai,West Bengal,South,2021-04-08,12344
+40153,Store 153,Mall,Jaipur,Delhi,Central,2018-05-22,8257
+40154,Store 154,Retail,Delhi,Kerala,Central,2023-08-13,2894
+40155,Store 155,Online,Mumbai,West Bengal,West,2024-01-14,6674
+40156,Store 156,Outlet,Kolkata,Tamil Nadu,North,2024-06-30,4865
+40157,Store 157,Retail,Mumbai,Maharashtra,South,2024-02-24,5568
+40158,Store 158,Flagship,Kochi,Karnataka,South,2021-02-24,1233
+40159,Store 159,Retail,Bengaluru,West Bengal,East,2024-03-01,732
+40160,Store 160,Outlet,Chennai,Gujarat,Central,2022-06-30,5569
+40161,Store 161,Retail,Kochi,Delhi,Central,2017-04-20,4874
+40162,Store 162,Flagship,Pune,Karnataka,South,2015-04-22,14982
+40163,Store 163,Online,Jaipur,Telangana,North,2024-05-25,4307
+40164,Store 164,Retail,Chennai,Gujarat,South,2019-02-04,5275
+40165,Store 165,Mall,Ahmedabad,Maharashtra,South,2023-05-16,13770
+40166,Store 166,Mall,Ahmedabad,Karnataka,Central,2017-10-05,12966
+40167,Store 167,Flagship,Pune,Maharashtra,North,2018-06-16,1324
+40168,Store 168,Outlet,Mumbai,Maharashtra,Central,2022-11-24,1743
+40169,Store 169,Mall,Kochi,Gujarat,West,2020-01-13,1877
+40170,Store 170,Mall,Bengaluru,Gujarat,North,2021-06-29,7165
+40171,Store 171,Retail,Hyderabad,Tamil Nadu,West,2018-01-25,8802
+40172,Store 172,Mall,Kolkata,West Bengal,East,2020-11-20,5596
+40173,Store 173,Mall,Ahmedabad,Karnataka,North,2019-09-01,688
+40174,Store 174,Online,Pune,Maharashtra,South,2023-12-05,3422
+40175,Store 175,Mall,Chennai,Delhi,South,2019-09-19,9411
+40176,Store 176,Online,Chennai,Rajasthan,South,2015-11-08,5901
+40177,Store 177,Outlet,Kochi,Tamil Nadu,East,2022-01-22,2291
+40178,Store 178,Flagship,Hyderabad,Rajasthan,West,2024-02-21,9943
+40179,Store 179,Online,Jaipur,Maharashtra,North,2023-06-17,9393
+40180,Store 180,Retail,Bengaluru,Tamil Nadu,North,2015-12-19,7609
+40181,Store 181,Mall,Kolkata,Kerala,West,2024-07-26,14132
+40182,Store 182,Online,Kolkata,Kerala,East,2018-04-29,12742
+40183,Store 183,Mall,Kolkata,Tamil Nadu,South,2022-12-28,1076
+40184,Store 184,Online,Chennai,Telangana,South,2021-01-14,13621
+40185,Store 185,Mall,Kolkata,West Bengal,North,2024-04-28,1219
+40186,Store 186,Online,Chennai,Maharashtra,Central,2018-04-10,7487
+40187,Store 187,Flagship,Pune,Telangana,Central,2020-10-28,13574
+40188,Store 188,Mall,Jaipur,Rajasthan,East,2021-07-16,14735
+40189,Store 189,Outlet,Kolkata,Rajasthan,South,2016-06-24,827
+40190,Store 190,Retail,Ahmedabad,Tamil Nadu,South,2022-06-06,1544
+40191,Store 191,Outlet,Kochi,Telangana,South,2016-05-16,3998
+40192,Store 192,Flagship,Delhi,Rajasthan,Central,2022-12-09,4506
+40193,Store 193,Mall,Pune,Delhi,North,2016-03-17,4551
+40194,Store 194,Outlet,Kolkata,Karnataka,Central,2016-09-19,6542
+40195,Store 195,Mall,Kolkata,Karnataka,South,2019-09-28,5122
+40196,Store 196,Outlet,Mumbai,Maharashtra,South,2016-09-29,8949
+40197,Store 197,Online,Ahmedabad,Rajasthan,Central,2015-09-26,12882
+40198,Store 198,Outlet,Mumbai,Karnataka,Central,2015-07-03,8415
+40199,Store 199,Mall,Chennai,Telangana,Central,2017-09-28,5312
+40200,Store 200,Mall,Ahmedabad,West Bengal,South,2019-09-14,8735
+40201,Store 201,Flagship,Delhi,West Bengal,East,2015-06-04,9496
+40202,Store 202,Outlet,Mumbai,Rajasthan,South,2016-04-26,13495
+40203,Store 203,Retail,Kolkata,Kerala,North,2020-11-10,14237
+40204,Store 204,Flagship,Delhi,Tamil Nadu,South,2018-01-20,4524
+40205,Store 205,Mall,Jaipur,Delhi,North,2022-04-06,13814
+40206,Store 206,Flagship,Jaipur,Karnataka,North,2023-01-20,12344
+40207,Store 207,Mall,Hyderabad,Rajasthan,East,2015-04-17,2358
+40208,Store 208,Mall,Ahmedabad,Telangana,West,2024-02-03,8591
+40209,Store 209,Online,Delhi,Rajasthan,South,2021-07-20,2706
+40210,Store 210,Retail,Kochi,Telangana,East,2022-11-17,7612
+40211,Store 211,Retail,Delhi,Gujarat,West,2019-08-01,1148
+40212,Store 212,Online,Jaipur,West Bengal,Central,2015-01-03,4841
+40213,Store 213,Online,Ahmedabad,Gujarat,East,2023-06-26,9027
+40214,Store 214,Mall,Hyderabad,West Bengal,South,2020-06-11,4908
+40215,Store 215,Mall,Jaipur,Telangana,West,2015-05-10,646
+40216,Store 216,Mall,Kolkata,Maharashtra,North,2016-08-06,6132
+40217,Store 217,Online,Kolkata,Karnataka,North,2016-12-22,8346
+40218,Store 218,Mall,Hyderabad,Tamil Nadu,South,2018-08-08,11570
+40219,Store 219,Flagship,Delhi,Rajasthan,South,2019-03-29,2478
+40220,Store 220,Outlet,Kolkata,West Bengal,North,2019-02-06,7412
+40221,Store 221,Outlet,Bengaluru,West Bengal,North,2023-04-27,3381
+40222,Store 222,Flagship,Hyderabad,Delhi,Central,2024-01-14,2730
+40223,Store 223,Outlet,Mumbai,Tamil Nadu,West,2021-07-03,2268
+40224,Store 224,Retail,Bengaluru,Tamil Nadu,West,2021-01-27,11518
+40225,Store 225,Retail,Bengaluru,Maharashtra,North,2023-04-13,13833
+40226,Store 226,Online,Bengaluru,West Bengal,West,2017-07-25,10119
+40227,Store 227,Outlet,Kochi,Telangana,South,2020-05-07,5985
+40228,Store 228,Retail,Ahmedabad,Tamil Nadu,West,2021-02-27,14263
+40229,Store 229,Online,Kochi,Maharashtra,East,2017-09-26,7708
+40230,Store 230,Online,Bengaluru,Karnataka,South,2024-02-14,8176
+40231,Store 231,Mall,Kochi,Kerala,South,2017-04-04,9700
+40232,Store 232,Flagship,Pune,Delhi,North,2015-07-27,9989
+40233,Store 233,Flagship,Ahmedabad,West Bengal,Central,2018-02-05,7636
+40234,Store 234,Retail,Jaipur,Gujarat,East,2022-10-26,7450
+40235,Store 235,Outlet,Delhi,Maharashtra,West,2018-08-03,5109
+40236,Store 236,Mall,Ahmedabad,Delhi,Central,2017-01-29,10371
+40237,Store 237,Mall,Kolkata,Tamil Nadu,North,2023-05-11,10249
+40238,Store 238,Outlet,Chennai,Rajasthan,South,2016-06-19,6823
+40239,Store 239,Retail,Chennai,West Bengal,North,2016-07-09,10825
+40240,Store 240,Online,Delhi,Tamil Nadu,North,2023-08-13,2498
+40241,Store 241,Flagship,Mumbai,Rajasthan,Central,2018-01-29,6535
+40242,Store 242,Flagship,Kochi,Tamil Nadu,West,2015-01-07,14806
+40243,Store 243,Mall,Ahmedabad,Rajasthan,East,2019-02-26,11138
+40244,Store 244,Mall,Pune,Gujarat,South,2022-02-06,10945
+40245,Store 245,Mall,Kolkata,Maharashtra,East,2022-04-03,13016
+40246,Store 246,Mall,Chennai,Telangana,East,2015-11-02,9325
+40247,Store 247,Flagship,Delhi,Karnataka,South,2017-09-11,10107
+40248,Store 248,Online,Kochi,Delhi,North,2020-12-02,7480
+40249,Store 249,Flagship,Kochi,Karnataka,East,2021-04-29,12480
+40250,Store 250,Flagship,Delhi,Maharashtra,East,2020-12-13,10815
+40251,Store 251,Retail,Jaipur,Karnataka,West,2018-03-28,8091
+40252,Store 252,Mall,Chennai,West Bengal,South,2023-04-08,2338
+40253,Store 253,Online,Ahmedabad,Tamil Nadu,North,2015-10-01,12187
+40254,Store 254,Outlet,Mumbai,Tamil Nadu,Central,2022-11-19,5228
+40255,Store 255,Mall,Chennai,Gujarat,East,2024-01-03,5705
+40256,Store 256,Outlet,Mumbai,Rajasthan,West,2021-07-26,2308
+40257,Store 257,Retail,Jaipur,Maharashtra,North,2019-02-12,3647
+40258,Store 258,Flagship,Hyderabad,Tamil Nadu,North,2018-08-24,2327
+40259,Store 259,Outlet,Delhi,West Bengal,North,2019-03-06,1913
+40260,Store 260,Mall,Kolkata,Tamil Nadu,West,2016-08-05,809
+40261,Store 261,Mall,Kochi,Tamil Nadu,South,2017-02-16,4773
+40262,Store 262,Online,Hyderabad,Delhi,West,2021-02-02,11460
+40263,Store 263,Online,Ahmedabad,Maharashtra,Central,2020-04-09,13026
+40264,Store 264,Mall,Kolkata,Maharashtra,West,2019-10-06,3795
+40265,Store 265,Retail,Chennai,West Bengal,Central,2019-07-20,6645
+40266,Store 266,Mall,Jaipur,Rajasthan,Central,2015-09-30,12564
+40267,Store 267,Online,Mumbai,Tamil Nadu,West,2023-04-25,10749
+40268,Store 268,Mall,Jaipur,Karnataka,Central,2024-02-27,13614
+40269,Store 269,Mall,Chennai,West Bengal,West,2017-05-08,6596
+40270,Store 270,Flagship,Bengaluru,Kerala,South,2018-01-05,2944
+40271,Store 271,Mall,Kochi,Maharashtra,North,2021-01-15,2576
+40272,Store 272,Mall,Ahmedabad,Karnataka,South,2015-01-08,10778
+40273,Store 273,Mall,Jaipur,Karnataka,East,2015-12-24,880
+40274,Store 274,Online,Mumbai,Maharashtra,South,2023-08-22,7174
+40275,Store 275,Mall,Ahmedabad,Rajasthan,North,2016-08-26,5622
+40276,Store 276,Outlet,Kolkata,Karnataka,East,2020-07-12,13824
+40277,Store 277,Mall,Kochi,Gujarat,East,2023-06-16,14973
+40278,Store 278,Flagship,Hyderabad,Gujarat,Central,2022-01-09,7524
+40279,Store 279,Online,Kochi,Karnataka,Central,2017-08-09,8912
+40280,Store 280,Online,Ahmedabad,Delhi,West,2016-06-18,5993
+40281,Store 281,Flagship,Delhi,Karnataka,Central,2021-11-17,11764
+40282,Store 282,Flagship,Delhi,Maharashtra,South,2018-11-17,4771
+40283,Store 283,Mall,Kochi,Maharashtra,Central,2024-04-09,11293
+40284,Store 284,Outlet,Kolkata,Kerala,Central,2021-03-07,13602
+40285,Store 285,Mall,Mumbai,Karnataka,North,2015-02-08,2989
+40286,Store 286,Flagship,Mumbai,West Bengal,West,2017-05-28,3779
+40287,Store 287,Mall,Jaipur,Gujarat,East,2022-02-18,5983
+40288,Store 288,Outlet,Mumbai,Maharashtra,South,2021-09-21,12501
+40289,Store 289,Retail,Delhi,Delhi,East,2022-02-09,9793
+40290,Store 290,Retail,Kolkata,Gujarat,Central,2017-03-28,3315
+40291,Store 291,Mall,Jaipur,Karnataka,Central,2017-05-22,5836
+40292,Store 292,Flagship,Hyderabad,Tamil Nadu,South,2017-01-01,9829
+40293,Store 293,Flagship,Kolkata,Delhi,East,2021-09-01,14488
+40294,Store 294,Online,Ahmedabad,Karnataka,East,2015-02-10,7040
+40295,Store 295,Flagship,Kolkata,Tamil Nadu,West,2022-10-20,1580
+40296,Store 296,Retail,Kolkata,Tamil Nadu,East,2017-09-13,2016
+40297,Store 297,Online,Delhi,Telangana,South,2019-09-05,917
+40298,Store 298,Online,Kolkata,Rajasthan,Central,2017-05-13,2326
+40299,Store 299,Online,Bengaluru,Karnataka,South,2019-01-28,6482
+40300,Store 300,Mall,Ahmedabad,Tamil Nadu,South,2022-04-29,4581
+40301,Store 301,Outlet,Ahmedabad,Maharashtra,South,2016-11-25,4864
+40302,Store 302,Online,Ahmedabad,Gujarat,South,2020-06-16,11616
+40303,Store 303,Retail,Bengaluru,Maharashtra,East,2015-07-20,7418
+40304,Store 304,Flagship,Kochi,Gujarat,West,2016-09-14,11069
+40305,Store 305,Online,Chennai,Maharashtra,North,2021-07-23,8358
+40306,Store 306,Online,Bengaluru,Tamil Nadu,Central,2020-06-11,3474
+40307,Store 307,Mall,Pune,Karnataka,South,2020-11-10,14249
+40308,Store 308,Online,Pune,Telangana,North,2017-02-28,7404
+40309,Store 309,Online,Chennai,Kerala,West,2016-12-22,12622
+40310,Store 310,Online,Ahmedabad,Gujarat,South,2019-01-29,1906
+40311,Store 311,Outlet,Pune,Karnataka,West,2016-03-27,12817
+40312,Store 312,Flagship,Delhi,Telangana,Central,2023-07-06,10881
+40313,Store 313,Online,Kolkata,Rajasthan,West,2017-07-26,4124
+40314,Store 314,Outlet,Delhi,Maharashtra,West,2021-11-22,12002
+40315,Store 315,Outlet,Mumbai,Gujarat,East,2016-07-02,11267
+40316,Store 316,Outlet,Delhi,Telangana,South,2021-03-28,13455
+40317,Store 317,Outlet,Kochi,Tamil Nadu,West,2016-12-14,3540
+40318,Store 318,Flagship,Pune,Rajasthan,South,2017-09-12,13343
+40319,Store 319,Online,Hyderabad,West Bengal,Central,2018-12-13,11550
+40320,Store 320,Retail,Hyderabad,Delhi,East,2016-03-12,5399
+40321,Store 321,Outlet,Jaipur,Karnataka,East,2016-03-12,5580
+40322,Store 322,Online,Kolkata,Delhi,West,2022-03-20,4190
+40323,Store 323,Mall,Ahmedabad,Tamil Nadu,North,2018-04-24,7412
+40324,Store 324,Outlet,Kolkata,Maharashtra,East,2020-06-10,13500
+40325,Store 325,Flagship,Kochi,Rajasthan,West,2021-03-12,12646
+40326,Store 326,Online,Kolkata,Karnataka,West,2020-12-19,2617
+40327,Store 327,Outlet,Chennai,Maharashtra,South,2021-01-05,2404
+40328,Store 328,Mall,Delhi,Kerala,North,2024-05-05,1360
+40329,Store 329,Flagship,Bengaluru,Telangana,North,2021-01-16,9403
+40330,Store 330,Online,Ahmedabad,Maharashtra,Central,2018-05-04,5056
+40331,Store 331,Mall,Kochi,Karnataka,South,2017-09-23,11532
+40332,Store 332,Online,Kolkata,Gujarat,North,2022-09-03,11524
+40333,Store 333,Flagship,Chennai,Kerala,East,2019-01-15,3366
+40334,Store 334,Mall,Mumbai,Gujarat,Central,2020-05-10,10565
+40335,Store 335,Mall,Kolkata,Maharashtra,South,2022-10-23,11585
+40336,Store 336,Flagship,Delhi,Telangana,North,2017-04-03,14812
+40337,Store 337,Retail,Kolkata,Gujarat,North,2017-02-17,10978
+40338,Store 338,Outlet,Hyderabad,Gujarat,North,2015-07-05,5713
+40339,Store 339,Outlet,Jaipur,Tamil Nadu,South,2015-09-11,14995
+40340,Store 340,Online,Kochi,Kerala,North,2020-11-26,4499
+40341,Store 341,Online,Delhi,Delhi,West,2019-10-29,12176
+40342,Store 342,Online,Hyderabad,Gujarat,South,2017-11-07,5984
+40343,Store 343,Retail,Kochi,Tamil Nadu,East,2017-01-10,14057
+40344,Store 344,Outlet,Bengaluru,Gujarat,East,2021-08-31,11842
+40345,Store 345,Outlet,Pune,Maharashtra,West,2015-10-26,9195
+40346,Store 346,Retail,Mumbai,Tamil Nadu,West,2021-09-18,3607
+40347,Store 347,Outlet,Chennai,Rajasthan,East,2023-09-03,3232
+40348,Store 348,Mall,Bengaluru,Rajasthan,Central,2019-05-14,14242
+40349,Store 349,Online,Mumbai,Rajasthan,North,2019-09-28,12124
+40350,Store 350,Retail,Chennai,Karnataka,East,2020-02-21,7931
+40351,Store 351,Online,Bengaluru,Tamil Nadu,South,2015-11-30,13222
+40352,Store 352,Online,Ahmedabad,Gujarat,East,2021-01-01,11855
+40353,Store 353,Retail,Pune,Rajasthan,North,2018-07-02,6121
+40354,Store 354,Outlet,Chennai,Telangana,South,2019-06-29,12495
+40355,Store 355,Mall,Chennai,Gujarat,Central,2015-03-22,12042
+40356,Store 356,Online,Jaipur,Maharashtra,Central,2023-05-29,7442
+40357,Store 357,Flagship,Jaipur,Delhi,East,2018-03-12,782
+40358,Store 358,Online,Bengaluru,Rajasthan,North,2015-09-23,11249
+40359,Store 359,Outlet,Kolkata,Tamil Nadu,West,2022-06-30,5424
+40360,Store 360,Online,Chennai,West Bengal,South,2024-05-22,5788
+40361,Store 361,Online,Ahmedabad,Delhi,South,2019-12-25,10847
+40362,Store 362,Mall,Ahmedabad,Karnataka,North,2015-04-28,12258
+40363,Store 363,Retail,Ahmedabad,Tamil Nadu,South,2024-07-03,1774
+40364,Store 364,Outlet,Kolkata,Gujarat,South,2016-12-29,12446
+40365,Store 365,Retail,Delhi,Telangana,North,2017-04-21,4746
+40366,Store 366,Online,Jaipur,Kerala,East,2021-10-15,8709
+40367,Store 367,Outlet,Ahmedabad,Gujarat,Central,2018-03-07,13093
+40368,Store 368,Flagship,Delhi,West Bengal,North,2015-10-25,3663
+40369,Store 369,Outlet,Delhi,Rajasthan,North,2021-07-17,3703
+40370,Store 370,Online,Pune,Rajasthan,North,2017-07-06,14568
+40371,Store 371,Flagship,Hyderabad,Gujarat,East,2023-04-04,5908
+40372,Store 372,Outlet,Kolkata,Rajasthan,Central,2016-06-22,14231
+40373,Store 373,Mall,Chennai,Gujarat,South,2023-09-07,5678
+40374,Store 374,Retail,Mumbai,Rajasthan,North,2021-12-07,9487
+40375,Store 375,Retail,Hyderabad,Maharashtra,North,2017-04-18,7898
+40376,Store 376,Online,Jaipur,Telangana,West,2020-07-19,14766
+40377,Store 377,Online,Jaipur,Rajasthan,South,2023-12-29,8478
+40378,Store 378,Online,Hyderabad,Tamil Nadu,South,2015-08-14,7790
+40379,Store 379,Flagship,Ahmedabad,Karnataka,South,2022-11-09,7261
+40380,Store 380,Outlet,Bengaluru,Rajasthan,Central,2019-05-30,5944
+40381,Store 381,Retail,Kochi,West Bengal,South,2024-02-05,6881
+40382,Store 382,Flagship,Ahmedabad,Kerala,West,2016-12-30,7177
+40383,Store 383,Outlet,Bengaluru,Karnataka,West,2021-11-23,11572
+40384,Store 384,Retail,Ahmedabad,Maharashtra,North,2024-04-09,1165
+40385,Store 385,Retail,Chennai,Maharashtra,South,2018-04-18,7764
+40386,Store 386,Mall,Jaipur,Maharashtra,Central,2016-01-13,8462
+40387,Store 387,Online,Delhi,Maharashtra,Central,2018-10-04,11421
+40388,Store 388,Outlet,Jaipur,Telangana,East,2020-09-24,10160
+40389,Store 389,Online,Jaipur,Delhi,North,2021-01-14,6762
+40390,Store 390,Outlet,Delhi,Gujarat,South,2019-08-14,2088
+40391,Store 391,Flagship,Chennai,Karnataka,Central,2023-12-09,5894
+40392,Store 392,Outlet,Kolkata,Rajasthan,West,2020-07-16,4206
+40393,Store 393,Flagship,Delhi,Maharashtra,North,2021-02-20,3459
+40394,Store 394,Outlet,Kochi,Maharashtra,West,2024-03-01,10957
+40395,Store 395,Flagship,Mumbai,Kerala,North,2024-01-01,7432
+40396,Store 396,Mall,Delhi,Maharashtra,South,2018-04-09,12007
+40397,Store 397,Retail,Pune,Kerala,East,2017-09-28,2506
+40398,Store 398,Outlet,Chennai,Telangana,South,2022-03-05,14795
+40399,Store 399,Outlet,Bengaluru,Gujarat,West,2020-01-13,7363
+40400,Store 400,Mall,Kochi,Rajasthan,North,2019-04-16,4171
+40401,Store 401,Outlet,Delhi,Delhi,Central,2021-09-10,5761
+40402,Store 402,Mall,Mumbai,Telangana,East,2021-05-01,12700
+40403,Store 403,Online,Pune,Rajasthan,South,2023-10-04,10794
+40404,Store 404,Flagship,Kochi,Maharashtra,Central,2018-07-03,2995
+40405,Store 405,Outlet,Bengaluru,Maharashtra,East,2022-03-24,14856
+40406,Store 406,Flagship,Chennai,Telangana,East,2017-03-05,2397
+40407,Store 407,Online,Kochi,West Bengal,North,2023-12-24,4492
+40408,Store 408,Outlet,Jaipur,Rajasthan,Central,2015-10-20,11073
+40409,Store 409,Outlet,Mumbai,Maharashtra,Central,2022-03-10,8180
+40410,Store 410,Retail,Kolkata,Tamil Nadu,North,2015-12-23,6965
+40411,Store 411,Online,Jaipur,Rajasthan,Central,2023-06-08,13931
+40412,Store 412,Online,Kolkata,Maharashtra,West,2024-03-12,12011
+40413,Store 413,Mall,Kolkata,Kerala,East,2022-11-02,14451
+40414,Store 414,Online,Ahmedabad,Telangana,Central,2022-07-22,4597
+40415,Store 415,Flagship,Chennai,Delhi,East,2019-08-01,12834
+40416,Store 416,Online,Bengaluru,Kerala,West,2017-05-07,3591
+40417,Store 417,Online,Kolkata,West Bengal,North,2024-06-11,12185
+40418,Store 418,Online,Kolkata,Tamil Nadu,North,2020-01-27,8457
+40419,Store 419,Outlet,Jaipur,Telangana,East,2022-10-28,9169
+40420,Store 420,Flagship,Kochi,Tamil Nadu,South,2021-11-04,2172
+40421,Store 421,Retail,Hyderabad,Gujarat,Central,2021-09-20,13248
+40422,Store 422,Online,Kochi,Maharashtra,North,2018-05-18,4541
+40423,Store 423,Outlet,Bengaluru,Maharashtra,West,2019-02-02,9172
+40424,Store 424,Mall,Kochi,Telangana,West,2019-03-20,2910
+40425,Store 425,Mall,Mumbai,Tamil Nadu,Central,2020-10-09,13926
+40426,Store 426,Flagship,Kolkata,Rajasthan,Central,2021-11-19,5140
+40427,Store 427,Flagship,Kolkata,Delhi,Central,2016-11-26,11559
+40428,Store 428,Online,Kolkata,Gujarat,South,2017-03-07,11599
+40429,Store 429,Flagship,Kochi,Kerala,West,2015-06-19,8479
+40430,Store 430,Flagship,Pune,Tamil Nadu,North,2020-01-17,2250
+40431,Store 431,Mall,Mumbai,Kerala,East,2021-05-29,4558
+40432,Store 432,Mall,Kolkata,Rajasthan,South,2017-01-05,9372
+40433,Store 433,Online,Delhi,Gujarat,South,2021-10-27,8270
+40434,Store 434,Outlet,Kolkata,Telangana,East,2015-01-11,8979
+40435,Store 435,Flagship,Hyderabad,Telangana,North,2023-04-21,4116
+40436,Store 436,Outlet,Bengaluru,Rajasthan,East,2021-08-12,8302
+40437,Store 437,Mall,Kolkata,Tamil Nadu,East,2021-07-19,1737
+40438,Store 438,Outlet,Bengaluru,Karnataka,South,2021-10-11,7521
+40439,Store 439,Outlet,Hyderabad,Gujarat,East,2018-06-09,1825
+40440,Store 440,Online,Kolkata,Telangana,West,2024-07-17,10125
+40441,Store 441,Flagship,Jaipur,Kerala,West,2022-02-25,8718
+40442,Store 442,Flagship,Hyderabad,Rajasthan,North,2016-09-25,12851
+40443,Store 443,Retail,Delhi,Maharashtra,East,2023-11-03,7199
+40444,Store 444,Outlet,Hyderabad,Kerala,West,2022-02-01,2849
+40445,Store 445,Outlet,Pune,Kerala,West,2017-12-24,3910
+40446,Store 446,Flagship,Mumbai,Gujarat,East,2024-01-31,12304
+40447,Store 447,Online,Pune,Delhi,North,2017-05-19,14394
+40448,Store 448,Outlet,Jaipur,West Bengal,North,2021-03-06,1391
+40449,Store 449,Outlet,Bengaluru,Rajasthan,South,2021-06-03,10308
+40450,Store 450,Mall,Kochi,Rajasthan,West,2024-03-24,7490
+40451,Store 451,Online,Pune,Tamil Nadu,West,2020-06-18,4238
+40452,Store 452,Outlet,Kolkata,Gujarat,West,2024-07-12,7916
+40453,Store 453,Outlet,Kolkata,Telangana,South,2017-09-22,14068
+40454,Store 454,Mall,Kochi,Delhi,East,2022-09-06,3364
+40455,Store 455,Online,Kolkata,West Bengal,North,2017-05-08,12637
+40456,Store 456,Flagship,Jaipur,Tamil Nadu,West,2024-07-29,1800
+40457,Store 457,Mall,Delhi,Delhi,South,2022-04-27,10949
+40458,Store 458,Flagship,Delhi,West Bengal,East,2020-12-30,1586
+40459,Store 459,Retail,Kolkata,Telangana,East,2015-08-21,1379
+40460,Store 460,Flagship,Mumbai,Maharashtra,South,2019-10-06,1039
+40461,Store 461,Retail,Mumbai,Telangana,North,2016-05-19,12169
+40462,Store 462,Outlet,Delhi,Rajasthan,Central,2023-10-17,8817
+40463,Store 463,Outlet,Delhi,Rajasthan,North,2018-08-19,10510
+40464,Store 464,Flagship,Bengaluru,Tamil Nadu,Central,2022-12-18,2754
+40465,Store 465,Outlet,Ahmedabad,Gujarat,North,2023-09-07,13861
+40466,Store 466,Outlet,Pune,Maharashtra,North,2016-01-21,12226
+40467,Store 467,Online,Delhi,Kerala,Central,2022-04-11,7585
+40468,Store 468,Mall,Delhi,Delhi,Central,2017-11-25,13534
+40469,Store 469,Flagship,Kochi,Rajasthan,Central,2016-01-16,2573
+40470,Store 470,Mall,Kochi,Rajasthan,West,2017-07-01,4739
+40471,Store 471,Flagship,Mumbai,Maharashtra,East,2020-04-08,1202
+40472,Store 472,Flagship,Kolkata,Karnataka,North,2023-03-13,2884
+40473,Store 473,Flagship,Hyderabad,Gujarat,East,2021-08-17,12701
+40474,Store 474,Online,Hyderabad,Rajasthan,East,2017-03-27,6439
+40475,Store 475,Flagship,Pune,Gujarat,West,2017-11-01,9857
+40476,Store 476,Outlet,Kochi,Karnataka,North,2017-11-30,13282
+40477,Store 477,Retail,Pune,West Bengal,North,2022-01-20,11578
+40478,Store 478,Online,Kochi,Telangana,East,2019-12-21,6297
+40479,Store 479,Outlet,Jaipur,Kerala,Central,2015-03-25,5550
+40480,Store 480,Outlet,Ahmedabad,Rajasthan,Central,2015-09-24,2070
+40481,Store 481,Retail,Ahmedabad,Gujarat,East,2015-09-22,12530
+40482,Store 482,Mall,Ahmedabad,Tamil Nadu,South,2024-03-18,14777
+40483,Store 483,Mall,Delhi,Telangana,East,2019-11-02,7752
+40484,Store 484,Online,Kochi,Rajasthan,East,2019-09-15,7745
+40485,Store 485,Flagship,Kochi,Maharashtra,West,2022-04-17,12801
+40486,Store 486,Flagship,Kolkata,Maharashtra,South,2016-10-28,5464
+40487,Store 487,Mall,Ahmedabad,Karnataka,South,2015-04-21,6394
+40488,Store 488,Online,Jaipur,Maharashtra,East,2017-08-05,13457
+40489,Store 489,Online,Mumbai,Karnataka,Central,2016-12-30,6000
+40490,Store 490,Online,Bengaluru,Maharashtra,Central,2022-08-25,13947
+40491,Store 491,Outlet,Kochi,Maharashtra,West,2022-11-04,2840
+40492,Store 492,Outlet,Pune,Rajasthan,South,2021-01-28,7703
+40493,Store 493,Retail,Ahmedabad,Tamil Nadu,East,2023-09-20,7601
+40494,Store 494,Online,Pune,Karnataka,East,2019-06-15,4947
+40495,Store 495,Flagship,Pune,West Bengal,Central,2017-04-21,14463
+40496,Store 496,Online,Bengaluru,Telangana,South,2018-03-06,7498
+40497,Store 497,Flagship,Delhi,Delhi,Central,2016-05-10,13245
+40498,Store 498,Mall,Bengaluru,West Bengal,West,2023-08-19,3679
+40499,Store 499,Retail,Chennai,Kerala,West,2020-10-15,5559
+40500,Store 500,Retail,Bengaluru,Kerala,West,2022-05-27,7434
+40501,Store 501,Flagship,Jaipur,Tamil Nadu,West,2017-09-12,8677
+40502,Store 502,Outlet,Delhi,Rajasthan,West,2021-11-18,3826
+40503,Store 503,Outlet,Ahmedabad,Delhi,West,2018-03-02,5040
+40504,Store 504,Online,Bengaluru,Rajasthan,South,2019-04-11,9521
+40505,Store 505,Mall,Bengaluru,Kerala,East,2021-03-31,4538
+40506,Store 506,Online,Chennai,Maharashtra,East,2024-05-27,11518
+40507,Store 507,Mall,Ahmedabad,Maharashtra,Central,2020-05-07,7418
+40508,Store 508,Online,Jaipur,Maharashtra,West,2021-10-21,14556
+40509,Store 509,Retail,Pune,Karnataka,Central,2020-09-12,3946
+40510,Store 510,Outlet,Kolkata,Rajasthan,West,2019-01-22,12717
+40511,Store 511,Retail,Kolkata,Gujarat,East,2023-12-08,7607
+40512,Store 512,Retail,Kolkata,Rajasthan,East,2024-03-15,1748
+40513,Store 513,Online,Ahmedabad,Maharashtra,West,2017-12-22,10724
+40514,Store 514,Mall,Bengaluru,Rajasthan,Central,2023-08-02,3567
+40515,Store 515,Outlet,Chennai,Telangana,South,2019-04-29,2508
+40516,Store 516,Outlet,Jaipur,Rajasthan,South,2022-02-02,8209
+40517,Store 517,Outlet,Chennai,Kerala,South,2019-12-15,11895
+40518,Store 518,Retail,Mumbai,Rajasthan,North,2022-05-08,4235
+40519,Store 519,Online,Kolkata,Kerala,West,2023-05-09,9534
+40520,Store 520,Retail,Hyderabad,Maharashtra,Central,2019-01-22,708
+40521,Store 521,Outlet,Pune,Telangana,West,2021-09-18,3176
+40522,Store 522,Retail,Pune,Delhi,North,2019-11-11,11444
+40523,Store 523,Online,Kolkata,Maharashtra,South,2022-08-28,686
+40524,Store 524,Outlet,Kochi,Kerala,Central,2016-11-01,5687
+40525,Store 525,Outlet,Kolkata,West Bengal,North,2021-12-26,7863
+40526,Store 526,Flagship,Kochi,Maharashtra,West,2020-09-14,1458
+40527,Store 527,Mall,Bengaluru,Rajasthan,East,2019-04-29,14689
+40528,Store 528,Outlet,Ahmedabad,Maharashtra,Central,2018-07-18,7878
+40529,Store 529,Mall,Chennai,West Bengal,East,2021-09-21,5409
+40530,Store 530,Mall,Ahmedabad,Maharashtra,East,2018-05-01,14669
+40531,Store 531,Outlet,Bengaluru,Delhi,West,2015-04-26,8598
+40532,Store 532,Mall,Pune,West Bengal,Central,2024-02-01,10338
+40533,Store 533,Outlet,Bengaluru,Rajasthan,East,2019-04-17,1809
+40534,Store 534,Online,Kolkata,Rajasthan,West,2016-07-30,2802
+40535,Store 535,Mall,Delhi,Rajasthan,Central,2017-02-28,1155
+40536,Store 536,Flagship,Mumbai,Rajasthan,East,2022-12-14,7957
+40537,Store 537,Outlet,Bengaluru,Tamil Nadu,West,2018-03-06,12627
+40538,Store 538,Flagship,Delhi,Karnataka,South,2017-09-12,13574
+40539,Store 539,Mall,Kochi,Kerala,South,2019-09-02,8827
+40540,Store 540,Flagship,Kochi,Tamil Nadu,North,2015-04-11,1286
+40541,Store 541,Mall,Bengaluru,West Bengal,West,2020-05-14,9579
+40542,Store 542,Flagship,Kochi,Karnataka,South,2015-05-22,9749
+40543,Store 543,Retail,Pune,Rajasthan,Central,2023-01-03,9157
+40544,Store 544,Flagship,Hyderabad,Rajasthan,Central,2019-02-11,10958
+40545,Store 545,Flagship,Kochi,Kerala,Central,2017-02-02,8579
+40546,Store 546,Mall,Delhi,Maharashtra,South,2019-05-10,10708
+40547,Store 547,Retail,Mumbai,Rajasthan,West,2016-09-06,7552
+40548,Store 548,Mall,Delhi,West Bengal,West,2018-01-25,2677
+40549,Store 549,Flagship,Mumbai,Maharashtra,East,2016-04-02,1659
+40550,Store 550,Mall,Chennai,Maharashtra,East,2021-05-29,13655
+40551,Store 551,Retail,Mumbai,Tamil Nadu,East,2024-05-09,6894
+40552,Store 552,Outlet,Delhi,West Bengal,South,2019-08-26,5172
+40553,Store 553,Online,Hyderabad,Karnataka,East,2015-12-12,4751
+40554,Store 554,Outlet,Kolkata,Maharashtra,Central,2015-09-17,1250
+40555,Store 555,Mall,Jaipur,West Bengal,South,2022-12-22,14204
+40556,Store 556,Outlet,Bengaluru,Gujarat,North,2018-05-03,1706
+40557,Store 557,Flagship,Kolkata,Gujarat,North,2017-11-02,3675
+40558,Store 558,Mall,Mumbai,West Bengal,East,2015-12-23,7134
+40559,Store 559,Outlet,Kochi,Gujarat,South,2021-05-12,5692
+40560,Store 560,Mall,Delhi,Karnataka,East,2015-08-09,1079
+40561,Store 561,Mall,Jaipur,Gujarat,Central,2023-08-31,5272
+40562,Store 562,Mall,Ahmedabad,Telangana,North,2016-12-30,11803
+40563,Store 563,Outlet,Hyderabad,Maharashtra,North,2015-08-30,4133
+40564,Store 564,Retail,Hyderabad,Maharashtra,South,2021-09-18,13054
+40565,Store 565,Flagship,Hyderabad,Kerala,East,2018-05-24,5722
+40566,Store 566,Outlet,Chennai,Telangana,West,2021-09-02,693
+40567,Store 567,Flagship,Chennai,Telangana,North,2015-05-20,2079
+40568,Store 568,Outlet,Kolkata,Gujarat,North,2023-04-03,12245
+40569,Store 569,Online,Chennai,West Bengal,North,2017-12-20,6380
+40570,Store 570,Flagship,Ahmedabad,Telangana,Central,2022-04-01,14727
+40571,Store 571,Mall,Chennai,Telangana,North,2023-12-19,11938
+40572,Store 572,Outlet,Hyderabad,Rajasthan,West,2020-02-18,940
+40573,Store 573,Flagship,Hyderabad,Rajasthan,East,2018-03-15,5031
+40574,Store 574,Retail,Ahmedabad,Maharashtra,North,2017-12-30,11012
+40575,Store 575,Retail,Mumbai,Telangana,East,2021-07-30,1414
+40576,Store 576,Retail,Delhi,Gujarat,South,2015-01-21,14986
+40577,Store 577,Outlet,Hyderabad,Maharashtra,East,2016-05-29,2911
+40578,Store 578,Mall,Kolkata,Maharashtra,North,2021-03-14,12058
+40579,Store 579,Outlet,Mumbai,Maharashtra,West,2015-03-31,12687
+40580,Store 580,Retail,Chennai,Maharashtra,West,2017-10-10,7827
+40581,Store 581,Outlet,Kolkata,Tamil Nadu,North,2021-03-16,12152
+40582,Store 582,Mall,Kochi,Telangana,East,2017-05-25,13329
+40583,Store 583,Outlet,Chennai,Maharashtra,West,2023-12-02,11148
+40584,Store 584,Mall,Kochi,West Bengal,North,2024-05-04,10765
+40585,Store 585,Outlet,Kolkata,Rajasthan,West,2015-04-28,6135
+40586,Store 586,Online,Ahmedabad,Delhi,East,2016-09-01,4740
+40587,Store 587,Online,Delhi,West Bengal,South,2023-09-11,13081
+40588,Store 588,Flagship,Kochi,Gujarat,East,2015-04-24,3752
+40589,Store 589,Mall,Delhi,Maharashtra,West,2019-08-31,6510
+40590,Store 590,Retail,Mumbai,Maharashtra,West,2024-02-05,7931
+40591,Store 591,Flagship,Bengaluru,Maharashtra,West,2020-08-21,6165
+40592,Store 592,Outlet,Kolkata,Kerala,North,2017-12-07,5908
+40593,Store 593,Outlet,Kolkata,Kerala,West,2015-01-23,9188
+40594,Store 594,Flagship,Mumbai,Gujarat,North,2018-10-08,5277
+40595,Store 595,Retail,Jaipur,Kerala,West,2020-03-11,14837
+40596,Store 596,Outlet,Delhi,West Bengal,South,2015-10-11,3079
+40597,Store 597,Flagship,Kolkata,West Bengal,North,2020-01-23,6140
+40598,Store 598,Online,Pune,Rajasthan,West,2018-11-15,12756
+40599,Store 599,Mall,Pune,Karnataka,East,2018-02-14,7394
+40600,Store 600,Mall,Ahmedabad,Delhi,West,2024-04-25,10722
+40601,Store 601,Online,Kochi,Delhi,South,2023-07-25,9880
+40602,Store 602,Retail,Ahmedabad,West Bengal,South,2021-08-26,5304
+40603,Store 603,Mall,Kochi,Delhi,West,2020-08-30,11290
+40604,Store 604,Outlet,Jaipur,Telangana,South,2019-07-17,3946
+40605,Store 605,Mall,Hyderabad,Tamil Nadu,Central,2015-09-04,11371
+40606,Store 606,Online,Pune,Gujarat,West,2017-12-12,2357
+40607,Store 607,Mall,Mumbai,Maharashtra,Central,2015-02-06,10564
+40608,Store 608,Online,Kochi,Karnataka,North,2018-07-05,2131
+40609,Store 609,Mall,Kochi,West Bengal,East,2019-07-16,13098
+40610,Store 610,Online,Jaipur,Tamil Nadu,East,2020-11-09,9569
+40611,Store 611,Retail,Ahmedabad,Maharashtra,Central,2018-05-27,1086
+40612,Store 612,Outlet,Jaipur,West Bengal,East,2017-06-09,2077
+40613,Store 613,Outlet,Ahmedabad,Delhi,Central,2021-10-21,3217
+40614,Store 614,Flagship,Delhi,Tamil Nadu,South,2016-06-15,14423
+40615,Store 615,Mall,Delhi,Kerala,Central,2016-03-14,9047
+40616,Store 616,Outlet,Pune,Delhi,East,2021-09-02,4547
+40617,Store 617,Retail,Chennai,Rajasthan,Central,2020-08-12,4513
+40618,Store 618,Outlet,Ahmedabad,Tamil Nadu,South,2023-05-02,874
+40619,Store 619,Retail,Ahmedabad,Kerala,South,2022-01-30,3446
+40620,Store 620,Flagship,Kochi,Rajasthan,East,2023-08-22,12902
+40621,Store 621,Online,Ahmedabad,Rajasthan,East,2021-05-14,9183
+40622,Store 622,Online,Bengaluru,Delhi,North,2023-01-23,5830
+40623,Store 623,Outlet,Hyderabad,Gujarat,West,2016-08-15,807
+40624,Store 624,Mall,Hyderabad,Telangana,East,2020-02-01,5473
+40625,Store 625,Mall,Kolkata,Kerala,North,2024-01-19,6051
+40626,Store 626,Mall,Hyderabad,Kerala,East,2022-07-23,2219
+40627,Store 627,Mall,Kochi,West Bengal,West,2018-11-11,9304
+40628,Store 628,Outlet,Delhi,Kerala,North,2023-11-17,10076
+40629,Store 629,Retail,Chennai,Maharashtra,Central,2017-12-29,14973
+40630,Store 630,Mall,Jaipur,Karnataka,West,2015-03-23,5702
+40631,Store 631,Retail,Hyderabad,Rajasthan,South,2022-08-20,4501
+40632,Store 632,Retail,Bengaluru,Maharashtra,West,2018-12-13,12433
+40633,Store 633,Mall,Hyderabad,Karnataka,Central,2015-05-01,5580
+40634,Store 634,Online,Hyderabad,Karnataka,Central,2016-12-15,9643
+40635,Store 635,Mall,Kolkata,Gujarat,West,2015-09-09,11193
+40636,Store 636,Retail,Ahmedabad,Kerala,South,2024-07-20,13258
+40637,Store 637,Online,Pune,West Bengal,North,2023-02-14,5120
+40638,Store 638,Flagship,Chennai,Tamil Nadu,South,2023-11-28,9527
+40639,Store 639,Outlet,Pune,Telangana,Central,2016-09-29,2400
+40640,Store 640,Outlet,Mumbai,Tamil Nadu,South,2022-09-08,11799
+40641,Store 641,Online,Mumbai,Telangana,South,2020-05-27,1152
+40642,Store 642,Mall,Kolkata,Delhi,Central,2017-11-01,10599
+40643,Store 643,Retail,Jaipur,Maharashtra,South,2021-05-30,3530
+40644,Store 644,Outlet,Pune,Maharashtra,East,2024-02-15,7207
+40645,Store 645,Outlet,Bengaluru,Delhi,South,2019-05-31,1606
+40646,Store 646,Mall,Kochi,Maharashtra,South,2015-04-13,10485
+40647,Store 647,Outlet,Hyderabad,Delhi,East,2023-01-27,7491
+40648,Store 648,Mall,Ahmedabad,Gujarat,West,2016-10-20,10122
+40649,Store 649,Outlet,Jaipur,Maharashtra,South,2016-09-30,5539
+40650,Store 650,Flagship,Kochi,Tamil Nadu,North,2020-11-29,597
+40651,Store 651,Mall,Mumbai,Maharashtra,West,2022-08-28,8924
+40652,Store 652,Online,Mumbai,Maharashtra,East,2022-08-07,10630
+40653,Store 653,Online,Kolkata,Tamil Nadu,West,2023-04-26,10139
+40654,Store 654,Outlet,Ahmedabad,Rajasthan,East,2023-06-20,4301
+40655,Store 655,Retail,Jaipur,Gujarat,West,2016-03-25,10890
+40656,Store 656,Mall,Pune,Maharashtra,West,2017-11-17,8356
+40657,Store 657,Outlet,Mumbai,Rajasthan,West,2021-11-25,3547
+40658,Store 658,Online,Ahmedabad,Maharashtra,West,2018-09-29,2114
+40659,Store 659,Mall,Kolkata,Karnataka,East,2021-11-10,5216
+40660,Store 660,Outlet,Chennai,Tamil Nadu,South,2019-05-11,833
+40661,Store 661,Outlet,Kolkata,Telangana,East,2019-04-29,10883
+40662,Store 662,Online,Delhi,Gujarat,West,2015-04-05,719
+40663,Store 663,Retail,Jaipur,West Bengal,East,2020-10-30,1202
+40664,Store 664,Online,Bengaluru,Karnataka,East,2023-04-12,2793
+40665,Store 665,Outlet,Jaipur,Tamil Nadu,South,2022-11-05,5227
+40666,Store 666,Online,Jaipur,Gujarat,North,2018-03-28,788
+40667,Store 667,Mall,Kolkata,Gujarat,East,2021-06-26,9633
+40668,Store 668,Mall,Jaipur,Maharashtra,Central,2016-11-28,2419
+40669,Store 669,Outlet,Kochi,West Bengal,West,2021-01-26,12146
+40670,Store 670,Flagship,Mumbai,Maharashtra,West,2018-12-03,8608
+40671,Store 671,Flagship,Pune,Delhi,West,2023-11-18,1708
+40672,Store 672,Mall,Kolkata,Maharashtra,Central,2021-10-22,6303
+40673,Store 673,Mall,Kochi,West Bengal,South,2015-09-14,2533
+40674,Store 674,Mall,Ahmedabad,Karnataka,West,2023-05-07,14720
+40675,Store 675,Mall,Pune,West Bengal,North,2021-12-09,9091
+40676,Store 676,Online,Pune,Delhi,South,2017-01-23,12226
+40677,Store 677,Retail,Mumbai,Karnataka,North,2017-09-15,5928
+40678,Store 678,Outlet,Hyderabad,Gujarat,East,2016-08-27,2628
+40679,Store 679,Online,Chennai,Telangana,North,2017-12-21,3906
+40680,Store 680,Flagship,Jaipur,Tamil Nadu,South,2024-01-17,6543
+40681,Store 681,Outlet,Jaipur,West Bengal,North,2023-08-24,11672
+40682,Store 682,Mall,Kolkata,Maharashtra,North,2020-04-12,6749
+40683,Store 683,Retail,Mumbai,West Bengal,East,2018-06-21,13965
+40684,Store 684,Retail,Ahmedabad,Kerala,East,2018-07-04,5750
+40685,Store 685,Online,Chennai,West Bengal,East,2024-03-03,3881
+40686,Store 686,Flagship,Kolkata,Karnataka,South,2016-11-28,7686
+40687,Store 687,Retail,Chennai,Delhi,East,2022-04-05,2111
+40688,Store 688,Flagship,Ahmedabad,Tamil Nadu,North,2024-07-15,10213
+40689,Store 689,Mall,Delhi,Tamil Nadu,East,2023-03-13,1963
+40690,Store 690,Mall,Mumbai,Telangana,Central,2021-11-22,9792
+40691,Store 691,Online,Delhi,Maharashtra,North,2023-08-16,6046
+40692,Store 692,Online,Kochi,Maharashtra,North,2017-02-01,5677
+40693,Store 693,Retail,Bengaluru,Maharashtra,West,2024-06-05,9357
+40694,Store 694,Outlet,Delhi,Kerala,East,2015-11-16,10723
+40695,Store 695,Outlet,Hyderabad,Telangana,South,2015-02-18,13969
+40696,Store 696,Online,Jaipur,Kerala,West,2016-11-28,4697
+40697,Store 697,Flagship,Hyderabad,Telangana,South,2020-11-01,12272
+40698,Store 698,Flagship,Jaipur,Telangana,West,2017-05-17,12614
+40699,Store 699,Retail,Kochi,Tamil Nadu,East,2021-01-26,14937
+40700,Store 700,Online,Kolkata,Kerala,North,2016-01-24,14483
+40701,Store 701,Mall,Hyderabad,Maharashtra,West,2021-09-05,11961
+40702,Store 702,Outlet,Pune,Karnataka,West,2017-03-14,4773
+40703,Store 703,Mall,Kolkata,Delhi,South,2020-01-07,10571
+40704,Store 704,Mall,Mumbai,Kerala,West,2016-02-13,11877
+40705,Store 705,Outlet,Jaipur,Maharashtra,West,2024-04-18,4726
+40706,Store 706,Online,Chennai,Rajasthan,Central,2018-08-15,12294
+40707,Store 707,Online,Jaipur,Kerala,Central,2020-10-17,10677
+40708,Store 708,Retail,Kolkata,Delhi,South,2019-08-29,7616
+40709,Store 709,Online,Jaipur,Maharashtra,Central,2020-09-14,12995
+40710,Store 710,Mall,Bengaluru,Maharashtra,North,2019-05-13,1772
+40711,Store 711,Flagship,Bengaluru,Gujarat,South,2015-09-14,10416
+40712,Store 712,Flagship,Mumbai,Gujarat,West,2022-12-12,11899
+40713,Store 713,Mall,Jaipur,Karnataka,East,2021-02-26,1085
+40714,Store 714,Flagship,Kochi,Telangana,South,2017-06-07,6408
+40715,Store 715,Flagship,Kochi,Kerala,North,2015-10-22,7996
+40716,Store 716,Online,Hyderabad,Telangana,West,2023-07-02,3517
+40717,Store 717,Mall,Delhi,Delhi,Central,2018-03-09,13250
+40718,Store 718,Flagship,Hyderabad,West Bengal,West,2023-09-14,9586
+40719,Store 719,Online,Jaipur,Maharashtra,East,2022-05-04,4488
+40720,Store 720,Online,Delhi,Maharashtra,West,2024-03-13,6835
+40721,Store 721,Retail,Pune,Gujarat,South,2021-04-28,2124
+40722,Store 722,Mall,Kolkata,Maharashtra,Central,2016-09-25,1769
+40723,Store 723,Mall,Hyderabad,Rajasthan,North,2015-05-05,11323
+40724,Store 724,Flagship,Chennai,Delhi,East,2017-05-10,14763
+40725,Store 725,Flagship,Kolkata,Maharashtra,South,2019-03-18,4513
+40726,Store 726,Online,Ahmedabad,Gujarat,Central,2020-12-23,4047
+40727,Store 727,Mall,Mumbai,Maharashtra,South,2023-08-02,10416
+40728,Store 728,Flagship,Pune,Telangana,West,2016-05-08,7908
+40729,Store 729,Online,Mumbai,Telangana,North,2021-01-31,2521
+40730,Store 730,Retail,Bengaluru,Maharashtra,North,2015-10-27,10175
+40731,Store 731,Flagship,Kolkata,Tamil Nadu,East,2019-08-13,3542
+40732,Store 732,Outlet,Chennai,Maharashtra,West,2015-09-15,2168
+40733,Store 733,Online,Delhi,Delhi,South,2018-08-01,7231
+40734,Store 734,Mall,Bengaluru,Maharashtra,West,2020-10-22,11221
+40735,Store 735,Flagship,Kochi,Karnataka,East,2022-01-30,8056
+40736,Store 736,Flagship,Jaipur,West Bengal,Central,2022-09-17,9900
+40737,Store 737,Outlet,Kochi,Tamil Nadu,South,2020-01-10,3950
+40738,Store 738,Mall,Mumbai,Maharashtra,South,2017-06-25,7659
+40739,Store 739,Flagship,Bengaluru,Telangana,Central,2023-10-01,10837
+40740,Store 740,Flagship,Delhi,West Bengal,South,2023-12-12,8160
+40741,Store 741,Outlet,Mumbai,Delhi,South,2024-04-09,3974
+40742,Store 742,Online,Chennai,Tamil Nadu,Central,2022-08-03,14344
+40743,Store 743,Retail,Kolkata,Gujarat,Central,2022-06-15,1476
+40744,Store 744,Outlet,Mumbai,West Bengal,North,2015-09-29,13708
+40745,Store 745,Online,Hyderabad,Gujarat,Central,2020-06-26,11006
+40746,Store 746,Flagship,Pune,Telangana,West,2018-11-26,2123
+40747,Store 747,Mall,Hyderabad,Tamil Nadu,South,2017-06-25,4200
+40748,Store 748,Mall,Chennai,Rajasthan,East,2015-08-27,5846
+40749,Store 749,Online,Pune,Rajasthan,South,2017-01-16,14385
+40750,Store 750,Outlet,Kochi,Karnataka,North,2023-10-09,7993
+40751,Store 751,Outlet,Hyderabad,Rajasthan,North,2023-09-16,4242
+40752,Store 752,Mall,Bengaluru,Rajasthan,North,2022-02-12,13839
+40753,Store 753,Online,Jaipur,Kerala,East,2015-12-22,2211
+40754,Store 754,Mall,Pune,Delhi,Central,2021-07-30,12340
+40755,Store 755,Flagship,Chennai,Maharashtra,East,2016-03-19,12545
+40756,Store 756,Online,Ahmedabad,Karnataka,North,2021-07-17,6103
+40757,Store 757,Online,Kochi,Maharashtra,East,2015-04-28,1125
+40758,Store 758,Mall,Mumbai,Maharashtra,West,2017-09-25,13350
+40759,Store 759,Mall,Jaipur,Delhi,Central,2016-03-04,14527
+40760,Store 760,Retail,Kolkata,Delhi,West,2023-12-12,5983
+40761,Store 761,Retail,Pune,Delhi,South,2020-06-13,3193
+40762,Store 762,Mall,Jaipur,Tamil Nadu,West,2023-11-04,4432
+40763,Store 763,Flagship,Hyderabad,Maharashtra,North,2015-03-13,2478
+40764,Store 764,Online,Ahmedabad,Rajasthan,East,2022-02-01,9343
+40765,Store 765,Mall,Pune,West Bengal,East,2019-08-07,8019
+40766,Store 766,Mall,Kochi,Gujarat,North,2019-06-30,5660
+40767,Store 767,Online,Chennai,Kerala,North,2023-05-15,9934
+40768,Store 768,Outlet,Ahmedabad,West Bengal,Central,2015-06-14,9524
+40769,Store 769,Retail,Chennai,Telangana,South,2024-01-18,663
+40770,Store 770,Online,Hyderabad,Kerala,North,2015-04-10,6440
+40771,Store 771,Mall,Hyderabad,Maharashtra,East,2018-06-23,13020
+40772,Store 772,Retail,Kochi,Tamil Nadu,South,2016-04-28,12038
+40773,Store 773,Outlet,Jaipur,Tamil Nadu,Central,2020-01-05,12895
+40774,Store 774,Outlet,Delhi,Karnataka,Central,2020-09-16,14337
+40775,Store 775,Outlet,Jaipur,Kerala,Central,2021-02-25,1390
+40776,Store 776,Mall,Pune,Rajasthan,South,2022-08-25,4419
+40777,Store 777,Online,Mumbai,West Bengal,Central,2022-03-13,7161
+40778,Store 778,Flagship,Ahmedabad,Delhi,South,2024-02-02,7895
+40779,Store 779,Online,Mumbai,Kerala,South,2019-04-23,11900
+40780,Store 780,Online,Jaipur,Maharashtra,Central,2016-09-05,11004
+40781,Store 781,Outlet,Chennai,Delhi,West,2016-06-28,10740
+40782,Store 782,Retail,Kochi,Karnataka,North,2017-08-22,2798
+40783,Store 783,Retail,Chennai,Delhi,Central,2020-10-11,10325
+40784,Store 784,Flagship,Bengaluru,Telangana,North,2015-07-09,12040
+40785,Store 785,Outlet,Ahmedabad,Gujarat,West,2024-02-24,11405
+40786,Store 786,Flagship,Ahmedabad,Telangana,East,2024-06-23,8953
+40787,Store 787,Mall,Hyderabad,Kerala,North,2016-07-30,1780
+40788,Store 788,Online,Delhi,Telangana,West,2022-06-26,2671
+40789,Store 789,Mall,Jaipur,Maharashtra,West,2020-09-18,11275
+40790,Store 790,Online,Ahmedabad,Maharashtra,Central,2019-08-10,13089
+40791,Store 791,Outlet,Delhi,Rajasthan,West,2022-01-15,12467
+40792,Store 792,Flagship,Ahmedabad,Gujarat,West,2020-07-07,6687
+40793,Store 793,Mall,Delhi,Rajasthan,Central,2018-02-06,9015
+40794,Store 794,Retail,Mumbai,Kerala,Central,2020-05-21,3060
+40795,Store 795,Outlet,Kolkata,Maharashtra,East,2016-04-20,9081
+40796,Store 796,Outlet,Jaipur,Karnataka,North,2017-06-09,3333
+40797,Store 797,Retail,Kochi,Tamil Nadu,South,2024-04-28,12028
+40798,Store 798,Online,Chennai,Maharashtra,West,2016-10-10,11889
+40799,Store 799,Outlet,Mumbai,Tamil Nadu,North,2020-09-24,1241
+40800,Store 800,Mall,Pune,Maharashtra,North,2017-11-05,14067
+40801,Store 801,Mall,Kolkata,Delhi,South,2019-06-15,12043
+40802,Store 802,Mall,Kochi,Karnataka,Central,2017-05-15,5984
+40803,Store 803,Flagship,Mumbai,Kerala,South,2020-06-13,7042
+40804,Store 804,Online,Kolkata,Telangana,Central,2020-05-05,1643
+40805,Store 805,Online,Pune,Rajasthan,Central,2020-12-01,14076
+40806,Store 806,Online,Pune,West Bengal,South,2017-12-14,1961
+40807,Store 807,Mall,Bengaluru,West Bengal,South,2020-07-19,13875
+40808,Store 808,Flagship,Bengaluru,Gujarat,Central,2021-12-26,9989
+40809,Store 809,Retail,Kolkata,Delhi,West,2021-11-24,13821
+40810,Store 810,Online,Mumbai,Delhi,West,2020-06-10,5875
+40811,Store 811,Retail,Kolkata,Kerala,Central,2017-11-13,13487
+40812,Store 812,Retail,Bengaluru,West Bengal,North,2020-02-06,6678
+40813,Store 813,Online,Jaipur,Delhi,South,2020-02-23,5576
+40814,Store 814,Flagship,Hyderabad,West Bengal,West,2024-02-12,5387
+40815,Store 815,Retail,Chennai,Telangana,North,2018-08-12,14303
+40816,Store 816,Online,Hyderabad,Rajasthan,Central,2018-02-02,7250
+40817,Store 817,Retail,Chennai,Maharashtra,East,2022-03-09,7439
+40818,Store 818,Retail,Pune,Telangana,South,2021-02-01,9831
+40819,Store 819,Online,Kolkata,West Bengal,South,2019-02-03,8559
+40820,Store 820,Outlet,Kolkata,Gujarat,North,2015-01-01,8346
+40821,Store 821,Outlet,Kochi,Telangana,East,2021-10-03,5996
+40822,Store 822,Flagship,Mumbai,Gujarat,Central,2022-01-23,2881
+40823,Store 823,Flagship,Jaipur,Delhi,North,2023-12-01,14921
+40824,Store 824,Mall,Kolkata,Delhi,East,2019-10-25,7623
+40825,Store 825,Online,Hyderabad,Rajasthan,West,2019-12-08,14597
+40826,Store 826,Retail,Kochi,West Bengal,East,2016-12-30,7178
+40827,Store 827,Online,Ahmedabad,Karnataka,West,2019-05-28,9191
+40828,Store 828,Outlet,Mumbai,West Bengal,West,2015-01-06,8413
+40829,Store 829,Flagship,Mumbai,Telangana,Central,2019-10-19,14503
+40830,Store 830,Outlet,Kolkata,Delhi,West,2021-10-10,2104
+40831,Store 831,Outlet,Ahmedabad,Tamil Nadu,West,2022-07-13,8003
+40832,Store 832,Outlet,Bengaluru,Tamil Nadu,South,2021-05-08,2726
+40833,Store 833,Mall,Kolkata,Rajasthan,North,2022-09-19,13086
+40834,Store 834,Online,Pune,Tamil Nadu,North,2021-05-17,8188
+40835,Store 835,Retail,Kochi,Delhi,North,2022-06-22,13884
+40836,Store 836,Flagship,Ahmedabad,Gujarat,Central,2019-03-12,4493
+40837,Store 837,Online,Kochi,Maharashtra,North,2020-10-08,2861
+40838,Store 838,Flagship,Bengaluru,Karnataka,East,2021-02-15,9620
+40839,Store 839,Online,Ahmedabad,West Bengal,West,2020-06-26,2613
+40840,Store 840,Retail,Hyderabad,Maharashtra,West,2020-06-22,5904
+40841,Store 841,Outlet,Pune,Maharashtra,North,2022-06-29,5050
+40842,Store 842,Mall,Jaipur,Maharashtra,Central,2017-04-16,3700
+40843,Store 843,Mall,Jaipur,Tamil Nadu,East,2018-01-14,2395
+40844,Store 844,Outlet,Delhi,West Bengal,North,2019-12-21,10017
+40845,Store 845,Outlet,Delhi,West Bengal,North,2021-03-08,11493
+40846,Store 846,Online,Ahmedabad,West Bengal,Central,2019-12-07,6211
+40847,Store 847,Outlet,Jaipur,Kerala,Central,2016-11-28,4574
+40848,Store 848,Online,Kolkata,Maharashtra,West,2022-11-22,2785
+40849,Store 849,Retail,Bengaluru,Tamil Nadu,South,2020-03-25,10317
+40850,Store 850,Mall,Mumbai,Maharashtra,Central,2019-02-26,12227
+40851,Store 851,Flagship,Ahmedabad,Telangana,South,2023-06-01,8446
+40852,Store 852,Online,Ahmedabad,Telangana,South,2019-03-07,6760
+40853,Store 853,Flagship,Jaipur,West Bengal,West,2016-07-19,9901
+40854,Store 854,Retail,Pune,Telangana,South,2024-06-07,13768
+40855,Store 855,Flagship,Chennai,Gujarat,East,2018-09-01,14850
+40856,Store 856,Outlet,Mumbai,Gujarat,West,2023-07-28,3304
+40857,Store 857,Online,Ahmedabad,Kerala,North,2019-12-14,7412
+40858,Store 858,Flagship,Kochi,Maharashtra,Central,2017-04-28,13207
+40859,Store 859,Retail,Bengaluru,Telangana,North,2018-08-10,9675
+40860,Store 860,Outlet,Chennai,Gujarat,Central,2023-09-22,12330
+40861,Store 861,Online,Hyderabad,Tamil Nadu,South,2024-01-20,14939
+40862,Store 862,Online,Ahmedabad,West Bengal,East,2016-04-27,2006
+40863,Store 863,Flagship,Ahmedabad,Gujarat,South,2024-06-16,9379
+40864,Store 864,Outlet,Delhi,Rajasthan,East,2023-03-06,8209
+40865,Store 865,Outlet,Kochi,Delhi,North,2021-03-16,4628
+40866,Store 866,Flagship,Mumbai,Delhi,North,2016-10-03,9978
+40867,Store 867,Mall,Ahmedabad,Tamil Nadu,East,2020-08-14,2006
+40868,Store 868,Outlet,Ahmedabad,Maharashtra,West,2019-01-29,7684
+40869,Store 869,Outlet,Mumbai,Kerala,Central,2016-03-11,6512
+40870,Store 870,Retail,Kolkata,Karnataka,Central,2024-06-05,6158
+40871,Store 871,Mall,Delhi,Delhi,Central,2020-10-12,9405
+40872,Store 872,Mall,Delhi,Kerala,West,2015-12-06,14185
+40873,Store 873,Mall,Bengaluru,West Bengal,West,2018-04-11,14237
+40874,Store 874,Online,Ahmedabad,West Bengal,South,2023-01-18,10661
+40875,Store 875,Flagship,Jaipur,Delhi,Central,2019-03-28,5299
+40876,Store 876,Mall,Pune,West Bengal,Central,2019-09-28,14505
+40877,Store 877,Outlet,Ahmedabad,Telangana,East,2016-05-13,14976
+40878,Store 878,Flagship,Hyderabad,Gujarat,North,2016-01-24,12770
+40879,Store 879,Online,Pune,Karnataka,North,2024-05-15,13160
+40880,Store 880,Retail,Ahmedabad,Delhi,East,2024-02-16,12348
+40881,Store 881,Outlet,Chennai,West Bengal,West,2015-11-30,11521
+40882,Store 882,Retail,Kolkata,West Bengal,East,2020-04-06,11021
+40883,Store 883,Outlet,Mumbai,Rajasthan,Central,2021-07-11,9756
+40884,Store 884,Retail,Pune,Rajasthan,East,2023-06-10,9868
+40885,Store 885,Mall,Jaipur,Karnataka,West,2020-05-12,6151
+40886,Store 886,Online,Ahmedabad,Karnataka,West,2023-04-30,13359
+40887,Store 887,Online,Hyderabad,Telangana,Central,2016-02-28,9702
+40888,Store 888,Outlet,Pune,Kerala,West,2015-02-21,9394
+40889,Store 889,Flagship,Kolkata,Tamil Nadu,East,2019-06-16,11256
+40890,Store 890,Outlet,Kochi,Rajasthan,North,2017-07-15,1591
+40891,Store 891,Outlet,Jaipur,Karnataka,West,2022-03-28,13824
+40892,Store 892,Flagship,Jaipur,Kerala,North,2018-03-25,8947
+40893,Store 893,Flagship,Ahmedabad,Karnataka,South,2018-11-25,14193
+40894,Store 894,Mall,Hyderabad,Rajasthan,East,2020-02-16,1991
+40895,Store 895,Retail,Hyderabad,Rajasthan,North,2024-03-19,3887
+40896,Store 896,Mall,Chennai,Delhi,West,2015-09-09,14264
+40897,Store 897,Outlet,Chennai,Telangana,South,2020-04-18,10546
+40898,Store 898,Retail,Kochi,Maharashtra,East,2018-09-23,9876
+40899,Store 899,Retail,Jaipur,Gujarat,South,2015-05-07,6362
+40900,Store 900,Mall,Jaipur,Maharashtra,South,2022-10-22,8556
+40901,Store 901,Retail,Kolkata,Delhi,South,2023-10-04,8421
+40902,Store 902,Flagship,Mumbai,Gujarat,North,2016-08-29,3368
+40903,Store 903,Retail,Mumbai,Rajasthan,North,2022-04-13,8715
+40904,Store 904,Outlet,Delhi,Maharashtra,West,2021-09-20,7978
+40905,Store 905,Online,Kolkata,Rajasthan,North,2021-10-04,5039
+40906,Store 906,Flagship,Hyderabad,Rajasthan,East,2019-05-31,5466
+40907,Store 907,Mall,Kolkata,Rajasthan,North,2018-01-25,11634
+40908,Store 908,Retail,Jaipur,Delhi,East,2015-09-05,10293
+40909,Store 909,Retail,Hyderabad,West Bengal,West,2015-05-03,7313
+40910,Store 910,Online,Kochi,Maharashtra,East,2016-09-12,9263
+40911,Store 911,Flagship,Pune,Maharashtra,West,2020-01-22,3998
+40912,Store 912,Online,Jaipur,Karnataka,South,2016-05-08,7739
+40913,Store 913,Online,Bengaluru,Tamil Nadu,East,2021-07-31,8645
+40914,Store 914,Retail,Delhi,Gujarat,South,2020-12-09,4164
+40915,Store 915,Online,Kochi,Maharashtra,East,2018-04-21,2957
+40916,Store 916,Mall,Jaipur,Maharashtra,North,2015-11-02,8123
+40917,Store 917,Flagship,Pune,Delhi,South,2019-12-16,14141
+40918,Store 918,Mall,Bengaluru,Maharashtra,West,2022-11-20,7194
+40919,Store 919,Flagship,Bengaluru,Rajasthan,West,2018-10-10,13570
+40920,Store 920,Online,Chennai,Maharashtra,South,2022-09-24,12843
+40921,Store 921,Online,Jaipur,Delhi,South,2017-09-28,11298
+40922,Store 922,Mall,Hyderabad,Telangana,South,2015-10-08,13467
+40923,Store 923,Outlet,Jaipur,Delhi,South,2021-03-24,6463
+40924,Store 924,Flagship,Pune,Kerala,Central,2023-07-06,11509
+40925,Store 925,Mall,Mumbai,Delhi,West,2023-06-20,2598
+40926,Store 926,Outlet,Pune,Tamil Nadu,South,2024-03-11,5134
+40927,Store 927,Flagship,Hyderabad,Maharashtra,East,2016-01-13,8716
+40928,Store 928,Retail,Delhi,Delhi,East,2015-06-02,1052
+40929,Store 929,Mall,Kolkata,Tamil Nadu,East,2020-06-16,11596
+40930,Store 930,Flagship,Delhi,Maharashtra,South,2024-02-09,13917
+40931,Store 931,Online,Kochi,Tamil Nadu,Central,2024-07-24,2026
+40932,Store 932,Flagship,Jaipur,Karnataka,South,2017-09-05,14884
+40933,Store 933,Online,Ahmedabad,Tamil Nadu,East,2018-08-06,1778
+40934,Store 934,Online,Bengaluru,Telangana,North,2021-05-15,2341
+40935,Store 935,Outlet,Kochi,Telangana,East,2023-10-03,11554
+40936,Store 936,Online,Chennai,Maharashtra,Central,2016-09-03,10441
+40937,Store 937,Outlet,Ahmedabad,Kerala,Central,2024-05-07,14072
+40938,Store 938,Flagship,Mumbai,Karnataka,East,2022-11-01,6664
+40939,Store 939,Outlet,Ahmedabad,Maharashtra,North,2015-08-27,8801
+40940,Store 940,Mall,Hyderabad,Maharashtra,West,2023-01-25,2653
+40941,Store 941,Flagship,Ahmedabad,Kerala,West,2021-02-23,10531
+40942,Store 942,Online,Delhi,Telangana,Central,2024-05-17,14972
+40943,Store 943,Online,Kochi,Tamil Nadu,East,2017-01-02,9154
+40944,Store 944,Online,Ahmedabad,Gujarat,North,2024-07-05,14031
+40945,Store 945,Mall,Chennai,Karnataka,Central,2015-06-16,6206
+40946,Store 946,Online,Chennai,Karnataka,West,2015-09-23,14747
+40947,Store 947,Retail,Bengaluru,Maharashtra,Central,2019-04-16,8281
+40948,Store 948,Online,Delhi,West Bengal,North,2021-04-21,2586
+40949,Store 949,Outlet,Ahmedabad,Kerala,East,2016-08-07,5757
+40950,Store 950,Mall,Jaipur,West Bengal,East,2017-08-13,7632
+40951,Store 951,Online,Kochi,Rajasthan,South,2018-09-26,1471
+40952,Store 952,Flagship,Bengaluru,Rajasthan,Central,2016-03-15,13488
+40953,Store 953,Online,Delhi,Delhi,North,2016-09-07,3967
+40954,Store 954,Flagship,Ahmedabad,Maharashtra,North,2016-06-04,10289
+40955,Store 955,Flagship,Hyderabad,Maharashtra,South,2024-02-22,13839
+40956,Store 956,Retail,Delhi,Gujarat,Central,2023-12-22,6801
+40957,Store 957,Online,Delhi,West Bengal,North,2021-01-08,9335
+40958,Store 958,Flagship,Kochi,Rajasthan,East,2021-07-20,7992
+40959,Store 959,Flagship,Jaipur,Maharashtra,North,2016-04-24,11580
+40960,Store 960,Mall,Bengaluru,Kerala,South,2015-06-26,1059
+40961,Store 961,Online,Jaipur,Rajasthan,East,2018-08-12,5714
+40962,Store 962,Mall,Pune,Rajasthan,North,2024-06-06,9366
+40963,Store 963,Retail,Jaipur,Rajasthan,South,2019-07-31,1824
+40964,Store 964,Retail,Kolkata,Maharashtra,East,2022-09-28,12965
+40965,Store 965,Flagship,Kolkata,Gujarat,North,2018-07-18,9664
+40966,Store 966,Flagship,Pune,Kerala,East,2017-12-18,540
+40967,Store 967,Outlet,Ahmedabad,Delhi,West,2022-10-13,676
+40968,Store 968,Flagship,Jaipur,Rajasthan,South,2019-07-07,2819
+40969,Store 969,Online,Pune,Telangana,North,2022-01-05,10126
+40970,Store 970,Mall,Mumbai,Delhi,East,2021-12-18,8010
+40971,Store 971,Online,Bengaluru,Gujarat,West,2021-12-19,7493
+40972,Store 972,Retail,Chennai,Maharashtra,North,2021-06-24,8633
+40973,Store 973,Mall,Chennai,Tamil Nadu,South,2022-10-03,7673
+40974,Store 974,Mall,Jaipur,Kerala,Central,2019-06-09,5478
+40975,Store 975,Outlet,Bengaluru,Maharashtra,South,2017-11-27,606
+40976,Store 976,Retail,Jaipur,Maharashtra,South,2019-11-29,905
+40977,Store 977,Mall,Bengaluru,Kerala,West,2018-02-10,10490
+40978,Store 978,Outlet,Chennai,Gujarat,East,2015-06-01,11282
+40979,Store 979,Outlet,Chennai,Tamil Nadu,South,2018-06-20,3977
+40980,Store 980,Outlet,Pune,Tamil Nadu,West,2019-10-19,4022
+40981,Store 981,Mall,Bengaluru,Kerala,North,2019-12-27,6413
+40982,Store 982,Online,Ahmedabad,Gujarat,West,2018-04-05,9846
+40983,Store 983,Mall,Mumbai,Kerala,South,2021-12-14,9105
+40984,Store 984,Mall,Ahmedabad,Karnataka,Central,2017-09-24,8607
+40985,Store 985,Outlet,Pune,Maharashtra,West,2021-03-16,1032
+40986,Store 986,Mall,Jaipur,Gujarat,Central,2017-08-01,6747
+40987,Store 987,Outlet,Kochi,Karnataka,North,2024-06-15,11413
+40988,Store 988,Online,Jaipur,Maharashtra,North,2021-03-21,9059
+40989,Store 989,Mall,Chennai,Karnataka,Central,2020-05-02,12200
+40990,Store 990,Mall,Chennai,Kerala,South,2019-02-11,10578
+40991,Store 991,Retail,Kolkata,West Bengal,Central,2022-03-30,13546
+40992,Store 992,Online,Kolkata,Maharashtra,West,2019-01-30,8797
+40993,Store 993,Mall,Ahmedabad,Maharashtra,East,2022-09-12,8754
+40994,Store 994,Retail,Chennai,Maharashtra,North,2016-07-11,8584
+40995,Store 995,Retail,Chennai,Rajasthan,North,2022-11-10,4336
+40996,Store 996,Outlet,Mumbai,Maharashtra,West,2024-03-20,6823
+40997,Store 997,Flagship,Mumbai,West Bengal,North,2017-04-29,2946
+40998,Store 998,Retail,Jaipur,Karnataka,North,2017-02-22,6735
+40999,Store 999,Retail,Kochi,Maharashtra,South,2024-02-25,2671
+41000,Store 1000,Mall,Kolkata,Kerala,Central,2018-11-22,7619

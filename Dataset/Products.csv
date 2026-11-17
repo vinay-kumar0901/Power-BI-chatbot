@@ -1,0 +1,1201 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,ListPrice,Supplier,ProductRating
+20001,Product 1,Clothing,Jackets,Urban,45.79,453.41,Supplier D,3.8
+20002,Product 2,Clothing,Jackets,Prime,189.31,1775.05,Supplier E,3.0
+20003,Product 3,Furniture,Desks,Nova,422.11,798.54,Supplier A,4.2
+20004,Product 4,Furniture,Chairs,Nova,256.6,1078.98,Supplier B,3.5
+20005,Product 5,Clothing,Jackets,Urban,1103.6,1269.14,Supplier A,3.0
+20006,Product 6,Electronics,Mobiles,Urban,176.3,1518.82,Supplier C,4.9
+20007,Product 7,Office Supplies,Printers,Urban,1301.67,1724.84,Supplier C,3.8
+20008,Product 8,Clothing,Shirts,Apex,347.25,766.55,Supplier A,3.8
+20009,Product 9,Clothing,Shirts,Urban,180.71,2080.82,Supplier D,5.0
+20010,Product 10,Sports,Team Sports,Nova,34.96,96.43,Supplier A,3.4
+20011,Product 11,Beauty,Haircare,Apex,1078.5,1240.27,Supplier D,4.9
+20012,Product 12,Sports,Team Sports,Prime,399.79,1307.67,Supplier D,4.2
+20013,Product 13,Electronics,Tablets,Urban,774.06,1552.05,Supplier E,4.1
+20014,Product 14,Office Supplies,Stationery,Zenith,185.19,573.98,Supplier A,3.1
+20015,Product 15,Sports,Fitness,ValueMax,1478.24,1699.98,Supplier E,2.6
+20016,Product 16,Home Appliances,Kitchen,Proline,205.57,720.9,Supplier C,3.6
+20017,Product 17,Clothing,Shoes,Prime,629.65,1232.37,Supplier E,2.5
+20018,Product 18,Clothing,Shirts,Proline,1280.44,1472.51,Supplier D,2.7
+20019,Product 19,Office Supplies,Printers,Nova,382.43,2140.99,Supplier D,4.0
+20020,Product 20,Home Appliances,Small Appliances,Proline,415.12,1018.86,Supplier A,4.3
+20021,Product 21,Furniture,Storage,Prime,1216.58,1436.63,Supplier D,2.9
+20022,Product 22,Clothing,Trousers,Proline,424.54,1284.35,Supplier C,4.3
+20023,Product 23,Furniture,Chairs,ValueMax,24.25,719.09,Supplier E,4.9
+20024,Product 24,Home Appliances,Small Appliances,Zenith,653.31,751.31,Supplier D,4.4
+20025,Product 25,Beauty,Makeup,ValueMax,38.55,2173.68,Supplier A,4.5
+20026,Product 26,Clothing,Trousers,Nova,1366.49,1571.46,Supplier E,4.3
+20027,Product 27,Office Supplies,Printers,Apex,969.88,1744.9,Supplier A,3.1
+20028,Product 28,Beauty,Skincare,Zenith,882.86,1015.29,Supplier B,3.4
+20029,Product 29,Home Appliances,Cooling,Urban,318.35,1775.44,Supplier B,4.9
+20030,Product 30,Office Supplies,Printers,Nova,1055.92,1214.31,Supplier E,4.2
+20031,Product 31,Electronics,Mobiles,Zenith,1022.34,2128.73,Supplier A,4.5
+20032,Product 32,Electronics,Mobiles,Nova,109.49,1518.59,Supplier E,4.9
+20033,Product 33,Furniture,Desks,ValueMax,1323.65,1522.2,Supplier B,3.1
+20034,Product 34,Furniture,Chairs,Apex,877.53,1534.19,Supplier D,3.3
+20035,Product 35,Sports,Fitness,Prime,1192.85,1371.78,Supplier A,4.1
+20036,Product 36,Clothing,Shoes,Proline,409.11,762.48,Supplier B,2.6
+20037,Product 37,Beauty,Haircare,Urban,200.63,595.8,Supplier D,3.9
+20038,Product 38,Clothing,Shirts,Zenith,1059.63,1589.71,Supplier D,4.5
+20039,Product 39,Beauty,Skincare,Zenith,1194.95,1638.75,Supplier E,4.0
+20040,Product 40,Clothing,Trousers,ValueMax,591.33,740.04,Supplier E,3.2
+20041,Product 41,Office Supplies,Binders,Prime,55.06,1931.41,Supplier C,4.3
+20042,Product 42,Sports,Outdoor,ValueMax,1231.02,1415.67,Supplier B,2.9
+20043,Product 43,Clothing,Shoes,Urban,325.02,373.77,Supplier B,4.7
+20044,Product 44,Furniture,Desks,ValueMax,521.77,1331.71,Supplier E,2.8
+20045,Product 45,Clothing,Shoes,Zenith,949.78,1092.25,Supplier D,4.7
+20046,Product 46,Home Appliances,Small Appliances,Apex,167.93,630.36,Supplier E,3.7
+20047,Product 47,Office Supplies,Paper,Zenith,126.55,1130.59,Supplier C,3.6
+20048,Product 48,Home Appliances,Kitchen,ValueMax,58.04,651.4,Supplier C,3.8
+20049,Product 49,Beauty,Personal Care,Apex,1376.63,1583.12,Supplier E,3.0
+20050,Product 50,Office Supplies,Binders,Proline,480.85,1555.91,Supplier D,3.6
+20051,Product 51,Office Supplies,Paper,Nova,997.78,1216.99,Supplier B,4.6
+20052,Product 52,Office Supplies,Printers,Proline,1484.07,1852.28,Supplier C,4.5
+20053,Product 53,Sports,Cycling,Proline,1010.79,1291.29,Supplier B,2.9
+20054,Product 54,Furniture,Storage,Apex,797.14,1079.08,Supplier D,4.2
+20055,Product 55,Beauty,Haircare,Zenith,790.96,909.6,Supplier A,4.6
+20056,Product 56,Office Supplies,Binders,Nova,577.84,1748.78,Supplier E,4.5
+20057,Product 57,Sports,Team Sports,Urban,907.67,1043.82,Supplier E,3.6
+20058,Product 58,Sports,Cycling,ValueMax,1439.01,1654.86,Supplier A,2.6
+20059,Product 59,Sports,Fitness,Apex,1186.31,1856.25,Supplier D,4.8
+20060,Product 60,Beauty,Makeup,Apex,647.86,1638.39,Supplier A,3.5
+20061,Product 61,Furniture,Chairs,Prime,512.02,1359.94,Supplier B,3.4
+20062,Product 62,Home Appliances,Cleaning,Vertex,1327.63,1526.77,Supplier B,4.4
+20063,Product 63,Electronics,Laptops,Nova,220.96,306.15,Supplier C,3.2
+20064,Product 64,Office Supplies,Stationery,Prime,1277.39,1469.0,Supplier E,4.6
+20065,Product 65,Electronics,Accessories,Vertex,397.51,1649.56,Supplier C,2.7
+20066,Product 66,Home Appliances,Cooling,Nova,1079.13,1241.0,Supplier B,4.4
+20067,Product 67,Home Appliances,Cleaning,Vertex,1213.21,1395.19,Supplier A,4.9
+20068,Product 68,Sports,Outdoor,Nova,725.95,834.84,Supplier E,5.0
+20069,Product 69,Furniture,Desks,ValueMax,304.58,1307.62,Supplier B,4.8
+20070,Product 70,Office Supplies,Printers,ValueMax,1270.26,1536.45,Supplier C,4.7
+20071,Product 71,Home Appliances,Cleaning,Vertex,563.91,648.5,Supplier A,3.2
+20072,Product 72,Sports,Fitness,ValueMax,494.61,568.8,Supplier B,4.9
+20073,Product 73,Beauty,Makeup,Prime,774.82,891.04,Supplier C,4.8
+20074,Product 74,Electronics,Accessories,ValueMax,663.93,763.52,Supplier E,3.8
+20075,Product 75,Office Supplies,Stationery,Apex,1030.92,1206.02,Supplier B,3.5
+20076,Product 76,Electronics,Laptops,Vertex,223.05,298.43,Supplier C,2.8
+20077,Product 77,Sports,Fitness,Zenith,664.82,1436.64,Supplier E,4.0
+20078,Product 78,Electronics,Accessories,Apex,1339.72,1716.58,Supplier B,4.3
+20079,Product 79,Sports,Cycling,Proline,73.37,2136.02,Supplier B,3.5
+20080,Product 80,Furniture,Chairs,Prime,696.86,2088.04,Supplier A,3.5
+20081,Product 81,Electronics,Laptops,Prime,997.59,1147.23,Supplier E,3.9
+20082,Product 82,Beauty,Skincare,Prime,1333.81,1533.88,Supplier A,2.6
+20083,Product 83,Clothing,Trousers,Proline,898.8,1033.62,Supplier B,4.9
+20084,Product 84,Office Supplies,Binders,Nova,1240.24,1567.4,Supplier A,3.2
+20085,Product 85,Home Appliances,Kitchen,Proline,349.58,402.02,Supplier D,2.9
+20086,Product 86,Furniture,Storage,Proline,542.16,810.58,Supplier B,2.5
+20087,Product 87,Home Appliances,Kitchen,Proline,1414.36,1626.51,Supplier D,4.6
+20088,Product 88,Clothing,Jackets,ValueMax,1331.24,1530.93,Supplier D,4.7
+20089,Product 89,Furniture,Desks,Proline,845.77,1562.3,Supplier A,2.7
+20090,Product 90,Office Supplies,Binders,Urban,723.72,1460.24,Supplier B,2.9
+20091,Product 91,Electronics,Mobiles,Prime,687.58,1192.02,Supplier A,3.6
+20092,Product 92,Office Supplies,Stationery,Prime,107.01,2006.38,Supplier A,3.0
+20093,Product 93,Home Appliances,Kitchen,Proline,1340.72,1541.83,Supplier C,4.3
+20094,Product 94,Electronics,Accessories,Prime,1230.86,1415.49,Supplier B,2.6
+20095,Product 95,Electronics,Mobiles,Urban,695.25,862.09,Supplier A,3.9
+20096,Product 96,Home Appliances,Cleaning,Nova,433.57,1453.26,Supplier C,3.5
+20097,Product 97,Office Supplies,Printers,Vertex,527.52,1297.45,Supplier C,3.7
+20098,Product 98,Electronics,Tablets,Vertex,202.28,232.62,Supplier E,3.6
+20099,Product 99,Sports,Team Sports,Prime,1088.25,2109.78,Supplier D,2.9
+20100,Product 100,Sports,Outdoor,Urban,843.87,970.45,Supplier B,3.1
+20101,Product 101,Electronics,Laptops,Zenith,366.47,808.97,Supplier C,2.7
+20102,Product 102,Furniture,Chairs,Prime,942.05,1383.28,Supplier A,2.8
+20103,Product 103,Office Supplies,Paper,Apex,1469.26,2081.01,Supplier B,4.9
+20104,Product 104,Sports,Team Sports,Urban,201.14,1468.03,Supplier C,3.2
+20105,Product 105,Electronics,Tablets,Nova,698.56,2101.86,Supplier A,3.3
+20106,Product 106,Sports,Team Sports,Proline,751.36,864.06,Supplier E,2.8
+20107,Product 107,Office Supplies,Binders,Proline,266.86,1372.82,Supplier C,4.4
+20108,Product 108,Electronics,Laptops,Apex,806.74,1828.67,Supplier D,4.8
+20109,Product 109,Beauty,Personal Care,Vertex,916.85,1134.58,Supplier B,4.5
+20110,Product 110,Electronics,Accessories,Nova,252.87,815.92,Supplier E,4.0
+20111,Product 111,Electronics,Tablets,Vertex,248.99,2166.93,Supplier B,4.5
+20112,Product 112,Beauty,Makeup,Nova,1287.4,1480.51,Supplier E,3.5
+20113,Product 113,Clothing,Shirts,ValueMax,480.85,921.72,Supplier C,4.6
+20114,Product 114,Clothing,Shirts,Apex,952.89,1925.22,Supplier D,4.5
+20115,Product 115,Home Appliances,Kitchen,Zenith,947.62,1984.04,Supplier B,2.5
+20116,Product 116,Home Appliances,Cooling,Urban,1261.97,2157.43,Supplier E,3.7
+20117,Product 117,Home Appliances,Cleaning,Apex,1115.04,1950.12,Supplier A,3.2
+20118,Product 118,Electronics,Laptops,Proline,1264.05,1453.66,Supplier A,2.7
+20119,Product 119,Clothing,Shirts,Nova,945.32,2047.59,Supplier C,4.6
+20120,Product 120,Furniture,Chairs,ValueMax,685.2,959.12,Supplier E,2.5
+20121,Product 121,Sports,Team Sports,Zenith,602.48,1444.01,Supplier E,4.3
+20122,Product 122,Clothing,Jackets,Zenith,580.96,885.58,Supplier E,5.0
+20123,Product 123,Electronics,Tablets,ValueMax,639.22,1795.66,Supplier C,3.7
+20124,Product 124,Beauty,Skincare,Prime,211.38,1279.74,Supplier E,3.4
+20125,Product 125,Furniture,Chairs,Vertex,647.46,1864.83,Supplier C,4.0
+20126,Product 126,Furniture,Chairs,Apex,596.38,685.84,Supplier C,4.5
+20127,Product 127,Beauty,Personal Care,ValueMax,71.17,431.41,Supplier A,3.1
+20128,Product 128,Sports,Team Sports,Prime,427.19,985.62,Supplier D,3.1
+20129,Product 129,Beauty,Haircare,Proline,1132.82,1302.74,Supplier B,4.0
+20130,Product 130,Home Appliances,Kitchen,Vertex,875.36,1533.49,Supplier A,4.8
+20131,Product 131,Beauty,Haircare,ValueMax,1213.13,1395.1,Supplier B,3.2
+20132,Product 132,Electronics,Accessories,Proline,823.18,1239.34,Supplier D,3.4
+20133,Product 133,Home Appliances,Kitchen,Vertex,1284.04,1476.65,Supplier B,5.0
+20134,Product 134,Office Supplies,Binders,Prime,1198.18,1377.91,Supplier B,2.9
+20135,Product 135,Office Supplies,Stationery,Proline,165.46,1381.6,Supplier B,2.7
+20136,Product 136,Furniture,Chairs,Apex,1465.97,1685.87,Supplier C,4.0
+20137,Product 137,Furniture,Storage,Nova,41.83,495.95,Supplier D,2.6
+20138,Product 138,Clothing,Jackets,Vertex,903.32,1038.82,Supplier D,3.0
+20139,Product 139,Beauty,Makeup,Urban,1192.92,1371.86,Supplier A,4.1
+20140,Product 140,Home Appliances,Kitchen,Apex,511.2,1381.59,Supplier B,4.1
+20141,Product 141,Office Supplies,Stationery,Vertex,905.88,1041.76,Supplier D,3.8
+20142,Product 142,Clothing,Jackets,ValueMax,555.94,817.07,Supplier B,3.5
+20143,Product 143,Clothing,Jackets,Nova,109.71,1522.71,Supplier A,3.9
+20144,Product 144,Furniture,Chairs,Nova,32.52,1144.67,Supplier B,4.1
+20145,Product 145,Clothing,Jackets,Prime,160.4,1326.1,Supplier D,4.5
+20146,Product 146,Home Appliances,Small Appliances,Nova,165.65,574.47,Supplier D,4.5
+20147,Product 147,Furniture,Storage,Nova,924.12,2053.99,Supplier A,4.2
+20148,Product 148,Home Appliances,Kitchen,Apex,798.28,928.12,Supplier D,4.7
+20149,Product 149,Home Appliances,Small Appliances,Nova,694.09,798.2,Supplier A,4.6
+20150,Product 150,Clothing,Jackets,Proline,1044.04,1992.39,Supplier D,2.8
+20151,Product 151,Office Supplies,Paper,Nova,44.9,1451.98,Supplier C,4.9
+20152,Product 152,Clothing,Shirts,Urban,421.06,1362.26,Supplier A,4.7
+20153,Product 153,Sports,Cycling,Zenith,1170.54,1954.21,Supplier B,3.3
+20154,Product 154,Furniture,Chairs,Zenith,1366.77,1571.79,Supplier E,2.6
+20155,Product 155,Home Appliances,Kitchen,Zenith,668.74,1847.76,Supplier C,4.0
+20156,Product 156,Home Appliances,Cleaning,Vertex,140.6,1500.97,Supplier D,3.6
+20157,Product 157,Office Supplies,Printers,ValueMax,1202.12,1382.44,Supplier D,4.4
+20158,Product 158,Office Supplies,Printers,Nova,1330.05,1529.56,Supplier A,3.8
+20159,Product 159,Beauty,Makeup,Nova,632.22,727.05,Supplier E,2.7
+20160,Product 160,Office Supplies,Binders,Proline,380.17,2072.13,Supplier B,3.1
+20161,Product 161,Home Appliances,Small Appliances,Nova,85.08,337.95,Supplier D,4.7
+20162,Product 162,Furniture,Chairs,Apex,894.8,1029.02,Supplier C,2.6
+20163,Product 163,Beauty,Skincare,Apex,1366.61,1571.6,Supplier C,4.3
+20164,Product 164,Home Appliances,Kitchen,Nova,1023.27,1571.03,Supplier B,3.2
+20165,Product 165,Sports,Outdoor,Nova,489.53,562.96,Supplier E,3.6
+20166,Product 166,Home Appliances,Cleaning,Urban,971.47,1796.66,Supplier A,3.8
+20167,Product 167,Office Supplies,Binders,Zenith,1251.46,1439.18,Supplier E,3.1
+20168,Product 168,Office Supplies,Stationery,Nova,724.23,1871.15,Supplier B,4.1
+20169,Product 169,Home Appliances,Kitchen,ValueMax,1233.23,1418.21,Supplier E,4.2
+20170,Product 170,Beauty,Personal Care,Nova,600.03,690.03,Supplier A,2.7
+20171,Product 171,Electronics,Mobiles,Zenith,535.79,1412.27,Supplier A,3.4
+20172,Product 172,Sports,Cycling,Proline,882.82,1015.24,Supplier A,4.4
+20173,Product 173,Sports,Cycling,Urban,707.74,1169.14,Supplier C,4.3
+20174,Product 174,Electronics,Accessories,Prime,1466.13,1686.05,Supplier B,3.9
+20175,Product 175,Electronics,Accessories,Nova,784.26,1722.45,Supplier C,4.4
+20176,Product 176,Home Appliances,Kitchen,Apex,590.05,1981.98,Supplier E,2.8
+20177,Product 177,Sports,Team Sports,Proline,604.5,1850.38,Supplier A,2.8
+20178,Product 178,Office Supplies,Stationery,Vertex,830.95,2109.63,Supplier C,4.1
+20179,Product 179,Home Appliances,Cooling,Nova,545.27,1989.72,Supplier D,4.2
+20180,Product 180,Beauty,Makeup,Zenith,1089.9,1253.38,Supplier C,4.5
+20181,Product 181,Office Supplies,Printers,Zenith,583.38,894.42,Supplier E,3.0
+20182,Product 182,Furniture,Desks,Nova,588.53,1974.72,Supplier D,3.8
+20183,Product 183,Beauty,Personal Care,Nova,933.12,2041.46,Supplier A,4.2
+20184,Product 184,Furniture,Tables,Nova,110.05,2141.05,Supplier C,3.1
+20185,Product 185,Clothing,Shoes,Nova,989.93,1697.25,Supplier B,3.8
+20186,Product 186,Clothing,Shirts,Urban,767.36,882.46,Supplier A,4.1
+20187,Product 187,Clothing,Shoes,Apex,690.48,2080.55,Supplier E,3.0
+20188,Product 188,Furniture,Desks,Urban,1084.49,2085.3,Supplier B,3.4
+20189,Product 189,Home Appliances,Cleaning,Apex,1142.22,1475.51,Supplier A,3.0
+20190,Product 190,Home Appliances,Small Appliances,ValueMax,1272.47,1890.3,Supplier B,4.8
+20191,Product 191,Furniture,Desks,Zenith,574.71,1247.75,Supplier E,3.1
+20192,Product 192,Clothing,Trousers,Vertex,504.02,2078.76,Supplier C,2.8
+20193,Product 193,Electronics,Accessories,Prime,1077.23,1238.81,Supplier E,2.6
+20194,Product 194,Furniture,Storage,Nova,881.07,1904.8,Supplier C,2.6
+20195,Product 195,Beauty,Haircare,Nova,955.07,1098.33,Supplier A,3.0
+20196,Product 196,Clothing,Trousers,Urban,842.17,968.5,Supplier B,4.0
+20197,Product 197,Home Appliances,Kitchen,Nova,1163.59,1338.13,Supplier A,2.5
+20198,Product 198,Beauty,Skincare,Zenith,301.26,1069.72,Supplier C,3.2
+20199,Product 199,Home Appliances,Cooling,Prime,842.45,968.82,Supplier B,2.6
+20200,Product 200,Sports,Outdoor,Apex,253.99,2096.0,Supplier E,3.5
+20201,Product 201,Home Appliances,Small Appliances,Urban,622.73,1243.73,Supplier B,2.6
+20202,Product 202,Clothing,Shirts,Urban,1002.71,1978.08,Supplier B,4.0
+20203,Product 203,Home Appliances,Cooling,Zenith,749.75,862.21,Supplier E,4.2
+20204,Product 204,Office Supplies,Printers,Apex,581.8,669.07,Supplier C,4.3
+20205,Product 205,Beauty,Makeup,Urban,1329.76,1713.17,Supplier A,3.1
+20206,Product 206,Furniture,Chairs,Proline,1163.78,1554.16,Supplier C,4.7
+20207,Product 207,Beauty,Haircare,Vertex,798.91,1213.72,Supplier B,4.2
+20208,Product 208,Beauty,Makeup,Proline,1426.08,1799.29,Supplier D,2.6
+20209,Product 209,Electronics,Mobiles,Zenith,648.06,1852.98,Supplier C,3.6
+20210,Product 210,Home Appliances,Small Appliances,Prime,1186.35,1364.3,Supplier D,4.4
+20211,Product 211,Beauty,Makeup,ValueMax,268.55,2126.06,Supplier E,3.3
+20212,Product 212,Home Appliances,Cleaning,ValueMax,442.97,1591.77,Supplier D,3.5
+20213,Product 213,Office Supplies,Paper,Apex,520.37,1498.82,Supplier B,4.1
+20214,Product 214,Beauty,Skincare,ValueMax,176.61,814.29,Supplier B,2.6
+20215,Product 215,Clothing,Trousers,Nova,762.67,877.07,Supplier C,4.9
+20216,Product 216,Electronics,Mobiles,Apex,304.54,552.85,Supplier C,2.9
+20217,Product 217,Furniture,Storage,Nova,958.6,1687.71,Supplier B,2.6
+20218,Product 218,Home Appliances,Small Appliances,Vertex,301.34,1570.42,Supplier E,2.5
+20219,Product 219,Clothing,Shirts,ValueMax,202.79,748.32,Supplier E,3.5
+20220,Product 220,Furniture,Tables,Urban,1454.25,1672.39,Supplier B,4.7
+20221,Product 221,Sports,Outdoor,Urban,994.2,1143.33,Supplier D,4.5
+20222,Product 222,Electronics,Laptops,Nova,1405.95,1616.84,Supplier E,4.8
+20223,Product 223,Furniture,Tables,Urban,745.03,2085.88,Supplier A,3.8
+20224,Product 224,Clothing,Jackets,Prime,69.44,926.6,Supplier B,3.6
+20225,Product 225,Electronics,Laptops,Prime,870.07,1000.58,Supplier D,3.5
+20226,Product 226,Office Supplies,Stationery,Vertex,846.33,1087.02,Supplier C,2.6
+20227,Product 227,Beauty,Makeup,Apex,42.16,869.82,Supplier D,4.8
+20228,Product 228,Beauty,Haircare,ValueMax,1294.64,1613.08,Supplier C,3.7
+20229,Product 229,Beauty,Haircare,Urban,937.56,2117.79,Supplier A,3.6
+20230,Product 230,Office Supplies,Paper,Prime,1122.14,1314.07,Supplier C,3.8
+20231,Product 231,Electronics,Laptops,Nova,751.0,1312.79,Supplier C,4.5
+20232,Product 232,Sports,Cycling,Proline,935.24,1075.53,Supplier E,3.1
+20233,Product 233,Office Supplies,Printers,Prime,401.06,1255.25,Supplier A,4.3
+20234,Product 234,Sports,Fitness,Prime,1461.16,1680.33,Supplier A,4.3
+20235,Product 235,Electronics,Mobiles,Zenith,613.07,705.03,Supplier A,4.6
+20236,Product 236,Home Appliances,Kitchen,Apex,260.24,1909.43,Supplier C,2.5
+20237,Product 237,Home Appliances,Cleaning,Urban,102.75,961.89,Supplier E,2.9
+20238,Product 238,Beauty,Skincare,Proline,961.53,1105.76,Supplier D,3.7
+20239,Product 239,Electronics,Tablets,Prime,1475.4,1696.71,Supplier E,4.6
+20240,Product 240,Office Supplies,Printers,Nova,1345.78,1846.53,Supplier E,4.9
+20241,Product 241,Beauty,Makeup,Apex,1059.11,1217.98,Supplier D,4.0
+20242,Product 242,Office Supplies,Stationery,Nova,1486.08,1708.99,Supplier D,3.0
+20243,Product 243,Home Appliances,Cleaning,Urban,1089.79,1853.38,Supplier B,3.0
+20244,Product 244,Furniture,Chairs,Vertex,522.09,1023.39,Supplier E,4.1
+20245,Product 245,Sports,Fitness,Apex,909.8,2050.6,Supplier D,3.0
+20246,Product 246,Furniture,Desks,Zenith,138.05,484.21,Supplier E,3.9
+20247,Product 247,Home Appliances,Cleaning,Apex,348.09,1582.06,Supplier E,4.6
+20248,Product 248,Beauty,Makeup,Vertex,637.96,2152.26,Supplier B,3.5
+20249,Product 249,Home Appliances,Kitchen,ValueMax,318.69,1222.66,Supplier A,3.4
+20250,Product 250,Clothing,Trousers,Nova,1431.18,1645.86,Supplier E,2.6
+20251,Product 251,Furniture,Storage,Apex,1493.48,1717.5,Supplier C,3.1
+20252,Product 252,Office Supplies,Binders,Vertex,568.99,1660.4,Supplier E,4.2
+20253,Product 253,Sports,Cycling,Urban,1069.66,2002.26,Supplier D,3.4
+20254,Product 254,Furniture,Desks,Apex,623.5,1555.63,Supplier B,2.9
+20255,Product 255,Home Appliances,Kitchen,ValueMax,226.47,2060.97,Supplier B,2.8
+20256,Product 256,Clothing,Shirts,Nova,518.65,1307.38,Supplier D,2.7
+20257,Product 257,Office Supplies,Paper,ValueMax,365.39,1282.39,Supplier B,4.1
+20258,Product 258,Sports,Cycling,Urban,505.56,691.04,Supplier B,4.0
+20259,Product 259,Office Supplies,Binders,Nova,338.23,1569.89,Supplier B,3.8
+20260,Product 260,Office Supplies,Binders,Nova,186.27,1943.84,Supplier D,3.8
+20261,Product 261,Clothing,Jackets,Nova,341.79,1432.51,Supplier A,2.9
+20262,Product 262,Sports,Outdoor,Vertex,1360.52,1564.6,Supplier A,3.8
+20263,Product 263,Beauty,Haircare,Vertex,146.13,1210.72,Supplier A,2.6
+20264,Product 264,Home Appliances,Small Appliances,Zenith,500.64,1670.38,Supplier D,4.8
+20265,Product 265,Home Appliances,Small Appliances,Vertex,802.11,2068.42,Supplier A,2.6
+20266,Product 266,Sports,Team Sports,Zenith,544.68,626.38,Supplier C,3.6
+20267,Product 267,Furniture,Storage,Vertex,786.06,903.97,Supplier A,2.5
+20268,Product 268,Furniture,Desks,Vertex,84.26,926.09,Supplier C,4.5
+20269,Product 269,Clothing,Trousers,Vertex,979.88,1126.86,Supplier A,2.9
+20270,Product 270,Home Appliances,Small Appliances,Vertex,853.95,2157.53,Supplier A,4.8
+20271,Product 271,Home Appliances,Cleaning,Proline,1027.83,1182.0,Supplier C,2.6
+20272,Product 272,Furniture,Storage,Apex,859.54,1187.93,Supplier D,4.6
+20273,Product 273,Sports,Outdoor,Vertex,668.1,768.32,Supplier A,4.1
+20274,Product 274,Office Supplies,Stationery,ValueMax,538.21,1004.6,Supplier C,3.1
+20275,Product 275,Beauty,Skincare,Zenith,355.12,2166.79,Supplier E,3.0
+20276,Product 276,Sports,Team Sports,Apex,760.1,1090.45,Supplier D,3.4
+20277,Product 277,Beauty,Haircare,Proline,58.56,67.34,Supplier D,4.6
+20278,Product 278,Home Appliances,Cleaning,Apex,505.8,581.67,Supplier B,4.7
+20279,Product 279,Clothing,Jackets,Apex,1023.25,2153.25,Supplier E,2.9
+20280,Product 280,Furniture,Chairs,Prime,180.9,2176.28,Supplier A,3.4
+20281,Product 281,Office Supplies,Paper,Zenith,113.08,486.77,Supplier D,3.1
+20282,Product 282,Beauty,Personal Care,Apex,985.22,1365.12,Supplier C,2.8
+20283,Product 283,Office Supplies,Printers,Proline,608.71,700.02,Supplier A,4.1
+20284,Product 284,Electronics,Tablets,Apex,1206.7,1387.7,Supplier E,3.4
+20285,Product 285,Furniture,Chairs,Proline,1407.22,1618.3,Supplier D,3.1
+20286,Product 286,Home Appliances,Cooling,Nova,1436.42,1806.5,Supplier B,4.7
+20287,Product 287,Home Appliances,Cleaning,Prime,649.88,2068.88,Supplier A,4.4
+20288,Product 288,Beauty,Makeup,Zenith,411.2,472.88,Supplier D,4.4
+20289,Product 289,Beauty,Skincare,Vertex,920.75,1058.86,Supplier C,2.6
+20290,Product 290,Clothing,Jackets,Urban,949.73,1092.19,Supplier A,4.8
+20291,Product 291,Clothing,Jackets,Zenith,941.07,1082.23,Supplier E,3.9
+20292,Product 292,Sports,Outdoor,Zenith,496.23,570.66,Supplier D,3.8
+20293,Product 293,Electronics,Laptops,Prime,114.35,604.07,Supplier C,2.5
+20294,Product 294,Home Appliances,Small Appliances,Proline,330.81,2178.79,Supplier B,4.7
+20295,Product 295,Clothing,Jackets,Zenith,248.54,285.82,Supplier B,3.9
+20296,Product 296,Sports,Team Sports,Vertex,203.37,1893.96,Supplier C,4.6
+20297,Product 297,Sports,Cycling,Zenith,1390.9,1599.54,Supplier A,4.1
+20298,Product 298,Home Appliances,Cooling,ValueMax,40.49,1177.92,Supplier B,4.5
+20299,Product 299,Home Appliances,Kitchen,Proline,910.75,1047.36,Supplier B,4.2
+20300,Product 300,Home Appliances,Cleaning,Zenith,1422.26,2051.47,Supplier A,4.8
+20301,Product 301,Home Appliances,Small Appliances,Proline,552.88,635.81,Supplier A,3.1
+20302,Product 302,Furniture,Desks,Proline,800.11,920.13,Supplier B,3.0
+20303,Product 303,Furniture,Storage,Vertex,1049.76,1654.71,Supplier B,4.3
+20304,Product 304,Sports,Fitness,Zenith,489.41,1604.81,Supplier B,3.8
+20305,Product 305,Home Appliances,Cleaning,Apex,726.92,1547.22,Supplier D,4.0
+20306,Product 306,Furniture,Desks,Vertex,1229.31,1413.71,Supplier C,4.3
+20307,Product 307,Beauty,Makeup,ValueMax,1123.13,1291.6,Supplier A,3.9
+20308,Product 308,Beauty,Skincare,Vertex,1216.51,1852.57,Supplier E,4.5
+20309,Product 309,Home Appliances,Kitchen,Proline,1481.26,1703.45,Supplier D,3.3
+20310,Product 310,Furniture,Tables,Prime,568.08,1336.76,Supplier C,4.6
+20311,Product 311,Beauty,Haircare,Apex,1125.7,1294.56,Supplier A,2.8
+20312,Product 312,Furniture,Storage,Nova,912.12,1048.94,Supplier E,4.1
+20313,Product 313,Clothing,Shoes,Urban,1006.58,2084.02,Supplier D,4.7
+20314,Product 314,Beauty,Haircare,Prime,1115.01,1609.23,Supplier C,3.1
+20315,Product 315,Clothing,Jackets,Urban,1129.6,1299.04,Supplier A,3.3
+20316,Product 316,Furniture,Desks,Nova,1330.9,2064.82,Supplier A,3.3
+20317,Product 317,Electronics,Mobiles,Vertex,537.0,1293.74,Supplier B,3.9
+20318,Product 318,Office Supplies,Printers,Nova,987.15,1135.22,Supplier B,3.5
+20319,Product 319,Home Appliances,Cleaning,Vertex,434.83,891.79,Supplier B,2.8
+20320,Product 320,Sports,Fitness,ValueMax,899.96,1604.13,Supplier C,4.7
+20321,Product 321,Furniture,Desks,Apex,1131.74,1301.5,Supplier A,3.0
+20322,Product 322,Furniture,Storage,Zenith,1190.68,1369.28,Supplier B,3.8
+20323,Product 323,Home Appliances,Cleaning,Nova,641.78,1571.78,Supplier E,4.0
+20324,Product 324,Furniture,Desks,Urban,772.91,888.85,Supplier E,2.6
+20325,Product 325,Electronics,Tablets,ValueMax,514.1,2079.0,Supplier A,2.7
+20326,Product 326,Clothing,Shirts,Vertex,270.17,802.89,Supplier D,4.9
+20327,Product 327,Clothing,Trousers,Apex,405.57,940.04,Supplier E,4.2
+20328,Product 328,Furniture,Chairs,Urban,1369.96,1575.45,Supplier C,2.6
+20329,Product 329,Furniture,Storage,Vertex,477.27,1351.06,Supplier B,4.5
+20330,Product 330,Furniture,Storage,ValueMax,1462.64,1682.04,Supplier C,3.8
+20331,Product 331,Office Supplies,Binders,Proline,377.39,1439.94,Supplier B,2.7
+20332,Product 332,Electronics,Laptops,Zenith,1090.15,1989.14,Supplier B,4.2
+20333,Product 333,Electronics,Tablets,Zenith,869.38,1766.62,Supplier E,3.7
+20334,Product 334,Office Supplies,Printers,Urban,1051.37,1818.64,Supplier D,3.0
+20335,Product 335,Electronics,Accessories,Zenith,973.06,1119.02,Supplier C,4.7
+20336,Product 336,Office Supplies,Paper,Prime,1065.99,1225.89,Supplier A,3.2
+20337,Product 337,Home Appliances,Cooling,ValueMax,1360.21,1564.24,Supplier E,3.2
+20338,Product 338,Electronics,Laptops,Vertex,853.93,982.02,Supplier A,3.2
+20339,Product 339,Home Appliances,Cooling,Nova,120.42,1700.45,Supplier D,4.4
+20340,Product 340,Home Appliances,Small Appliances,Zenith,420.82,731.92,Supplier B,4.3
+20341,Product 341,Home Appliances,Kitchen,Zenith,1068.16,1228.38,Supplier B,4.8
+20342,Product 342,Home Appliances,Kitchen,ValueMax,751.23,863.91,Supplier A,3.1
+20343,Product 343,Sports,Cycling,Prime,831.86,956.64,Supplier B,4.5
+20344,Product 344,Electronics,Laptops,Prime,902.94,1038.38,Supplier D,3.9
+20345,Product 345,Furniture,Tables,Urban,586.29,1342.47,Supplier C,3.3
+20346,Product 346,Office Supplies,Printers,Prime,1165.37,1340.18,Supplier A,2.6
+20347,Product 347,Home Appliances,Cleaning,Proline,1090.83,1254.45,Supplier B,4.5
+20348,Product 348,Beauty,Personal Care,Prime,1077.16,1238.73,Supplier A,3.1
+20349,Product 349,Beauty,Personal Care,Proline,1078.66,1823.2,Supplier C,4.1
+20350,Product 350,Home Appliances,Cleaning,Prime,1337.73,1538.39,Supplier E,3.9
+20351,Product 351,Office Supplies,Paper,Apex,901.18,1142.83,Supplier E,2.5
+20352,Product 352,Office Supplies,Paper,ValueMax,1451.27,1668.96,Supplier E,5.0
+20353,Product 353,Electronics,Laptops,Urban,196.41,1275.88,Supplier A,4.5
+20354,Product 354,Clothing,Shoes,Zenith,955.3,1951.86,Supplier C,3.7
+20355,Product 355,Clothing,Jackets,Urban,1081.05,1383.89,Supplier A,4.2
+20356,Product 356,Furniture,Tables,Vertex,726.29,2142.79,Supplier C,3.7
+20357,Product 357,Sports,Fitness,ValueMax,446.55,1920.84,Supplier C,4.4
+20358,Product 358,Sports,Cycling,Vertex,834.06,959.17,Supplier D,2.8
+20359,Product 359,Office Supplies,Printers,ValueMax,559.83,643.8,Supplier B,3.6
+20360,Product 360,Beauty,Personal Care,Prime,1365.5,1570.32,Supplier A,3.3
+20361,Product 361,Electronics,Mobiles,Nova,548.05,879.59,Supplier C,3.6
+20362,Product 362,Beauty,Makeup,Nova,280.05,1230.0,Supplier C,3.6
+20363,Product 363,Sports,Team Sports,ValueMax,873.06,1004.02,Supplier D,2.9
+20364,Product 364,Furniture,Desks,Urban,606.07,696.98,Supplier A,4.9
+20365,Product 365,Home Appliances,Cooling,Prime,161.93,857.62,Supplier D,2.5
+20366,Product 366,Office Supplies,Stationery,Proline,855.97,1488.29,Supplier C,2.5
+20367,Product 367,Sports,Cycling,Urban,816.01,1523.23,Supplier D,3.4
+20368,Product 368,Furniture,Tables,Zenith,276.33,2148.17,Supplier E,4.1
+20369,Product 369,Furniture,Tables,Zenith,904.5,1040.18,Supplier B,2.9
+20370,Product 370,Office Supplies,Printers,Apex,859.69,988.64,Supplier D,3.8
+20371,Product 371,Furniture,Desks,Nova,1164.95,2123.35,Supplier A,4.3
+20372,Product 372,Office Supplies,Binders,Zenith,555.12,1527.32,Supplier E,2.7
+20373,Product 373,Home Appliances,Kitchen,Nova,388.16,1315.24,Supplier C,5.0
+20374,Product 374,Home Appliances,Cooling,Zenith,1427.81,1641.98,Supplier D,3.3
+20375,Product 375,Clothing,Shirts,Apex,850.6,978.19,Supplier D,4.1
+20376,Product 376,Furniture,Desks,Vertex,60.17,1968.62,Supplier D,2.8
+20377,Product 377,Furniture,Tables,Zenith,1234.65,1419.85,Supplier B,4.3
+20378,Product 378,Beauty,Haircare,Urban,311.2,1270.52,Supplier D,4.6
+20379,Product 379,Furniture,Storage,Proline,1183.33,1360.83,Supplier C,2.8
+20380,Product 380,Electronics,Tablets,Urban,1063.64,1223.19,Supplier D,2.8
+20381,Product 381,Clothing,Trousers,Nova,1453.84,1671.92,Supplier D,3.2
+20382,Product 382,Electronics,Mobiles,Proline,1449.06,1669.05,Supplier C,2.5
+20383,Product 383,Office Supplies,Printers,Apex,426.13,1135.76,Supplier A,5.0
+20384,Product 384,Sports,Cycling,Apex,1154.35,1327.5,Supplier B,4.0
+20385,Product 385,Furniture,Desks,ValueMax,488.95,896.04,Supplier E,4.0
+20386,Product 386,Home Appliances,Cooling,Apex,951.21,2045.07,Supplier C,4.9
+20387,Product 387,Clothing,Jackets,Urban,904.66,1040.36,Supplier D,4.6
+20388,Product 388,Office Supplies,Paper,Prime,100.72,926.72,Supplier B,4.5
+20389,Product 389,Home Appliances,Small Appliances,Proline,27.67,1384.0,Supplier D,3.3
+20390,Product 390,Home Appliances,Cooling,Nova,105.49,1769.63,Supplier C,3.3
+20391,Product 391,Office Supplies,Paper,Nova,209.35,1480.56,Supplier B,3.2
+20392,Product 392,Furniture,Tables,Prime,401.33,1874.62,Supplier A,3.4
+20393,Product 393,Beauty,Makeup,Prime,1362.29,1566.63,Supplier B,3.4
+20394,Product 394,Furniture,Storage,Proline,787.58,2036.37,Supplier C,2.9
+20395,Product 395,Beauty,Skincare,Urban,1199.4,1991.51,Supplier B,3.4
+20396,Product 396,Clothing,Trousers,Apex,1260.7,1449.8,Supplier B,3.6
+20397,Product 397,Beauty,Skincare,ValueMax,1107.72,1385.69,Supplier B,3.3
+20398,Product 398,Office Supplies,Printers,Prime,599.25,689.14,Supplier B,2.9
+20399,Product 399,Clothing,Jackets,ValueMax,1298.51,1493.29,Supplier D,3.4
+20400,Product 400,Home Appliances,Cleaning,ValueMax,1118.23,1285.96,Supplier C,3.7
+20401,Product 401,Office Supplies,Binders,Nova,1119.86,1287.84,Supplier C,4.3
+20402,Product 402,Furniture,Tables,Urban,1354.33,2158.56,Supplier A,4.3
+20403,Product 403,Clothing,Trousers,Prime,906.02,1041.92,Supplier C,3.0
+20404,Product 404,Home Appliances,Kitchen,Prime,802.29,1317.05,Supplier E,2.6
+20405,Product 405,Furniture,Desks,Vertex,1337.44,1538.06,Supplier D,3.3
+20406,Product 406,Sports,Cycling,Urban,692.6,834.25,Supplier C,2.9
+20407,Product 407,Home Appliances,Cleaning,Prime,1221.12,1404.29,Supplier B,3.5
+20408,Product 408,Furniture,Storage,Apex,99.69,757.05,Supplier B,4.9
+20409,Product 409,Beauty,Makeup,Vertex,21.91,1413.16,Supplier A,3.0
+20410,Product 410,Electronics,Tablets,Apex,801.87,2115.23,Supplier A,3.3
+20411,Product 411,Home Appliances,Cleaning,Proline,128.95,960.14,Supplier D,4.3
+20412,Product 412,Clothing,Jackets,Zenith,1465.28,2142.12,Supplier E,3.8
+20413,Product 413,Home Appliances,Kitchen,Prime,28.14,1479.12,Supplier E,2.6
+20414,Product 414,Sports,Fitness,Prime,1082.86,1347.49,Supplier D,2.9
+20415,Product 415,Home Appliances,Cleaning,Nova,380.21,544.52,Supplier E,4.8
+20416,Product 416,Home Appliances,Cooling,Vertex,1451.98,1669.78,Supplier C,2.8
+20417,Product 417,Sports,Team Sports,ValueMax,584.68,1878.7,Supplier B,4.1
+20418,Product 418,Home Appliances,Cleaning,Nova,60.38,1275.54,Supplier B,4.5
+20419,Product 419,Sports,Outdoor,Apex,59.86,929.28,Supplier B,3.2
+20420,Product 420,Office Supplies,Printers,Proline,838.99,1791.97,Supplier D,4.3
+20421,Product 421,Furniture,Tables,Urban,1480.33,1702.38,Supplier A,2.9
+20422,Product 422,Furniture,Chairs,Nova,1470.06,1730.45,Supplier E,3.2
+20423,Product 423,Home Appliances,Cleaning,Prime,519.16,741.68,Supplier D,3.3
+20424,Product 424,Clothing,Jackets,Zenith,734.4,2028.31,Supplier B,5.0
+20425,Product 425,Electronics,Accessories,Vertex,168.67,611.49,Supplier D,3.0
+20426,Product 426,Furniture,Desks,Prime,792.82,911.74,Supplier A,2.8
+20427,Product 427,Beauty,Personal Care,Zenith,907.56,1544.87,Supplier C,4.8
+20428,Product 428,Sports,Team Sports,Urban,391.57,450.31,Supplier A,2.9
+20429,Product 429,Sports,Outdoor,ValueMax,925.93,2090.12,Supplier A,4.7
+20430,Product 430,Furniture,Tables,Apex,1351.55,1554.28,Supplier A,4.1
+20431,Product 431,Electronics,Accessories,Vertex,21.41,530.97,Supplier D,3.9
+20432,Product 432,Office Supplies,Paper,Apex,358.82,483.14,Supplier D,4.4
+20433,Product 433,Sports,Fitness,Zenith,330.68,2034.81,Supplier E,4.3
+20434,Product 434,Clothing,Trousers,Urban,203.35,1349.05,Supplier E,2.8
+20435,Product 435,Sports,Fitness,Vertex,265.83,1969.41,Supplier E,5.0
+20436,Product 436,Clothing,Shoes,Zenith,946.35,1088.3,Supplier E,4.9
+20437,Product 437,Clothing,Shoes,Prime,171.99,2038.1,Supplier A,4.7
+20438,Product 438,Home Appliances,Cooling,Apex,1113.03,1279.98,Supplier D,4.1
+20439,Product 439,Beauty,Personal Care,Urban,1332.79,1532.71,Supplier D,3.8
+20440,Product 440,Clothing,Shirts,Prime,1391.35,1600.05,Supplier A,3.8
+20441,Product 441,Home Appliances,Cooling,Prime,997.06,1146.62,Supplier A,2.5
+20442,Product 442,Beauty,Haircare,Prime,312.15,2108.8,Supplier E,3.7
+20443,Product 443,Office Supplies,Stationery,ValueMax,146.24,2188.28,Supplier E,4.1
+20444,Product 444,Sports,Outdoor,Apex,363.4,821.07,Supplier B,4.1
+20445,Product 445,Clothing,Jackets,Vertex,1443.7,2078.19,Supplier A,3.3
+20446,Product 446,Beauty,Makeup,Urban,1444.27,1660.91,Supplier B,3.7
+20447,Product 447,Clothing,Shirts,Nova,585.24,673.03,Supplier A,4.1
+20448,Product 448,Home Appliances,Cooling,Apex,502.17,577.5,Supplier D,3.6
+20449,Product 449,Office Supplies,Binders,Urban,774.82,891.04,Supplier B,4.9
+20450,Product 450,Home Appliances,Kitchen,Urban,451.7,519.45,Supplier A,4.3
+20451,Product 451,Office Supplies,Binders,Zenith,1469.9,1690.38,Supplier E,2.5
+20452,Product 452,Home Appliances,Cooling,Nova,347.41,399.52,Supplier E,2.6
+20453,Product 453,Sports,Outdoor,Proline,566.33,1615.25,Supplier E,4.2
+20454,Product 454,Clothing,Jackets,Prime,655.47,1838.4,Supplier E,3.5
+20455,Product 455,Clothing,Jackets,Apex,205.09,1522.56,Supplier A,4.6
+20456,Product 456,Office Supplies,Binders,Vertex,586.58,674.57,Supplier D,2.9
+20457,Product 457,Sports,Fitness,Apex,1287.96,1694.06,Supplier D,2.5
+20458,Product 458,Home Appliances,Kitchen,Prime,227.73,571.42,Supplier D,3.5
+20459,Product 459,Clothing,Jackets,Prime,884.35,1678.09,Supplier B,4.3
+20460,Product 460,Electronics,Mobiles,Prime,621.82,1261.25,Supplier B,4.9
+20461,Product 461,Electronics,Laptops,Prime,272.39,825.77,Supplier E,4.7
+20462,Product 462,Electronics,Mobiles,ValueMax,38.26,211.18,Supplier A,3.7
+20463,Product 463,Sports,Team Sports,ValueMax,424.55,1825.7,Supplier D,4.5
+20464,Product 464,Sports,Fitness,Prime,111.51,2069.05,Supplier D,2.7
+20465,Product 465,Electronics,Accessories,ValueMax,577.62,1475.04,Supplier D,3.9
+20466,Product 466,Electronics,Mobiles,Proline,1219.11,2123.06,Supplier C,4.8
+20467,Product 467,Sports,Fitness,Proline,1085.13,2057.02,Supplier D,3.5
+20468,Product 468,Clothing,Shirts,Apex,1422.13,1635.45,Supplier E,4.9
+20469,Product 469,Office Supplies,Binders,Prime,651.98,1616.73,Supplier D,3.1
+20470,Product 470,Home Appliances,Kitchen,Vertex,1067.55,1227.68,Supplier A,2.8
+20471,Product 471,Furniture,Desks,Nova,1004.71,1155.42,Supplier B,3.8
+20472,Product 472,Furniture,Tables,Nova,341.23,392.41,Supplier B,4.8
+20473,Product 473,Office Supplies,Printers,Urban,469.3,2145.27,Supplier B,3.3
+20474,Product 474,Beauty,Haircare,Prime,804.15,1605.72,Supplier B,4.5
+20475,Product 475,Sports,Fitness,Proline,1199.05,1378.91,Supplier B,2.9
+20476,Product 476,Furniture,Tables,Zenith,703.48,836.09,Supplier D,4.4
+20477,Product 477,Clothing,Trousers,Nova,357.06,946.79,Supplier A,3.9
+20478,Product 478,Beauty,Skincare,Proline,1490.33,1713.88,Supplier D,2.9
+20479,Product 479,Beauty,Skincare,Prime,191.06,2038.76,Supplier D,4.3
+20480,Product 480,Sports,Team Sports,Urban,1434.72,1649.93,Supplier E,4.3
+20481,Product 481,Electronics,Laptops,ValueMax,1217.39,1400.0,Supplier A,3.8
+20482,Product 482,Furniture,Desks,Zenith,1261.56,1450.79,Supplier B,3.1
+20483,Product 483,Furniture,Chairs,Nova,1196.48,1375.95,Supplier E,2.8
+20484,Product 484,Furniture,Storage,Apex,328.09,1124.07,Supplier C,4.9
+20485,Product 485,Furniture,Tables,Prime,956.22,1099.65,Supplier C,4.1
+20486,Product 486,Office Supplies,Binders,Nova,1139.99,1310.99,Supplier A,4.5
+20487,Product 487,Clothing,Shirts,Apex,1123.61,1292.15,Supplier D,4.2
+20488,Product 488,Office Supplies,Stationery,Proline,421.92,2015.42,Supplier B,4.6
+20489,Product 489,Office Supplies,Stationery,Apex,288.06,788.11,Supplier E,2.9
+20490,Product 490,Furniture,Tables,Apex,505.62,581.46,Supplier B,3.7
+20491,Product 491,Furniture,Storage,Urban,730.17,1642.01,Supplier A,4.2
+20492,Product 492,Beauty,Skincare,Nova,869.2,2089.61,Supplier C,2.8
+20493,Product 493,Home Appliances,Small Appliances,Vertex,1258.69,1447.49,Supplier C,2.9
+20494,Product 494,Furniture,Tables,ValueMax,1158.17,1331.9,Supplier C,4.1
+20495,Product 495,Sports,Cycling,Zenith,1020.7,1523.28,Supplier E,4.7
+20496,Product 496,Sports,Fitness,ValueMax,409.96,930.68,Supplier B,4.2
+20497,Product 497,Beauty,Personal Care,Vertex,728.74,1491.81,Supplier B,2.6
+20498,Product 498,Furniture,Desks,Urban,516.45,632.64,Supplier D,4.9
+20499,Product 499,Home Appliances,Cleaning,Apex,367.69,422.84,Supplier A,2.8
+20500,Product 500,Beauty,Skincare,Prime,35.16,777.56,Supplier E,3.1
+20501,Product 501,Sports,Cycling,Apex,522.4,1559.4,Supplier B,4.9
+20502,Product 502,Furniture,Storage,Proline,399.05,883.06,Supplier B,4.4
+20503,Product 503,Beauty,Skincare,Apex,866.42,996.38,Supplier A,4.8
+20504,Product 504,Office Supplies,Stationery,Apex,112.21,1036.89,Supplier B,4.5
+20505,Product 505,Clothing,Jackets,Prime,420.37,1662.6,Supplier C,4.1
+20506,Product 506,Clothing,Jackets,Prime,86.26,289.17,Supplier D,3.2
+20507,Product 507,Sports,Fitness,Vertex,969.3,1531.1,Supplier E,3.3
+20508,Product 508,Electronics,Mobiles,Vertex,860.92,1478.14,Supplier D,4.9
+20509,Product 509,Clothing,Trousers,Vertex,519.47,834.5,Supplier B,4.7
+20510,Product 510,Sports,Outdoor,ValueMax,238.06,2135.63,Supplier E,3.4
+20511,Product 511,Clothing,Shoes,Urban,1437.72,1971.51,Supplier A,3.4
+20512,Product 512,Furniture,Chairs,ValueMax,884.9,1017.63,Supplier B,3.2
+20513,Product 513,Electronics,Tablets,ValueMax,1025.09,1178.85,Supplier B,3.3
+20514,Product 514,Clothing,Shoes,Zenith,806.4,927.36,Supplier C,4.7
+20515,Product 515,Home Appliances,Small Appliances,Proline,1213.67,1395.72,Supplier B,2.5
+20516,Product 516,Clothing,Shoes,Nova,1346.64,1548.64,Supplier E,3.6
+20517,Product 517,Beauty,Skincare,ValueMax,586.41,2023.68,Supplier B,4.9
+20518,Product 518,Home Appliances,Kitchen,Prime,1041.24,1918.63,Supplier B,3.9
+20519,Product 519,Clothing,Shoes,Zenith,360.23,693.65,Supplier D,3.6
+20520,Product 520,Electronics,Tablets,Apex,984.75,1132.46,Supplier C,3.3
+20521,Product 521,Clothing,Jackets,Nova,610.75,702.36,Supplier C,2.7
+20522,Product 522,Furniture,Desks,ValueMax,30.04,1210.83,Supplier E,3.1
+20523,Product 523,Sports,Team Sports,Prime,1434.18,1649.31,Supplier C,2.7
+20524,Product 524,Furniture,Chairs,Apex,1305.29,2066.78,Supplier A,2.8
+20525,Product 525,Beauty,Haircare,Zenith,450.44,1911.25,Supplier D,2.9
+20526,Product 526,Office Supplies,Printers,Nova,1496.68,1721.18,Supplier D,3.3
+20527,Product 527,Clothing,Shirts,Prime,489.35,1547.63,Supplier B,2.5
+20528,Product 528,Furniture,Chairs,Zenith,699.09,1262.6,Supplier E,4.9
+20529,Product 529,Furniture,Chairs,Zenith,1279.86,1768.95,Supplier B,2.8
+20530,Product 530,Beauty,Skincare,Prime,470.8,1062.17,Supplier A,3.5
+20531,Product 531,Furniture,Storage,Vertex,686.8,789.82,Supplier A,4.7
+20532,Product 532,Clothing,Jackets,Proline,1005.07,1418.46,Supplier D,2.8
+20533,Product 533,Beauty,Personal Care,Apex,213.09,245.05,Supplier B,3.7
+20534,Product 534,Home Appliances,Cleaning,Nova,645.08,1298.56,Supplier C,4.6
+20535,Product 535,Electronics,Tablets,Apex,477.93,549.62,Supplier D,3.9
+20536,Product 536,Office Supplies,Binders,Proline,1021.63,1516.31,Supplier E,3.0
+20537,Product 537,Office Supplies,Stationery,Prime,221.23,1826.85,Supplier C,4.3
+20538,Product 538,Furniture,Tables,Nova,364.44,419.11,Supplier E,4.2
+20539,Product 539,Furniture,Tables,Apex,1072.84,1233.77,Supplier B,3.4
+20540,Product 540,Clothing,Shoes,Nova,251.21,1621.74,Supplier E,2.6
+20541,Product 541,Office Supplies,Binders,Proline,644.59,741.28,Supplier B,2.5
+20542,Product 542,Office Supplies,Printers,Prime,1075.06,1259.36,Supplier A,4.6
+20543,Product 543,Office Supplies,Printers,Nova,1152.89,1487.89,Supplier D,3.3
+20544,Product 544,Office Supplies,Binders,Apex,160.42,799.9,Supplier D,2.8
+20545,Product 545,Furniture,Tables,Urban,1280.95,1835.4,Supplier E,3.8
+20546,Product 546,Clothing,Trousers,Urban,1091.48,1255.2,Supplier E,4.8
+20547,Product 547,Beauty,Makeup,Proline,522.16,1390.58,Supplier A,2.5
+20548,Product 548,Clothing,Jackets,Nova,1150.43,1322.99,Supplier D,2.6
+20549,Product 549,Home Appliances,Kitchen,Nova,1097.88,1262.56,Supplier D,3.5
+20550,Product 550,Beauty,Makeup,Nova,909.32,1045.72,Supplier D,4.2
+20551,Product 551,Home Appliances,Cooling,Prime,846.55,1991.51,Supplier A,3.7
+20552,Product 552,Furniture,Storage,Zenith,1107.36,1945.33,Supplier A,4.7
+20553,Product 553,Office Supplies,Printers,Zenith,1498.9,1782.47,Supplier D,2.6
+20554,Product 554,Clothing,Shirts,Apex,876.26,1007.7,Supplier E,3.4
+20555,Product 555,Clothing,Shoes,Zenith,1216.9,1399.44,Supplier A,3.4
+20556,Product 556,Furniture,Tables,Zenith,1121.53,1757.57,Supplier A,3.4
+20557,Product 557,Electronics,Mobiles,Apex,1286.6,1494.03,Supplier C,3.7
+20558,Product 558,Office Supplies,Binders,Zenith,1432.7,1647.6,Supplier B,4.5
+20559,Product 559,Beauty,Haircare,Prime,305.76,1973.32,Supplier E,3.3
+20560,Product 560,Sports,Outdoor,Nova,264.88,378.68,Supplier E,4.4
+20561,Product 561,Sports,Cycling,Prime,887.8,1020.97,Supplier C,2.9
+20562,Product 562,Furniture,Storage,Proline,684.96,1985.19,Supplier E,3.9
+20563,Product 563,Office Supplies,Printers,Zenith,864.67,1081.62,Supplier B,3.4
+20564,Product 564,Home Appliances,Cleaning,Vertex,1201.1,1381.26,Supplier E,3.8
+20565,Product 565,Clothing,Shoes,Proline,1398.94,1608.78,Supplier C,2.8
+20566,Product 566,Office Supplies,Paper,Prime,637.78,2159.63,Supplier C,4.9
+20567,Product 567,Office Supplies,Printers,Prime,1082.54,1244.92,Supplier A,4.8
+20568,Product 568,Electronics,Tablets,Nova,311.26,1672.58,Supplier A,4.6
+20569,Product 569,Beauty,Personal Care,ValueMax,811.14,932.81,Supplier A,4.7
+20570,Product 570,Beauty,Haircare,Proline,52.27,284.0,Supplier C,2.9
+20571,Product 571,Electronics,Accessories,Apex,765.55,945.6,Supplier A,3.8
+20572,Product 572,Office Supplies,Paper,Urban,827.1,1220.79,Supplier A,3.3
+20573,Product 573,Clothing,Shoes,Proline,1108.46,1274.73,Supplier D,4.7
+20574,Product 574,Sports,Fitness,Urban,981.24,1128.43,Supplier E,3.0
+20575,Product 575,Beauty,Makeup,Apex,550.43,1409.42,Supplier A,3.0
+20576,Product 576,Office Supplies,Paper,ValueMax,28.48,1280.89,Supplier C,4.2
+20577,Product 577,Sports,Cycling,Vertex,190.92,1599.26,Supplier E,2.7
+20578,Product 578,Beauty,Personal Care,Vertex,1460.13,1845.0,Supplier C,4.3
+20579,Product 579,Sports,Fitness,Vertex,1385.05,1592.81,Supplier A,3.2
+20580,Product 580,Office Supplies,Binders,ValueMax,501.14,947.84,Supplier A,4.2
+20581,Product 581,Sports,Outdoor,Urban,403.1,1107.82,Supplier E,4.7
+20582,Product 582,Office Supplies,Printers,Zenith,665.9,1258.99,Supplier C,4.0
+20583,Product 583,Electronics,Laptops,ValueMax,1041.11,1197.28,Supplier A,3.0
+20584,Product 584,Sports,Fitness,ValueMax,548.1,708.42,Supplier E,2.6
+20585,Product 585,Sports,Fitness,Proline,119.59,403.01,Supplier E,2.6
+20586,Product 586,Office Supplies,Printers,ValueMax,616.14,867.3,Supplier D,2.7
+20587,Product 587,Clothing,Jackets,ValueMax,405.67,2142.18,Supplier A,3.9
+20588,Product 588,Office Supplies,Binders,ValueMax,500.9,1294.53,Supplier A,3.4
+20589,Product 589,Electronics,Laptops,Zenith,261.18,961.76,Supplier B,3.1
+20590,Product 590,Beauty,Makeup,Apex,995.08,1258.08,Supplier A,3.0
+20591,Product 591,Electronics,Laptops,Nova,799.41,1481.9,Supplier C,4.9
+20592,Product 592,Clothing,Trousers,Proline,420.88,973.85,Supplier B,2.8
+20593,Product 593,Electronics,Laptops,Vertex,839.72,1001.53,Supplier D,3.3
+20594,Product 594,Home Appliances,Kitchen,Proline,749.21,1552.04,Supplier A,3.7
+20595,Product 595,Beauty,Makeup,ValueMax,1198.04,1377.75,Supplier D,2.5
+20596,Product 596,Home Appliances,Small Appliances,Zenith,1434.86,1650.09,Supplier E,4.8
+20597,Product 597,Home Appliances,Cooling,Proline,213.39,1217.7,Supplier A,2.7
+20598,Product 598,Sports,Cycling,Vertex,1328.19,1672.15,Supplier D,4.2
+20599,Product 599,Beauty,Makeup,Prime,1063.1,2162.34,Supplier C,4.1
+20600,Product 600,Beauty,Skincare,ValueMax,1044.98,1756.79,Supplier A,4.5
+20601,Product 601,Furniture,Desks,Proline,573.97,1123.22,Supplier B,4.1
+20602,Product 602,Clothing,Shoes,Apex,528.98,608.33,Supplier D,4.4
+20603,Product 603,Sports,Fitness,ValueMax,28.35,1306.53,Supplier E,3.6
+20604,Product 604,Office Supplies,Paper,Prime,1473.66,1840.43,Supplier B,3.7
+20605,Product 605,Home Appliances,Small Appliances,Proline,917.63,2053.34,Supplier A,4.3
+20606,Product 606,Electronics,Laptops,Urban,615.45,1820.92,Supplier B,3.9
+20607,Product 607,Beauty,Personal Care,Urban,824.78,948.5,Supplier E,3.8
+20608,Product 608,Home Appliances,Small Appliances,Apex,79.98,1576.29,Supplier C,3.0
+20609,Product 609,Sports,Team Sports,Vertex,277.0,1939.94,Supplier C,3.1
+20610,Product 610,Sports,Team Sports,Zenith,942.57,1507.81,Supplier A,3.4
+20611,Product 611,Furniture,Chairs,Proline,781.11,1518.08,Supplier D,2.5
+20612,Product 612,Clothing,Trousers,Nova,1184.87,1362.6,Supplier C,3.5
+20613,Product 613,Beauty,Personal Care,Nova,994.94,1412.24,Supplier C,2.5
+20614,Product 614,Furniture,Storage,Zenith,910.12,1046.64,Supplier E,3.9
+20615,Product 615,Sports,Outdoor,Prime,1226.59,1410.58,Supplier C,4.3
+20616,Product 616,Office Supplies,Binders,Proline,121.03,1826.14,Supplier E,3.9
+20617,Product 617,Home Appliances,Small Appliances,Nova,1042.51,2076.62,Supplier C,4.2
+20618,Product 618,Clothing,Shirts,Vertex,1079.07,1889.3,Supplier B,2.5
+20619,Product 619,Home Appliances,Cooling,Nova,427.24,754.59,Supplier E,2.6
+20620,Product 620,Sports,Team Sports,Zenith,309.56,355.99,Supplier D,4.2
+20621,Product 621,Office Supplies,Printers,Proline,336.5,637.9,Supplier D,4.5
+20622,Product 622,Furniture,Storage,Apex,313.25,1858.95,Supplier B,4.3
+20623,Product 623,Office Supplies,Binders,Vertex,795.2,1453.12,Supplier D,4.2
+20624,Product 624,Home Appliances,Cooling,Proline,220.73,2127.73,Supplier C,4.3
+20625,Product 625,Sports,Outdoor,Nova,995.74,1145.1,Supplier A,4.3
+20626,Product 626,Sports,Cycling,ValueMax,175.52,1226.69,Supplier B,4.3
+20627,Product 627,Office Supplies,Binders,ValueMax,59.8,1744.38,Supplier E,4.3
+20628,Product 628,Beauty,Makeup,Apex,492.55,566.43,Supplier C,2.7
+20629,Product 629,Electronics,Tablets,Apex,303.95,2122.08,Supplier D,2.7
+20630,Product 630,Electronics,Laptops,Zenith,1483.22,1705.7,Supplier A,3.4
+20631,Product 631,Electronics,Mobiles,Nova,468.43,538.69,Supplier B,3.8
+20632,Product 632,Beauty,Skincare,Urban,348.65,400.95,Supplier E,4.4
+20633,Product 633,Furniture,Tables,Nova,311.22,1944.41,Supplier C,3.3
+20634,Product 634,Home Appliances,Small Appliances,Urban,573.3,1430.26,Supplier E,3.2
+20635,Product 635,Sports,Fitness,Vertex,916.66,1685.87,Supplier E,4.5
+20636,Product 636,Sports,Cycling,Zenith,1177.28,1731.31,Supplier B,3.1
+20637,Product 637,Beauty,Skincare,ValueMax,559.57,942.4,Supplier E,4.6
+20638,Product 638,Electronics,Laptops,Prime,946.44,1762.99,Supplier D,2.9
+20639,Product 639,Office Supplies,Binders,Zenith,733.45,2064.45,Supplier A,3.4
+20640,Product 640,Clothing,Shirts,Urban,1272.81,1463.73,Supplier A,3.5
+20641,Product 641,Home Appliances,Cooling,ValueMax,862.18,1688.18,Supplier A,3.2
+20642,Product 642,Home Appliances,Small Appliances,Apex,449.04,697.91,Supplier D,2.5
+20643,Product 643,Clothing,Trousers,Apex,1061.31,1220.51,Supplier A,3.1
+20644,Product 644,Office Supplies,Paper,Prime,1233.7,1418.76,Supplier B,3.3
+20645,Product 645,Electronics,Mobiles,Zenith,708.85,1904.27,Supplier C,3.3
+20646,Product 646,Clothing,Shirts,Proline,1481.05,1703.21,Supplier A,4.5
+20647,Product 647,Furniture,Tables,Vertex,1321.06,1519.22,Supplier B,2.6
+20648,Product 648,Clothing,Shoes,Nova,311.49,1505.7,Supplier D,3.5
+20649,Product 649,Sports,Cycling,Urban,1184.4,1362.06,Supplier E,2.6
+20650,Product 650,Clothing,Shoes,Urban,909.41,1749.19,Supplier C,4.8
+20651,Product 651,Home Appliances,Small Appliances,Vertex,811.52,2073.93,Supplier D,4.5
+20652,Product 652,Electronics,Accessories,Apex,780.63,897.72,Supplier C,5.0
+20653,Product 653,Home Appliances,Small Appliances,Proline,1283.05,1475.51,Supplier C,4.8
+20654,Product 654,Clothing,Jackets,Proline,924.09,2143.79,Supplier C,3.3
+20655,Product 655,Electronics,Accessories,Zenith,815.8,938.17,Supplier E,4.2
+20656,Product 656,Furniture,Desks,Urban,92.31,201.3,Supplier A,3.3
+20657,Product 657,Sports,Outdoor,Vertex,683.49,2096.26,Supplier C,4.7
+20658,Product 658,Beauty,Personal Care,Prime,1363.9,1966.99,Supplier A,3.5
+20659,Product 659,Clothing,Trousers,Nova,1073.37,1452.92,Supplier E,3.4
+20660,Product 660,Beauty,Haircare,Apex,95.41,1226.61,Supplier D,4.8
+20661,Product 661,Furniture,Chairs,Prime,1328.31,2024.73,Supplier A,4.6
+20662,Product 662,Office Supplies,Stationery,Prime,1243.47,1452.48,Supplier D,4.9
+20663,Product 663,Beauty,Makeup,Nova,829.09,1458.72,Supplier C,2.7
+20664,Product 664,Furniture,Storage,ValueMax,53.16,1860.8,Supplier A,3.1
+20665,Product 665,Home Appliances,Kitchen,Vertex,852.4,1447.54,Supplier E,3.3
+20666,Product 666,Furniture,Tables,Urban,100.79,1122.98,Supplier B,3.6
+20667,Product 667,Office Supplies,Binders,Prime,494.16,875.7,Supplier A,3.7
+20668,Product 668,Clothing,Shoes,Prime,950.79,1121.8,Supplier D,3.2
+20669,Product 669,Office Supplies,Binders,Proline,1371.11,1576.78,Supplier B,4.5
+20670,Product 670,Beauty,Skincare,Zenith,549.54,813.01,Supplier D,3.1
+20671,Product 671,Beauty,Haircare,Proline,1292.84,1486.77,Supplier A,4.2
+20672,Product 672,Clothing,Shoes,Prime,1379.17,1770.06,Supplier E,4.6
+20673,Product 673,Clothing,Shoes,Vertex,51.14,933.83,Supplier C,4.0
+20674,Product 674,Electronics,Tablets,Prime,374.35,430.5,Supplier C,3.4
+20675,Product 675,Furniture,Storage,Urban,1070.6,1231.19,Supplier E,3.0
+20676,Product 676,Electronics,Tablets,Vertex,1140.13,1311.15,Supplier C,2.8
+20677,Product 677,Sports,Fitness,Prime,600.78,1752.07,Supplier A,4.4
+20678,Product 678,Furniture,Storage,Apex,992.0,1140.8,Supplier C,3.7
+20679,Product 679,Office Supplies,Paper,Urban,925.99,1064.89,Supplier D,2.6
+20680,Product 680,Sports,Outdoor,Zenith,1114.87,1789.23,Supplier B,5.0
+20681,Product 681,Home Appliances,Kitchen,Urban,1083.61,1246.15,Supplier A,4.2
+20682,Product 682,Home Appliances,Cooling,Proline,147.09,408.12,Supplier A,4.6
+20683,Product 683,Electronics,Laptops,ValueMax,254.21,1824.49,Supplier E,3.6
+20684,Product 684,Clothing,Jackets,ValueMax,216.44,1224.91,Supplier A,4.9
+20685,Product 685,Clothing,Shoes,Nova,1400.07,1708.82,Supplier C,3.0
+20686,Product 686,Office Supplies,Binders,ValueMax,1372.04,1848.84,Supplier E,3.0
+20687,Product 687,Sports,Outdoor,Vertex,1200.17,2074.06,Supplier B,4.7
+20688,Product 688,Beauty,Personal Care,Prime,192.74,221.65,Supplier B,4.7
+20689,Product 689,Furniture,Desks,Prime,869.92,1764.34,Supplier D,3.7
+20690,Product 690,Office Supplies,Printers,Vertex,297.1,1568.02,Supplier D,2.8
+20691,Product 691,Office Supplies,Printers,ValueMax,565.21,649.99,Supplier A,3.3
+20692,Product 692,Sports,Fitness,Zenith,415.3,2051.79,Supplier C,4.4
+20693,Product 693,Electronics,Laptops,ValueMax,1246.82,1433.84,Supplier A,4.6
+20694,Product 694,Beauty,Skincare,ValueMax,233.79,1956.11,Supplier B,3.4
+20695,Product 695,Sports,Cycling,Prime,976.35,1343.1,Supplier B,2.7
+20696,Product 696,Clothing,Shoes,Zenith,1476.16,1697.58,Supplier E,4.2
+20697,Product 697,Home Appliances,Cleaning,Urban,1036.84,1192.37,Supplier E,4.3
+20698,Product 698,Beauty,Personal Care,Prime,137.27,2014.09,Supplier D,3.6
+20699,Product 699,Sports,Fitness,Zenith,1363.62,1568.16,Supplier D,4.0
+20700,Product 700,Furniture,Storage,Zenith,971.76,1117.52,Supplier A,5.0
+20701,Product 701,Electronics,Laptops,ValueMax,695.34,799.64,Supplier A,3.1
+20702,Product 702,Home Appliances,Kitchen,Proline,996.34,1717.46,Supplier D,3.9
+20703,Product 703,Furniture,Storage,Urban,1320.99,1519.14,Supplier C,4.0
+20704,Product 704,Electronics,Mobiles,ValueMax,726.15,1329.26,Supplier C,3.9
+20705,Product 705,Beauty,Haircare,Nova,806.36,1507.95,Supplier D,4.7
+20706,Product 706,Clothing,Shoes,Proline,689.62,793.06,Supplier B,4.0
+20707,Product 707,Home Appliances,Cleaning,Prime,127.44,1265.41,Supplier D,3.8
+20708,Product 708,Furniture,Storage,Prime,1184.86,1362.59,Supplier D,2.8
+20709,Product 709,Electronics,Laptops,Proline,207.09,2083.5,Supplier B,4.3
+20710,Product 710,Electronics,Laptops,Vertex,603.96,1896.57,Supplier D,2.8
+20711,Product 711,Office Supplies,Stationery,ValueMax,592.5,681.38,Supplier A,2.6
+20712,Product 712,Electronics,Tablets,Prime,434.46,1177.53,Supplier B,3.7
+20713,Product 713,Office Supplies,Paper,Vertex,615.71,1116.37,Supplier D,3.9
+20714,Product 714,Office Supplies,Paper,Vertex,934.65,2113.25,Supplier E,5.0
+20715,Product 715,Clothing,Jackets,Prime,480.85,885.04,Supplier A,4.3
+20716,Product 716,Home Appliances,Cleaning,ValueMax,275.32,1250.03,Supplier D,4.6
+20717,Product 717,Office Supplies,Stationery,Nova,1306.66,2045.29,Supplier C,3.4
+20718,Product 718,Clothing,Shirts,Urban,1456.83,1675.35,Supplier D,3.8
+20719,Product 719,Electronics,Laptops,Proline,698.7,1224.55,Supplier D,4.9
+20720,Product 720,Office Supplies,Paper,Prime,503.99,579.59,Supplier A,3.5
+20721,Product 721,Beauty,Makeup,Urban,90.27,1369.97,Supplier D,4.5
+20722,Product 722,Beauty,Skincare,Vertex,74.54,823.53,Supplier B,3.8
+20723,Product 723,Clothing,Shirts,Apex,601.47,2129.77,Supplier A,3.1
+20724,Product 724,Beauty,Personal Care,Zenith,1396.76,1606.27,Supplier C,4.0
+20725,Product 725,Clothing,Trousers,ValueMax,1101.45,1266.67,Supplier A,3.0
+20726,Product 726,Electronics,Tablets,Urban,536.92,1839.78,Supplier D,2.5
+20727,Product 727,Beauty,Haircare,Prime,1452.71,1811.28,Supplier C,3.1
+20728,Product 728,Office Supplies,Binders,Apex,654.56,1537.85,Supplier C,3.0
+20729,Product 729,Home Appliances,Small Appliances,ValueMax,429.65,1654.92,Supplier A,3.4
+20730,Product 730,Home Appliances,Cleaning,Proline,651.0,748.65,Supplier D,4.7
+20731,Product 731,Office Supplies,Printers,ValueMax,333.08,1423.26,Supplier A,3.5
+20732,Product 732,Sports,Outdoor,Vertex,1330.75,1530.36,Supplier B,4.6
+20733,Product 733,Clothing,Shoes,Zenith,554.54,637.72,Supplier B,3.9
+20734,Product 734,Office Supplies,Stationery,Prime,993.79,2053.05,Supplier D,2.5
+20735,Product 735,Office Supplies,Binders,Apex,595.79,1634.14,Supplier C,3.0
+20736,Product 736,Sports,Team Sports,Apex,1354.56,1557.74,Supplier E,4.8
+20737,Product 737,Furniture,Tables,Prime,970.72,1116.33,Supplier E,4.0
+20738,Product 738,Electronics,Mobiles,Urban,742.61,2089.16,Supplier D,4.8
+20739,Product 739,Beauty,Personal Care,Nova,215.57,273.45,Supplier A,3.3
+20740,Product 740,Office Supplies,Printers,Zenith,1354.84,1558.07,Supplier D,4.3
+20741,Product 741,Home Appliances,Small Appliances,Prime,829.29,953.68,Supplier B,4.4
+20742,Product 742,Sports,Cycling,ValueMax,441.88,508.16,Supplier E,4.9
+20743,Product 743,Sports,Fitness,Vertex,1319.33,1517.23,Supplier E,2.5
+20744,Product 744,Home Appliances,Small Appliances,Nova,100.57,2143.97,Supplier A,4.9
+20745,Product 745,Home Appliances,Small Appliances,Vertex,484.83,771.93,Supplier A,3.5
+20746,Product 746,Sports,Fitness,ValueMax,814.51,1124.34,Supplier D,4.6
+20747,Product 747,Beauty,Personal Care,Vertex,522.93,1648.68,Supplier A,3.9
+20748,Product 748,Electronics,Tablets,Zenith,725.57,1225.84,Supplier E,3.9
+20749,Product 749,Sports,Outdoor,Proline,411.19,1643.59,Supplier C,3.4
+20750,Product 750,Furniture,Chairs,Vertex,212.52,1465.75,Supplier C,4.6
+20751,Product 751,Beauty,Haircare,Zenith,74.54,1350.58,Supplier E,3.2
+20752,Product 752,Electronics,Laptops,Apex,253.32,1439.74,Supplier B,3.7
+20753,Product 753,Furniture,Tables,Vertex,1430.36,1764.19,Supplier C,3.9
+20754,Product 754,Furniture,Tables,Vertex,871.6,1571.12,Supplier E,4.4
+20755,Product 755,Home Appliances,Cooling,Zenith,743.66,1748.15,Supplier A,3.7
+20756,Product 756,Electronics,Tablets,ValueMax,588.8,677.12,Supplier A,4.2
+20757,Product 757,Electronics,Mobiles,Vertex,1068.46,1500.55,Supplier A,3.7
+20758,Product 758,Clothing,Jackets,Vertex,229.06,1629.34,Supplier B,4.1
+20759,Product 759,Beauty,Personal Care,Proline,428.67,680.93,Supplier A,4.2
+20760,Product 760,Clothing,Shirts,Prime,990.74,1927.83,Supplier A,4.3
+20761,Product 761,Clothing,Trousers,Urban,729.02,838.37,Supplier E,4.6
+20762,Product 762,Home Appliances,Small Appliances,Zenith,1159.74,1333.7,Supplier C,3.9
+20763,Product 763,Clothing,Shoes,Apex,1347.72,1911.6,Supplier B,3.0
+20764,Product 764,Office Supplies,Binders,Proline,1238.59,1424.38,Supplier C,4.2
+20765,Product 765,Home Appliances,Kitchen,Vertex,292.63,931.64,Supplier E,2.7
+20766,Product 766,Electronics,Mobiles,Zenith,155.38,828.39,Supplier C,3.0
+20767,Product 767,Furniture,Chairs,Prime,270.77,1978.79,Supplier C,4.5
+20768,Product 768,Home Appliances,Small Appliances,Proline,1179.63,1356.57,Supplier E,3.6
+20769,Product 769,Office Supplies,Printers,Urban,1372.47,1578.34,Supplier A,3.7
+20770,Product 770,Electronics,Laptops,Apex,1389.66,1753.06,Supplier C,5.0
+20771,Product 771,Electronics,Laptops,Apex,461.36,1392.55,Supplier D,3.1
+20772,Product 772,Beauty,Makeup,ValueMax,1263.71,2077.82,Supplier C,2.5
+20773,Product 773,Office Supplies,Binders,Urban,813.63,1771.44,Supplier E,2.8
+20774,Product 774,Electronics,Accessories,Vertex,1237.73,1423.39,Supplier E,3.1
+20775,Product 775,Sports,Cycling,Apex,831.58,2093.26,Supplier B,4.3
+20776,Product 776,Clothing,Shoes,Apex,235.92,1168.33,Supplier E,4.4
+20777,Product 777,Clothing,Shoes,ValueMax,137.24,157.83,Supplier B,3.9
+20778,Product 778,Beauty,Personal Care,ValueMax,1436.68,1652.18,Supplier B,3.1
+20779,Product 779,Office Supplies,Binders,Prime,650.19,1379.15,Supplier E,3.8
+20780,Product 780,Home Appliances,Cleaning,Apex,538.77,619.59,Supplier A,2.5
+20781,Product 781,Sports,Cycling,Prime,547.33,1297.43,Supplier B,4.2
+20782,Product 782,Home Appliances,Small Appliances,Apex,580.82,814.67,Supplier D,4.0
+20783,Product 783,Furniture,Chairs,Urban,1418.6,1631.39,Supplier C,2.6
+20784,Product 784,Home Appliances,Cooling,Zenith,112.8,129.72,Supplier E,4.5
+20785,Product 785,Sports,Outdoor,ValueMax,196.21,1871.07,Supplier B,4.4
+20786,Product 786,Electronics,Laptops,Vertex,1188.68,1366.98,Supplier C,3.3
+20787,Product 787,Furniture,Chairs,Apex,833.13,958.1,Supplier A,4.1
+20788,Product 788,Home Appliances,Kitchen,Apex,210.23,980.28,Supplier B,4.0
+20789,Product 789,Electronics,Accessories,Prime,71.0,1085.0,Supplier A,2.9
+20790,Product 790,Beauty,Personal Care,Urban,351.87,1413.16,Supplier D,3.0
+20791,Product 791,Electronics,Laptops,Nova,406.0,1168.3,Supplier B,4.2
+20792,Product 792,Beauty,Makeup,Proline,41.04,124.45,Supplier D,4.8
+20793,Product 793,Home Appliances,Cooling,Prime,339.81,1921.18,Supplier B,3.9
+20794,Product 794,Clothing,Jackets,Proline,1112.71,1279.62,Supplier C,3.9
+20795,Product 795,Furniture,Tables,Prime,1286.04,1478.95,Supplier E,4.1
+20796,Product 796,Office Supplies,Binders,Apex,1349.39,1707.04,Supplier E,3.6
+20797,Product 797,Sports,Team Sports,Nova,597.07,1462.54,Supplier A,2.6
+20798,Product 798,Sports,Team Sports,Urban,492.73,1439.28,Supplier D,3.5
+20799,Product 799,Furniture,Tables,Urban,1499.79,1724.76,Supplier E,4.8
+20800,Product 800,Clothing,Trousers,Proline,1158.62,1332.41,Supplier D,4.5
+20801,Product 801,Beauty,Personal Care,ValueMax,815.28,1193.85,Supplier A,4.8
+20802,Product 802,Furniture,Desks,Apex,397.06,456.62,Supplier D,2.9
+20803,Product 803,Home Appliances,Small Appliances,Vertex,495.53,678.74,Supplier D,3.8
+20804,Product 804,Furniture,Tables,Apex,782.74,2173.73,Supplier D,4.0
+20805,Product 805,Sports,Team Sports,Nova,822.28,1466.96,Supplier C,3.0
+20806,Product 806,Furniture,Storage,Nova,40.24,939.09,Supplier C,3.0
+20807,Product 807,Office Supplies,Printers,Nova,1439.91,1655.9,Supplier D,4.5
+20808,Product 808,Clothing,Jackets,Urban,871.9,1647.1,Supplier C,4.2
+20809,Product 809,Office Supplies,Printers,Apex,891.95,1025.74,Supplier D,4.1
+20810,Product 810,Furniture,Tables,Apex,332.98,382.93,Supplier D,3.2
+20811,Product 811,Home Appliances,Cleaning,Nova,1152.18,1325.01,Supplier B,3.8
+20812,Product 812,Electronics,Tablets,Zenith,1111.15,1612.5,Supplier D,2.6
+20813,Product 813,Beauty,Personal Care,Zenith,160.83,1424.9,Supplier D,2.8
+20814,Product 814,Electronics,Tablets,ValueMax,900.59,1035.68,Supplier C,3.8
+20815,Product 815,Office Supplies,Binders,Nova,994.13,1143.25,Supplier D,3.3
+20816,Product 816,Beauty,Personal Care,Apex,1256.64,1445.14,Supplier A,4.9
+20817,Product 817,Furniture,Desks,Prime,325.01,1269.32,Supplier B,3.7
+20818,Product 818,Electronics,Laptops,Zenith,1318.9,1518.62,Supplier D,2.7
+20819,Product 819,Sports,Outdoor,Apex,702.99,808.44,Supplier E,2.5
+20820,Product 820,Electronics,Accessories,Apex,162.85,1606.7,Supplier D,4.3
+20821,Product 821,Beauty,Personal Care,Prime,176.32,2061.33,Supplier D,2.9
+20822,Product 822,Clothing,Jackets,Nova,312.75,1334.28,Supplier B,3.0
+20823,Product 823,Beauty,Personal Care,Prime,438.47,504.24,Supplier D,3.6
+20824,Product 824,Furniture,Chairs,Proline,754.68,1504.61,Supplier B,3.2
+20825,Product 825,Electronics,Tablets,Urban,1128.15,1297.37,Supplier A,4.0
+20826,Product 826,Beauty,Makeup,Prime,296.35,340.8,Supplier B,3.7
+20827,Product 827,Sports,Team Sports,Prime,1489.12,1712.49,Supplier D,2.8
+20828,Product 828,Beauty,Makeup,ValueMax,259.05,1995.12,Supplier E,4.5
+20829,Product 829,Office Supplies,Stationery,Urban,907.08,1043.14,Supplier C,3.6
+20830,Product 830,Office Supplies,Printers,Urban,1394.83,1906.32,Supplier E,4.0
+20831,Product 831,Home Appliances,Cooling,ValueMax,1252.11,1439.93,Supplier D,2.5
+20832,Product 832,Clothing,Shoes,Apex,978.88,1151.84,Supplier C,4.1
+20833,Product 833,Furniture,Chairs,Nova,1078.93,1240.77,Supplier E,3.2
+20834,Product 834,Office Supplies,Stationery,Prime,218.62,1412.52,Supplier C,3.7
+20835,Product 835,Home Appliances,Cleaning,Vertex,34.3,263.96,Supplier C,3.2
+20836,Product 836,Electronics,Laptops,Apex,662.54,1068.88,Supplier D,5.0
+20837,Product 837,Office Supplies,Stationery,Nova,152.49,594.89,Supplier D,3.1
+20838,Product 838,Office Supplies,Stationery,ValueMax,549.47,881.47,Supplier C,4.8
+20839,Product 839,Electronics,Mobiles,Urban,351.14,1195.46,Supplier C,4.8
+20840,Product 840,Electronics,Mobiles,Zenith,1376.19,1582.62,Supplier E,3.6
+20841,Product 841,Clothing,Jackets,Nova,1322.48,1520.85,Supplier A,3.3
+20842,Product 842,Electronics,Tablets,Vertex,1232.04,2177.46,Supplier A,3.5
+20843,Product 843,Office Supplies,Stationery,Urban,1076.64,1238.14,Supplier C,5.0
+20844,Product 844,Clothing,Shoes,Urban,248.03,723.08,Supplier A,4.0
+20845,Product 845,Beauty,Haircare,Zenith,91.58,727.48,Supplier B,3.9
+20846,Product 846,Electronics,Tablets,Zenith,987.75,1135.91,Supplier C,2.6
+20847,Product 847,Clothing,Shirts,Prime,970.54,1515.97,Supplier C,4.6
+20848,Product 848,Electronics,Laptops,Proline,566.75,651.76,Supplier B,2.7
+20849,Product 849,Clothing,Trousers,Vertex,719.58,1028.78,Supplier B,2.6
+20850,Product 850,Clothing,Trousers,Nova,743.94,1429.35,Supplier D,3.2
+20851,Product 851,Sports,Outdoor,ValueMax,375.09,729.44,Supplier E,3.7
+20852,Product 852,Clothing,Shirts,Nova,484.97,2088.84,Supplier D,4.7
+20853,Product 853,Beauty,Haircare,Vertex,639.22,2155.89,Supplier C,4.5
+20854,Product 854,Electronics,Tablets,Nova,912.7,1049.6,Supplier A,3.0
+20855,Product 855,Electronics,Tablets,Apex,1434.61,1649.8,Supplier B,3.4
+20856,Product 856,Electronics,Laptops,Prime,816.96,939.5,Supplier C,4.5
+20857,Product 857,Office Supplies,Stationery,Apex,1102.12,1267.44,Supplier B,3.8
+20858,Product 858,Furniture,Tables,Prime,1214.36,1396.51,Supplier D,2.9
+20859,Product 859,Electronics,Tablets,ValueMax,187.99,1253.5,Supplier B,3.5
+20860,Product 860,Furniture,Storage,Apex,986.62,1134.61,Supplier E,4.1
+20861,Product 861,Beauty,Haircare,ValueMax,733.52,843.55,Supplier B,4.9
+20862,Product 862,Sports,Team Sports,Prime,867.2,997.28,Supplier C,4.2
+20863,Product 863,Electronics,Accessories,Urban,76.86,2182.92,Supplier D,2.5
+20864,Product 864,Beauty,Haircare,Prime,1361.2,2034.38,Supplier B,4.3
+20865,Product 865,Furniture,Storage,Vertex,1430.12,1644.64,Supplier D,3.1
+20866,Product 866,Office Supplies,Stationery,Nova,25.15,1454.71,Supplier C,4.7
+20867,Product 867,Office Supplies,Stationery,Urban,334.93,1021.42,Supplier D,3.5
+20868,Product 868,Office Supplies,Printers,ValueMax,286.69,1524.73,Supplier C,3.0
+20869,Product 869,Sports,Team Sports,Urban,1176.33,1352.78,Supplier E,3.7
+20870,Product 870,Home Appliances,Cooling,Urban,905.16,1959.68,Supplier D,3.1
+20871,Product 871,Home Appliances,Kitchen,Zenith,282.45,324.82,Supplier A,3.1
+20872,Product 872,Home Appliances,Kitchen,Prime,1224.68,1408.38,Supplier C,3.9
+20873,Product 873,Sports,Cycling,Nova,543.14,2168.52,Supplier E,4.4
+20874,Product 874,Furniture,Storage,Urban,702.07,807.38,Supplier B,4.6
+20875,Product 875,Office Supplies,Binders,Proline,593.21,682.19,Supplier C,3.5
+20876,Product 876,Electronics,Tablets,Vertex,791.64,1611.87,Supplier D,2.7
+20877,Product 877,Home Appliances,Small Appliances,Proline,730.61,1717.03,Supplier B,3.7
+20878,Product 878,Clothing,Trousers,Proline,426.38,1488.83,Supplier C,3.6
+20879,Product 879,Home Appliances,Kitchen,Apex,648.34,1714.34,Supplier C,3.0
+20880,Product 880,Clothing,Shirts,Urban,1364.34,1568.99,Supplier A,4.7
+20881,Product 881,Furniture,Desks,Zenith,764.28,878.92,Supplier A,4.9
+20882,Product 882,Electronics,Mobiles,Prime,1376.25,1582.69,Supplier C,2.6
+20883,Product 883,Beauty,Personal Care,Zenith,834.19,1715.82,Supplier A,4.5
+20884,Product 884,Office Supplies,Stationery,ValueMax,1157.85,1908.17,Supplier E,4.1
+20885,Product 885,Electronics,Tablets,Zenith,454.52,564.33,Supplier C,3.2
+20886,Product 886,Office Supplies,Stationery,Proline,1189.81,1368.28,Supplier D,4.1
+20887,Product 887,Beauty,Makeup,Proline,411.2,1724.97,Supplier B,2.8
+20888,Product 888,Furniture,Tables,Proline,48.93,586.71,Supplier B,2.7
+20889,Product 889,Beauty,Skincare,Proline,257.88,296.56,Supplier C,5.0
+20890,Product 890,Clothing,Trousers,Apex,52.05,1820.71,Supplier D,4.1
+20891,Product 891,Beauty,Skincare,Nova,1421.65,1634.9,Supplier B,3.1
+20892,Product 892,Home Appliances,Small Appliances,Apex,1499.97,1724.97,Supplier B,3.6
+20893,Product 893,Electronics,Tablets,Apex,1148.1,1320.31,Supplier A,4.9
+20894,Product 894,Clothing,Shoes,Zenith,180.03,207.03,Supplier C,3.6
+20895,Product 895,Office Supplies,Binders,Urban,1350.44,1749.99,Supplier D,4.8
+20896,Product 896,Furniture,Chairs,Prime,1120.79,1288.91,Supplier C,4.7
+20897,Product 897,Clothing,Jackets,Nova,511.72,588.48,Supplier B,3.4
+20898,Product 898,Electronics,Laptops,Zenith,763.37,877.88,Supplier B,4.2
+20899,Product 899,Home Appliances,Small Appliances,Vertex,999.4,1149.31,Supplier B,4.2
+20900,Product 900,Sports,Cycling,Proline,55.59,274.95,Supplier B,4.4
+20901,Product 901,Electronics,Tablets,Nova,762.28,876.62,Supplier B,3.4
+20902,Product 902,Clothing,Shoes,Vertex,1103.95,1269.54,Supplier E,2.6
+20903,Product 903,Home Appliances,Small Appliances,Nova,298.57,485.71,Supplier B,2.9
+20904,Product 904,Electronics,Accessories,Vertex,676.81,778.33,Supplier B,4.0
+20905,Product 905,Office Supplies,Paper,ValueMax,808.14,1067.11,Supplier D,4.4
+20906,Product 906,Furniture,Chairs,Prime,1108.64,1274.94,Supplier E,4.4
+20907,Product 907,Electronics,Accessories,Prime,1447.39,1664.5,Supplier C,4.0
+20908,Product 908,Sports,Outdoor,Vertex,1275.45,1466.77,Supplier D,2.7
+20909,Product 909,Clothing,Trousers,Vertex,939.85,1080.83,Supplier A,2.5
+20910,Product 910,Sports,Fitness,Zenith,883.79,1016.36,Supplier C,4.5
+20911,Product 911,Home Appliances,Cooling,ValueMax,912.72,1589.8,Supplier A,3.9
+20912,Product 912,Beauty,Personal Care,Zenith,826.86,950.89,Supplier A,4.5
+20913,Product 913,Beauty,Personal Care,Zenith,107.86,1737.75,Supplier C,2.9
+20914,Product 914,Home Appliances,Cooling,Prime,1053.48,1583.01,Supplier B,3.5
+20915,Product 915,Office Supplies,Printers,Nova,1080.18,1242.21,Supplier A,4.8
+20916,Product 916,Office Supplies,Printers,Zenith,778.47,895.24,Supplier A,2.9
+20917,Product 917,Sports,Outdoor,Proline,1308.17,1504.4,Supplier D,2.7
+20918,Product 918,Office Supplies,Printers,Urban,1015.21,1167.49,Supplier C,4.1
+20919,Product 919,Clothing,Shoes,Nova,556.74,1183.01,Supplier B,4.0
+20920,Product 920,Furniture,Desks,Zenith,49.15,115.99,Supplier E,4.9
+20921,Product 921,Beauty,Haircare,ValueMax,107.56,1771.74,Supplier B,4.8
+20922,Product 922,Home Appliances,Cooling,Apex,540.66,1099.73,Supplier E,4.4
+20923,Product 923,Office Supplies,Printers,Apex,703.92,1609.66,Supplier B,2.5
+20924,Product 924,Home Appliances,Kitchen,Zenith,266.97,1659.02,Supplier A,3.7
+20925,Product 925,Office Supplies,Stationery,Vertex,300.21,1129.68,Supplier A,4.7
+20926,Product 926,Furniture,Tables,Zenith,360.71,2038.04,Supplier B,3.6
+20927,Product 927,Beauty,Makeup,Zenith,1175.16,2178.82,Supplier A,4.9
+20928,Product 928,Beauty,Makeup,Vertex,1161.51,1335.74,Supplier A,4.1
+20929,Product 929,Sports,Cycling,Nova,586.75,674.76,Supplier B,2.8
+20930,Product 930,Office Supplies,Printers,Urban,275.1,818.23,Supplier E,3.8
+20931,Product 931,Furniture,Tables,Prime,184.14,514.68,Supplier B,4.2
+20932,Product 932,Electronics,Mobiles,Proline,148.95,1182.28,Supplier B,2.7
+20933,Product 933,Sports,Outdoor,Vertex,599.09,851.1,Supplier E,3.4
+20934,Product 934,Office Supplies,Binders,Apex,87.4,1072.58,Supplier B,4.3
+20935,Product 935,Beauty,Haircare,Proline,513.78,1686.12,Supplier E,2.9
+20936,Product 936,Beauty,Makeup,Zenith,1443.07,1659.53,Supplier D,3.4
+20937,Product 937,Electronics,Laptops,Urban,771.11,1196.32,Supplier E,4.2
+20938,Product 938,Beauty,Skincare,ValueMax,1237.51,1423.14,Supplier C,4.4
+20939,Product 939,Electronics,Laptops,Proline,211.31,1733.37,Supplier C,3.8
+20940,Product 940,Clothing,Shirts,Proline,416.76,1417.79,Supplier B,4.9
+20941,Product 941,Clothing,Jackets,Proline,1420.89,1634.02,Supplier C,4.8
+20942,Product 942,Beauty,Makeup,Prime,587.66,1462.31,Supplier D,3.7
+20943,Product 943,Home Appliances,Cooling,Nova,979.64,1126.59,Supplier E,2.9
+20944,Product 944,Beauty,Haircare,Urban,1464.67,1684.37,Supplier A,4.4
+20945,Product 945,Home Appliances,Cooling,Proline,835.17,1261.12,Supplier A,3.1
+20946,Product 946,Sports,Fitness,ValueMax,471.91,901.22,Supplier A,4.6
+20947,Product 947,Sports,Outdoor,Zenith,807.28,1536.12,Supplier D,4.0
+20948,Product 948,Beauty,Skincare,Urban,100.86,1888.81,Supplier A,3.5
+20949,Product 949,Office Supplies,Paper,Urban,186.31,1719.87,Supplier E,3.9
+20950,Product 950,Office Supplies,Paper,Nova,30.61,1213.47,Supplier B,3.8
+20951,Product 951,Beauty,Skincare,Nova,1328.63,1598.25,Supplier B,4.8
+20952,Product 952,Sports,Outdoor,Nova,1013.5,1165.52,Supplier E,3.0
+20953,Product 953,Beauty,Makeup,ValueMax,461.53,1742.19,Supplier D,4.8
+20954,Product 954,Home Appliances,Cooling,Proline,347.32,1829.04,Supplier C,2.6
+20955,Product 955,Beauty,Haircare,Vertex,1030.95,1185.59,Supplier E,4.4
+20956,Product 956,Sports,Fitness,Prime,1380.91,1588.05,Supplier D,4.8
+20957,Product 957,Sports,Fitness,Prime,462.73,615.88,Supplier D,3.5
+20958,Product 958,Furniture,Tables,Apex,495.91,570.3,Supplier B,2.7
+20959,Product 959,Clothing,Shoes,Prime,1284.28,1476.92,Supplier E,4.5
+20960,Product 960,Sports,Outdoor,Vertex,1342.2,1543.53,Supplier D,4.6
+20961,Product 961,Sports,Fitness,Zenith,1372.77,1578.69,Supplier E,3.3
+20962,Product 962,Beauty,Haircare,Proline,453.87,521.95,Supplier E,3.8
+20963,Product 963,Office Supplies,Paper,Nova,198.06,615.72,Supplier C,4.5
+20964,Product 964,Office Supplies,Paper,Prime,671.2,1474.18,Supplier B,3.0
+20965,Product 965,Beauty,Haircare,ValueMax,457.73,894.84,Supplier E,4.1
+20966,Product 966,Beauty,Personal Care,Proline,1328.12,1527.34,Supplier E,3.6
+20967,Product 967,Furniture,Tables,Proline,74.22,1761.5,Supplier A,2.9
+20968,Product 968,Office Supplies,Binders,Zenith,958.14,2166.39,Supplier D,4.6
+20969,Product 969,Beauty,Haircare,Nova,1361.15,1565.32,Supplier D,3.3
+20970,Product 970,Furniture,Desks,ValueMax,1465.47,1685.29,Supplier D,4.8
+20971,Product 971,Sports,Outdoor,Zenith,982.19,1129.52,Supplier E,3.9
+20972,Product 972,Electronics,Laptops,ValueMax,1425.89,2131.65,Supplier B,3.8
+20973,Product 973,Furniture,Desks,ValueMax,131.98,1503.94,Supplier E,3.6
+20974,Product 974,Sports,Outdoor,Vertex,551.73,1662.86,Supplier D,3.5
+20975,Product 975,Home Appliances,Cleaning,Nova,32.9,1496.41,Supplier A,4.5
+20976,Product 976,Clothing,Shirts,Zenith,1472.15,1692.97,Supplier C,4.2
+20977,Product 977,Sports,Team Sports,Prime,1356.04,1559.45,Supplier A,4.4
+20978,Product 978,Office Supplies,Binders,Nova,61.52,1761.83,Supplier E,3.6
+20979,Product 979,Clothing,Shoes,Vertex,46.84,1910.01,Supplier D,3.2
+20980,Product 980,Home Appliances,Kitchen,ValueMax,563.11,647.58,Supplier E,2.7
+20981,Product 981,Sports,Fitness,Vertex,402.64,1323.24,Supplier D,4.4
+20982,Product 982,Office Supplies,Binders,Vertex,1273.46,1464.48,Supplier B,3.5
+20983,Product 983,Home Appliances,Small Appliances,Zenith,257.52,2109.46,Supplier C,3.8
+20984,Product 984,Clothing,Jackets,Zenith,1190.16,1368.68,Supplier E,3.7
+20985,Product 985,Clothing,Trousers,Vertex,840.6,1606.8,Supplier A,3.6
+20986,Product 986,Beauty,Makeup,Proline,578.54,665.32,Supplier E,4.2
+20987,Product 987,Office Supplies,Printers,Urban,235.67,1366.84,Supplier C,4.0
+20988,Product 988,Home Appliances,Small Appliances,Apex,1496.58,1721.07,Supplier C,4.9
+20989,Product 989,Beauty,Makeup,Vertex,934.62,1074.81,Supplier D,2.8
+20990,Product 990,Sports,Fitness,Proline,670.29,1806.87,Supplier A,3.9
+20991,Product 991,Beauty,Makeup,Nova,569.27,1951.25,Supplier A,2.7
+20992,Product 992,Home Appliances,Small Appliances,Nova,1360.48,1885.5,Supplier A,4.5
+20993,Product 993,Furniture,Desks,Zenith,1235.36,1420.66,Supplier D,4.0
+20994,Product 994,Beauty,Skincare,Prime,1220.55,1645.22,Supplier A,3.6
+20995,Product 995,Home Appliances,Kitchen,Vertex,931.97,1244.09,Supplier D,4.5
+20996,Product 996,Furniture,Storage,Prime,1334.18,1534.31,Supplier A,3.6
+20997,Product 997,Office Supplies,Stationery,Apex,462.93,1066.01,Supplier D,3.1
+20998,Product 998,Furniture,Tables,Vertex,1061.49,1332.57,Supplier E,3.7
+20999,Product 999,Sports,Cycling,Apex,618.58,711.37,Supplier C,2.7
+21000,Product 1000,Electronics,Laptops,Urban,908.0,1044.2,Supplier B,4.7
+21001,Product 1001,Sports,Fitness,Zenith,1497.27,1721.86,Supplier C,4.3
+21002,Product 1002,Clothing,Shoes,ValueMax,1477.1,1698.66,Supplier D,4.4
+21003,Product 1003,Electronics,Tablets,Nova,778.68,895.48,Supplier D,4.7
+21004,Product 1004,Home Appliances,Kitchen,Vertex,869.32,999.72,Supplier D,4.5
+21005,Product 1005,Sports,Team Sports,Vertex,1348.04,1726.79,Supplier C,3.6
+21006,Product 1006,Sports,Fitness,Urban,1478.74,1700.55,Supplier D,2.8
+21007,Product 1007,Clothing,Shoes,Urban,1172.34,1348.19,Supplier B,3.4
+21008,Product 1008,Office Supplies,Binders,ValueMax,116.47,1741.1,Supplier B,4.8
+21009,Product 1009,Furniture,Storage,ValueMax,497.51,2003.55,Supplier E,4.9
+21010,Product 1010,Electronics,Mobiles,Proline,1346.91,1940.53,Supplier C,4.4
+21011,Product 1011,Office Supplies,Stationery,Apex,1157.16,1815.95,Supplier E,3.0
+21012,Product 1012,Home Appliances,Small Appliances,Nova,1118.5,2183.11,Supplier D,3.0
+21013,Product 1013,Electronics,Tablets,ValueMax,1008.53,1302.49,Supplier C,4.7
+21014,Product 1014,Beauty,Makeup,ValueMax,634.59,2118.82,Supplier C,2.9
+21015,Product 1015,Home Appliances,Kitchen,Vertex,616.8,2088.99,Supplier D,4.0
+21016,Product 1016,Office Supplies,Printers,Nova,1217.22,1399.8,Supplier A,3.4
+21017,Product 1017,Beauty,Makeup,Zenith,454.79,1903.65,Supplier C,3.3
+21018,Product 1018,Furniture,Desks,Urban,1033.55,1749.67,Supplier D,4.2
+21019,Product 1019,Beauty,Personal Care,ValueMax,1094.79,1713.48,Supplier A,4.9
+21020,Product 1020,Furniture,Chairs,Urban,1269.94,1974.93,Supplier A,4.4
+21021,Product 1021,Office Supplies,Printers,Proline,493.43,863.69,Supplier A,3.7
+21022,Product 1022,Office Supplies,Binders,Proline,1118.0,1285.7,Supplier C,3.6
+21023,Product 1023,Beauty,Makeup,Nova,177.61,1418.91,Supplier B,4.8
+21024,Product 1024,Furniture,Chairs,Apex,224.33,1631.04,Supplier C,3.9
+21025,Product 1025,Beauty,Makeup,Proline,637.66,1939.03,Supplier A,3.7
+21026,Product 1026,Office Supplies,Printers,Apex,101.73,1930.58,Supplier B,4.2
+21027,Product 1027,Furniture,Tables,Apex,1422.59,1635.98,Supplier A,3.1
+21028,Product 1028,Home Appliances,Cleaning,Proline,1354.81,2106.46,Supplier E,2.7
+21029,Product 1029,Home Appliances,Cooling,Apex,92.42,417.62,Supplier C,4.6
+21030,Product 1030,Office Supplies,Stationery,Apex,1260.7,2092.24,Supplier A,4.0
+21031,Product 1031,Electronics,Tablets,Nova,773.13,889.1,Supplier C,2.9
+21032,Product 1032,Office Supplies,Printers,Prime,1058.91,1235.7,Supplier E,3.2
+21033,Product 1033,Clothing,Jackets,Zenith,1332.66,1532.56,Supplier E,5.0
+21034,Product 1034,Electronics,Accessories,Zenith,873.92,1262.56,Supplier E,4.1
+21035,Product 1035,Electronics,Accessories,ValueMax,192.16,876.54,Supplier C,4.1
+21036,Product 1036,Beauty,Personal Care,Zenith,23.82,207.09,Supplier B,2.7
+21037,Product 1037,Electronics,Accessories,Proline,755.44,1436.41,Supplier B,4.9
+21038,Product 1038,Office Supplies,Binders,Apex,1424.86,1638.59,Supplier B,4.7
+21039,Product 1039,Sports,Fitness,Vertex,867.48,997.6,Supplier E,3.9
+21040,Product 1040,Office Supplies,Stationery,Vertex,571.95,1536.93,Supplier A,3.3
+21041,Product 1041,Clothing,Jackets,Nova,65.76,418.53,Supplier E,4.2
+21042,Product 1042,Electronics,Mobiles,ValueMax,1374.17,1580.3,Supplier E,4.6
+21043,Product 1043,Sports,Team Sports,Apex,504.19,579.82,Supplier E,4.5
+21044,Product 1044,Home Appliances,Kitchen,Prime,1063.07,1330.0,Supplier D,4.9
+21045,Product 1045,Sports,Fitness,Vertex,1047.47,1719.98,Supplier E,4.1
+21046,Product 1046,Beauty,Makeup,Nova,395.75,1325.26,Supplier A,3.3
+21047,Product 1047,Office Supplies,Binders,ValueMax,114.39,1786.29,Supplier E,3.7
+21048,Product 1048,Electronics,Mobiles,Apex,589.8,1313.51,Supplier C,4.5
+21049,Product 1049,Office Supplies,Stationery,Nova,489.35,1760.19,Supplier E,3.2
+21050,Product 1050,Furniture,Tables,Vertex,1056.38,2149.05,Supplier A,3.1
+21051,Product 1051,Clothing,Trousers,Apex,1233.28,1418.27,Supplier E,4.3
+21052,Product 1052,Furniture,Chairs,ValueMax,349.22,401.6,Supplier C,3.6
+21053,Product 1053,Beauty,Makeup,Apex,801.78,922.05,Supplier A,4.5
+21054,Product 1054,Home Appliances,Small Appliances,Vertex,80.1,1326.53,Supplier C,2.9
+21055,Product 1055,Furniture,Tables,Vertex,337.1,1217.21,Supplier A,3.3
+21056,Product 1056,Beauty,Personal Care,Nova,1147.41,1319.52,Supplier A,3.2
+21057,Product 1057,Sports,Team Sports,Nova,1194.23,1944.17,Supplier C,4.2
+21058,Product 1058,Clothing,Shoes,Urban,1169.08,2106.14,Supplier E,4.4
+21059,Product 1059,Furniture,Chairs,Apex,230.73,579.48,Supplier A,3.6
+21060,Product 1060,Office Supplies,Paper,Nova,835.53,960.86,Supplier B,3.7
+21061,Product 1061,Home Appliances,Kitchen,Vertex,645.61,742.45,Supplier B,2.8
+21062,Product 1062,Sports,Cycling,Vertex,1487.4,1710.51,Supplier C,4.3
+21063,Product 1063,Furniture,Tables,Prime,988.02,1881.5,Supplier A,5.0
+21064,Product 1064,Sports,Fitness,ValueMax,1404.1,1614.71,Supplier D,4.4
+21065,Product 1065,Furniture,Storage,Vertex,235.12,270.39,Supplier C,3.1
+21066,Product 1066,Furniture,Desks,Zenith,687.29,1056.36,Supplier E,4.1
+21067,Product 1067,Clothing,Jackets,Proline,1161.98,1336.28,Supplier B,3.2
+21068,Product 1068,Furniture,Chairs,Nova,564.43,911.48,Supplier C,2.6
+21069,Product 1069,Office Supplies,Paper,Urban,956.11,1099.53,Supplier A,2.9
+21070,Product 1070,Office Supplies,Stationery,Prime,777.32,1436.93,Supplier E,2.8
+21071,Product 1071,Furniture,Chairs,Urban,1488.06,1711.27,Supplier E,3.0
+21072,Product 1072,Sports,Team Sports,Apex,277.33,1928.22,Supplier B,4.5
+21073,Product 1073,Office Supplies,Paper,Prime,1404.32,1614.97,Supplier C,3.2
+21074,Product 1074,Home Appliances,Kitchen,Nova,614.33,1709.58,Supplier E,4.4
+21075,Product 1075,Sports,Team Sports,ValueMax,712.63,819.52,Supplier B,4.9
+21076,Product 1076,Home Appliances,Cleaning,Urban,802.33,922.68,Supplier B,3.9
+21077,Product 1077,Furniture,Tables,Nova,412.74,1938.87,Supplier B,3.7
+21078,Product 1078,Sports,Team Sports,Urban,1446.21,1663.14,Supplier D,4.4
+21079,Product 1079,Furniture,Storage,ValueMax,1369.0,1574.35,Supplier B,2.7
+21080,Product 1080,Furniture,Storage,Zenith,1459.9,1678.88,Supplier A,3.6
+21081,Product 1081,Beauty,Skincare,Vertex,1495.44,1719.76,Supplier A,3.7
+21082,Product 1082,Office Supplies,Printers,ValueMax,1011.3,2064.04,Supplier E,4.6
+21083,Product 1083,Home Appliances,Cooling,Apex,688.49,1406.48,Supplier E,4.5
+21084,Product 1084,Electronics,Tablets,Apex,1279.09,1470.95,Supplier E,4.6
+21085,Product 1085,Home Appliances,Small Appliances,Apex,55.23,1114.35,Supplier B,4.2
+21086,Product 1086,Beauty,Skincare,ValueMax,1254.92,1443.16,Supplier C,3.8
+21087,Product 1087,Home Appliances,Cleaning,Zenith,755.98,869.38,Supplier C,4.6
+21088,Product 1088,Home Appliances,Small Appliances,Urban,1016.37,1328.77,Supplier C,4.7
+21089,Product 1089,Sports,Cycling,Zenith,573.59,1715.92,Supplier A,3.7
+21090,Product 1090,Office Supplies,Paper,Vertex,565.56,650.39,Supplier C,5.0
+21091,Product 1091,Office Supplies,Stationery,Nova,66.94,1730.39,Supplier A,4.7
+21092,Product 1092,Electronics,Mobiles,Proline,647.21,1562.86,Supplier B,3.8
+21093,Product 1093,Home Appliances,Kitchen,ValueMax,624.36,1661.81,Supplier B,2.7
+21094,Product 1094,Sports,Fitness,Nova,352.69,561.06,Supplier D,3.1
+21095,Product 1095,Sports,Team Sports,Nova,386.04,884.1,Supplier E,4.4
+21096,Product 1096,Sports,Team Sports,Urban,884.53,1017.21,Supplier D,2.8
+21097,Product 1097,Electronics,Tablets,Nova,490.3,563.84,Supplier C,3.7
+21098,Product 1098,Home Appliances,Cleaning,Zenith,1248.77,1436.09,Supplier C,4.0
+21099,Product 1099,Sports,Cycling,ValueMax,184.85,723.18,Supplier C,4.7
+21100,Product 1100,Furniture,Tables,Vertex,874.91,1006.15,Supplier A,4.6
+21101,Product 1101,Clothing,Shoes,Vertex,256.87,439.5,Supplier E,4.4
+21102,Product 1102,Beauty,Haircare,Proline,801.8,1986.19,Supplier E,3.5
+21103,Product 1103,Office Supplies,Paper,Vertex,837.77,1731.05,Supplier B,2.9
+21104,Product 1104,Sports,Outdoor,Apex,970.6,1116.19,Supplier A,4.2
+21105,Product 1105,Clothing,Jackets,Nova,652.59,2086.39,Supplier A,3.0
+21106,Product 1106,Home Appliances,Cleaning,Proline,774.02,890.12,Supplier D,3.9
+21107,Product 1107,Home Appliances,Small Appliances,ValueMax,287.81,912.8,Supplier A,5.0
+21108,Product 1108,Home Appliances,Kitchen,Nova,705.26,1795.35,Supplier A,3.9
+21109,Product 1109,Sports,Team Sports,Proline,572.08,991.06,Supplier D,4.1
+21110,Product 1110,Beauty,Haircare,Apex,1005.87,1156.75,Supplier A,4.2
+21111,Product 1111,Office Supplies,Paper,Apex,663.54,829.72,Supplier A,4.6
+21112,Product 1112,Beauty,Makeup,Prime,1173.43,1349.44,Supplier A,3.6
+21113,Product 1113,Home Appliances,Small Appliances,Prime,650.47,1376.8,Supplier D,3.7
+21114,Product 1114,Home Appliances,Cooling,Proline,368.94,910.17,Supplier B,2.9
+21115,Product 1115,Office Supplies,Paper,Zenith,425.06,965.93,Supplier B,4.0
+21116,Product 1116,Office Supplies,Paper,Apex,87.02,602.76,Supplier D,3.2
+21117,Product 1117,Home Appliances,Cleaning,Urban,819.08,1191.7,Supplier A,3.8
+21118,Product 1118,Office Supplies,Printers,ValueMax,1249.7,1437.16,Supplier C,4.4
+21119,Product 1119,Office Supplies,Stationery,Zenith,1158.29,1912.53,Supplier C,2.5
+21120,Product 1120,Sports,Outdoor,Apex,667.93,1651.79,Supplier D,3.9
+21121,Product 1121,Office Supplies,Binders,Apex,310.26,920.31,Supplier D,2.9
+21122,Product 1122,Home Appliances,Kitchen,Prime,1297.96,1651.48,Supplier D,3.2
+21123,Product 1123,Electronics,Laptops,Prime,104.04,119.65,Supplier B,2.6
+21124,Product 1124,Electronics,Laptops,Vertex,610.85,777.54,Supplier A,2.9
+21125,Product 1125,Sports,Cycling,Nova,1287.79,1480.96,Supplier C,5.0
+21126,Product 1126,Electronics,Mobiles,Nova,601.9,1049.46,Supplier A,5.0
+21127,Product 1127,Sports,Fitness,Urban,194.46,1654.75,Supplier C,4.3
+21128,Product 1128,Beauty,Haircare,ValueMax,413.61,2119.29,Supplier D,4.0
+21129,Product 1129,Clothing,Shoes,Urban,908.04,1044.25,Supplier E,4.4
+21130,Product 1130,Beauty,Makeup,Prime,245.01,790.8,Supplier D,4.7
+21131,Product 1131,Office Supplies,Paper,ValueMax,989.3,1354.82,Supplier E,3.8
+21132,Product 1132,Beauty,Skincare,Zenith,668.48,768.75,Supplier C,2.6
+21133,Product 1133,Furniture,Chairs,Zenith,514.9,592.13,Supplier C,4.3
+21134,Product 1134,Office Supplies,Binders,Urban,376.57,2116.54,Supplier B,5.0
+21135,Product 1135,Office Supplies,Paper,Proline,1238.53,1786.68,Supplier D,3.1
+21136,Product 1136,Sports,Outdoor,Urban,607.08,2109.94,Supplier E,3.7
+21137,Product 1137,Electronics,Mobiles,Urban,1112.95,1279.89,Supplier B,3.4
+21138,Product 1138,Sports,Team Sports,Urban,671.73,772.49,Supplier A,3.5
+21139,Product 1139,Electronics,Tablets,Proline,155.96,978.86,Supplier A,4.3
+21140,Product 1140,Office Supplies,Binders,ValueMax,671.95,2055.93,Supplier D,3.4
+21141,Product 1141,Home Appliances,Cleaning,Vertex,771.38,887.09,Supplier D,4.9
+21142,Product 1142,Furniture,Desks,Zenith,697.61,802.25,Supplier A,4.5
+21143,Product 1143,Clothing,Trousers,Nova,1228.04,1412.25,Supplier A,2.6
+21144,Product 1144,Beauty,Skincare,Urban,1368.06,1690.09,Supplier D,4.5
+21145,Product 1145,Sports,Team Sports,ValueMax,1184.43,1735.46,Supplier B,4.4
+21146,Product 1146,Electronics,Tablets,Zenith,882.52,1538.97,Supplier C,3.8
+21147,Product 1147,Home Appliances,Cleaning,Vertex,821.35,944.55,Supplier B,3.7
+21148,Product 1148,Home Appliances,Small Appliances,Urban,974.03,1599.54,Supplier D,4.6
+21149,Product 1149,Electronics,Laptops,Vertex,445.99,1003.52,Supplier D,3.6
+21150,Product 1150,Home Appliances,Small Appliances,Prime,1221.53,1404.76,Supplier A,2.9
+21151,Product 1151,Clothing,Jackets,Apex,1288.14,1481.36,Supplier A,3.3
+21152,Product 1152,Home Appliances,Kitchen,Urban,415.48,1117.49,Supplier C,3.2
+21153,Product 1153,Office Supplies,Printers,Apex,1356.17,1559.6,Supplier D,4.2
+21154,Product 1154,Furniture,Storage,Prime,1276.12,2134.36,Supplier A,2.9
+21155,Product 1155,Sports,Outdoor,ValueMax,648.24,1060.19,Supplier A,4.1
+21156,Product 1156,Sports,Outdoor,Proline,1365.32,1570.12,Supplier D,3.7
+21157,Product 1157,Furniture,Storage,Prime,198.25,1490.77,Supplier C,4.6
+21158,Product 1158,Furniture,Chairs,ValueMax,61.42,1441.68,Supplier A,3.7
+21159,Product 1159,Home Appliances,Kitchen,Nova,534.84,615.07,Supplier D,4.8
+21160,Product 1160,Sports,Team Sports,ValueMax,856.84,1372.09,Supplier A,4.8
+21161,Product 1161,Furniture,Storage,Vertex,540.14,621.16,Supplier B,3.0
+21162,Product 1162,Furniture,Tables,Proline,1414.26,1626.4,Supplier D,4.2
+21163,Product 1163,Sports,Fitness,ValueMax,396.97,1562.78,Supplier B,3.0
+21164,Product 1164,Home Appliances,Cooling,Urban,436.2,1239.53,Supplier A,4.6
+21165,Product 1165,Beauty,Haircare,Urban,959.54,1103.47,Supplier E,4.1
+21166,Product 1166,Sports,Cycling,Zenith,25.72,393.28,Supplier B,3.2
+21167,Product 1167,Beauty,Makeup,Apex,1096.78,1261.3,Supplier C,3.1
+21168,Product 1168,Furniture,Desks,Apex,578.65,723.02,Supplier E,3.6
+21169,Product 1169,Furniture,Tables,Vertex,1467.07,2011.05,Supplier E,4.5
+21170,Product 1170,Furniture,Tables,Prime,1043.3,1199.79,Supplier E,4.5
+21171,Product 1171,Electronics,Tablets,Zenith,97.28,1909.14,Supplier B,2.6
+21172,Product 1172,Sports,Outdoor,Vertex,157.09,876.69,Supplier E,3.3
+21173,Product 1173,Home Appliances,Cooling,Urban,150.49,1825.54,Supplier A,3.6
+21174,Product 1174,Electronics,Laptops,Nova,1429.88,1644.36,Supplier B,4.0
+21175,Product 1175,Furniture,Desks,Nova,1032.4,1187.26,Supplier A,2.9
+21176,Product 1176,Furniture,Desks,ValueMax,652.86,750.79,Supplier C,3.3
+21177,Product 1177,Office Supplies,Printers,Proline,316.71,364.22,Supplier E,4.7
+21178,Product 1178,Clothing,Shoes,Proline,1312.99,2023.93,Supplier D,3.7
+21179,Product 1179,Office Supplies,Binders,Vertex,318.3,1585.61,Supplier E,4.4
+21180,Product 1180,Beauty,Haircare,Urban,1065.89,1386.49,Supplier A,3.7
+21181,Product 1181,Furniture,Tables,Zenith,1149.72,1322.18,Supplier D,3.7
+21182,Product 1182,Clothing,Shirts,Vertex,456.09,1265.93,Supplier D,4.1
+21183,Product 1183,Clothing,Trousers,Zenith,767.27,1415.96,Supplier C,3.1
+21184,Product 1184,Office Supplies,Printers,Zenith,350.02,1823.68,Supplier A,3.1
+21185,Product 1185,Sports,Team Sports,Prime,580.82,1325.25,Supplier A,5.0
+21186,Product 1186,Beauty,Personal Care,Prime,1448.4,1665.66,Supplier E,4.7
+21187,Product 1187,Electronics,Mobiles,Vertex,1045.84,1202.72,Supplier B,4.3
+21188,Product 1188,Clothing,Shoes,Proline,1272.99,2149.57,Supplier D,2.8
+21189,Product 1189,Electronics,Accessories,ValueMax,820.09,943.1,Supplier E,2.6
+21190,Product 1190,Clothing,Jackets,ValueMax,373.78,868.87,Supplier C,2.9
+21191,Product 1191,Home Appliances,Kitchen,Proline,1075.06,1944.05,Supplier B,4.8
+21192,Product 1192,Office Supplies,Stationery,Vertex,760.84,874.97,Supplier C,4.5
+21193,Product 1193,Office Supplies,Binders,Proline,281.74,336.7,Supplier B,3.8
+21194,Product 1194,Office Supplies,Printers,Apex,630.4,822.98,Supplier A,4.9
+21195,Product 1195,Office Supplies,Binders,ValueMax,959.56,1103.49,Supplier E,2.9
+21196,Product 1196,Office Supplies,Binders,Vertex,1108.29,2055.47,Supplier B,3.9
+21197,Product 1197,Office Supplies,Paper,Prime,379.97,1844.38,Supplier D,3.0
+21198,Product 1198,Home Appliances,Small Appliances,Nova,1316.48,1513.95,Supplier D,3.3
+21199,Product 1199,Electronics,Mobiles,Nova,581.74,2141.36,Supplier C,4.9
+21200,Product 1200,Electronics,Accessories,Prime,421.28,1423.74,Supplier C,4.7
