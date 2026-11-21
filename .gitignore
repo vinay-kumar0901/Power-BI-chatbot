@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+storage/*.sqlite3
+uploads/*
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

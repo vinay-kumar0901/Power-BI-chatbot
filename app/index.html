@@ -1,0 +1,82 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BI-GPT Advanced 3.8.0</title><style>
+:root{--bg:#212121;--side:#171717;--panel:#2f2f2f;--line:#3b3b3b;--text:#ececec;--muted:#a1a1aa;--green:#10a37f}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 Inter,Segoe UI,Arial,sans-serif}button,input,select{font:inherit}button{cursor:pointer}.app{display:flex;height:100vh;overflow:hidden}.sidebar{width:275px;background:var(--side);padding:14px;display:flex;flex-direction:column;gap:12px;flex-shrink:0}.brand{font-size:19px;font-weight:700;padding:8px 7px}.new{border:1px solid #444;background:transparent;color:#fff;border-radius:9px;padding:11px;text-align:left}.new:hover,.history button:hover{background:#292929}.dash{width:100%;padding:10px;background:#242424;border:1px solid #444;color:#eee;border-radius:8px}.section{color:var(--muted);font-size:12px;padding:5px 7px 0}.history{overflow:auto;display:flex;flex-direction:column;gap:3px}.history button{background:transparent;border:0;color:#ddd;text-align:left;border-radius:7px;padding:9px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.history button.active{background:#303030}.sidebottom{margin-top:auto;color:var(--muted);font-size:12px;padding:8px}.main{flex:1;display:flex;flex-direction:column;min-width:0}.top{height:58px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 22px}.top select{max-width:280px;background:#2a2a2a;color:white;border:1px solid #444;border-radius:8px;padding:8px}.upload{background:transparent;border:1px solid #555;color:#ddd;border-radius:8px;padding:8px 11px}.content{flex:1;overflow:auto;padding:28px 18px}.welcome{max-width:760px;margin:11vh auto 0;text-align:center}.welcome h1{font-size:30px;font-weight:600}.welcome p{color:var(--muted)}.messages{max-width:820px;margin:0 auto;display:flex;flex-direction:column;gap:25px}.msg{white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.7}.msg.user{background:#303030;border-radius:18px;padding:12px 17px;align-self:flex-end;max-width:85%}.msg.assistant{align-self:stretch;padding:4px 3px}.msg pre{background:#151515;border:1px solid #444;padding:12px;border-radius:9px;overflow:auto;white-space:pre;max-width:100%}.msg code{font-family:Consolas,monospace;background:#171717;padding:2px 5px;border-radius:4px}.msg pre code{padding:0;background:transparent}.msg table{border-collapse:collapse;width:100%;margin:12px 0;display:block;overflow-x:auto}.msg th,.msg td{border:1px solid #555;padding:8px 11px;text-align:left;white-space:nowrap}.msg th{background:#303030}.msg p{margin:8px 0}.msg ul,.msg ol{padding-left:24px}.msg h1,.msg h2,.msg h3{line-height:1.3;margin:16px 0 8px}.msg blockquote{border-left:3px solid #777;padding-left:12px;color:#bbb;margin:10px 0}.msg hr{border:0;border-top:1px solid #555;margin:14px 0}.composer-wrap{padding:14px 18px 22px}.composer{max-width:820px;margin:auto;background:#2f2f2f;border:1px solid #555;border-radius:17px;padding:9px;display:flex;gap:8px;align-items:flex-end}.composer textarea{flex:1;resize:none;max-height:180px;background:transparent;color:white;border:0;outline:0;padding:10px;min-height:44px}.send{background:#fff;color:#111;border:0;border-radius:11px;width:40px;height:40px;font-weight:700}.hint{text-align:center;color:#888;font-size:11px;margin-top:9px}.modal{display:none;position:fixed;inset:0;background:#0009;align-items:center;justify-content:center}.modalbox{background:#252525;border:1px solid #555;border-radius:14px;padding:22px;width:min(500px,92vw)}.modalbox input{width:100%;padding:10px;background:#171717;color:#fff;border:1px solid #555;border-radius:8px;margin:9px 0}.modalbox button{padding:9px 14px;border-radius:8px;border:1px solid #555;background:#333;color:#fff}.primary{background:var(--green)!important;border-color:var(--green)!important}.empty{color:#888;text-align:center;padding:10px}@media(max-width:720px){.sidebar{width:215px}.top{padding:0 10px}.content{padding:15px 12px}}@media(max-width:560px){.sidebar{width:68px;padding:8px}.brand{font-size:0}.brand:after{content:'BI';font-size:18px}.new{font-size:0;text-align:center}.new:after{content:'+';font-size:20px}.section,.history,.sidebottom{display:none}.dash{font-size:0}.dash:after{content:'BI';font-size:12px}.top{height:auto;min-height:58px;gap:8px}.top select{max-width:160px}}
+</style></head><body><div class="app"><aside class="sidebar"><div class="brand">◈ BI-GPT</div><button class="new" id="newChat">＋ &nbsp; New chat</button><select class="dash" id="sideDash" aria-label="Choose dashboard"><option value="">Select dashboard</option></select><div class="section">CHAT HISTORY</div><div class="history" id="history"></div><div class="sidebottom">Powered by Ollama · Local BI assistant</div></aside><main class="main"><div class="top"><strong id="currentTitle">New chat</strong><div style="display:flex;gap:8px;align-items:center"><select id="topDash"><option value="">Select dashboard</option></select><button class="upload" id="uploadBtn">＋ Upload BI project</button></div></div><section class="content" id="content"><div class="welcome" id="welcome"><h1>What would you like to know?</h1><p>Ask about your Power BI dashboards, DAX measures, relationships, KPIs or underlying data.</p></div><div class="messages" id="messages"></div></section><div class="composer-wrap"><form class="composer" id="form"><textarea id="question" rows="1" placeholder="Message BI-GPT..."></textarea><button class="send" type="submit">↑</button></form><div class="hint">BI-GPT can make mistakes. Verify important calculations against your Power BI model.</div></div></main></div><div class="modal" id="modal"><div class="modalbox"><h3>Upload a Power BI dashboard</h3><p style="color:#aaa;font-size:13px">Choose a ZIP containing the normal project folder with dashboard.pbip, dashboard.Report and dashboard.SemanticModel. Include CSV/XLSX exports in a data folder if you want numeric SQL answers.</p><input id="dashName" placeholder="Dashboard name (optional)"><input id="zipFile" type="file" accept=".zip"><div style="display:flex;justify-content:flex-end;gap:8px;margin-top:14px"><button id="cancelUpload">Cancel</button><button class="primary" id="doUpload">Upload & index</button></div><div id="uploadStatus" style="color:#aaa;margin-top:12px;font-size:13px"></div></div></div>
+<script>
+const $=id=>document.getElementById(id);let chatId=null,selectedDashboard='',busy=false;
+async function api(url,opts={}){
+  let r;
+  try { r=await fetch(url,{cache:'no-store',...opts}); }
+  catch(e){ throw Error('Cannot reach BI-GPT server for '+url+': '+e.message); }
+  const text=await r.text();
+  const type=r.headers.get('content-type')||'';
+  let d;
+  if(type.toLowerCase().includes('application/json')){
+    try { d=JSON.parse(text); }
+    catch(e){ throw Error('Invalid JSON from '+url+' (HTTP '+r.status+'): '+text.slice(0,500)); }
+  } else {
+    throw Error('API '+url+' returned HTML/non-JSON (HTTP '+r.status+', '+type+'). Response: '+text.slice(0,500)+' Check that this browser tab is using the latest Colab tunnel and BI-GPT server.');
+  }
+  if(!r.ok) throw Error(d.detail||d.error||('Request failed (HTTP '+r.status+')'));
+  return d;
+}
+function setDash(v){selectedDashboard=v;$('sideDash').value=v;$('topDash').value=v}
+async function loadDashboards(){let ds=await api('/api/dashboards');for(let id of ['sideDash','topDash']){let s=$(id);s.innerHTML='<option value="">Select dashboard</option>'+ds.map(d=>`<option value="${esc(d.name)}">${esc(d.name)}</option>`).join('')}if(ds.length&&!selectedDashboard)setDash(ds[0].name)}
+function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+async function loadHistory(){let chats=await api('/api/chats');$('history').innerHTML=chats.length?chats.map(c=>`<button data-id="${c.id}" class="${c.id===chatId?'active':''}" title="${esc(c.title)}">${esc(c.title)}</button>`).join(''):'<div class="empty">No conversations yet</div>';document.querySelectorAll('#history button').forEach(b=>b.onclick=()=>openChat(b.dataset.id))}
+function renderMessages(msgs){$('messages').innerHTML='';$('welcome').style.display=msgs.length?'none':'block';for(let m of msgs)addBubble(m.role,m.content)}
+function inlineMarkdown(value){
+  let x=esc(value);
+  x=x.replace(/`([^`]+)`/g,'<code>$1</code>');
+  x=x.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/__(.+?)__/g,'<strong>$1</strong>');
+  x=x.replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g,'$1<em>$2</em>');
+  x=x.replace(/(^|_)_([^_\n]+)_(?!_)/g,'$1<em>$2</em>');
+  return x;
+}
+function renderMarkdown(source){
+  const lines=String(source??'').replace(/\r\n?/g,'\n').split('\n');
+  const out=[]; let i=0;
+  const isTableRow=line=>line.trim().startsWith('|')&&line.trim().endsWith('|');
+  const cells=line=>line.trim().replace(/^\|/,'').replace(/\|$/,'').split('|').map(v=>v.trim());
+  while(i<lines.length){
+    const line=lines[i];
+    if(!line.trim()){i++;continue;}
+    if(line.trim().startsWith('```')){
+      const lang=line.trim().slice(3).trim(); i++; const code=[];
+      while(i<lines.length&&!lines[i].trim().startsWith('```'))code.push(lines[i++]);
+      if(i<lines.length)i++;
+      out.push('<pre><code'+(lang?' class="language-'+esc(lang)+'"':'')+'>'+esc(code.join('\n'))+'</code></pre>');continue;
+    }
+    if(isTableRow(line)&&i+1<lines.length&&/^\|?\s*:?-{3,}/.test(lines[i+1].trim())){
+      const headers=cells(line); i+=2; const rows=[];
+      while(i<lines.length&&isTableRow(lines[i])){rows.push(cells(lines[i]));i++}
+      out.push('<table><thead><tr>'+headers.map(c=>'<th>'+inlineMarkdown(c)+'</th>').join('')+'</tr></thead><tbody>'+
+        rows.map(r=>'<tr>'+headers.map((_,j)=>'<td>'+inlineMarkdown(r[j]??'')+'</td>').join('')+'</tr>').join('')+'</tbody></table>');continue;
+    }
+    const heading=line.match(/^(#{1,3})\s+(.*)$/);
+    if(heading){const n=heading[1].length;out.push('<h'+n+'>'+inlineMarkdown(heading[2])+'</h'+n+'>');i++;continue}
+    if(/^\s*([-*_])\1\1+\s*$/.test(line)){out.push('<hr>');i++;continue}
+    if(/^\s*[-*]\s+/.test(line)){
+      const items=[];while(i<lines.length&&/^\s*[-*]\s+/.test(lines[i]))items.push('<li>'+inlineMarkdown(lines[i++].replace(/^\s*[-*]\s+/,''))+'</li>');
+      out.push('<ul>'+items.join('')+'</ul>');continue;
+    }
+    if(/^\s*\d+[.)]\s+/.test(line)){
+      const items=[];while(i<lines.length&&/^\s*\d+[.)]\s+/.test(lines[i]))items.push('<li>'+inlineMarkdown(lines[i++].replace(/^\s*\d+[.)]\s+/,''))+'</li>');
+      out.push('<ol>'+items.join('')+'</ol>');continue;
+    }
+    if(/^\s*&gt;\s?/.test(line)){out.push('<blockquote>'+inlineMarkdown(line.replace(/^\s*&gt;\s?/,''))+'</blockquote>');i++;continue}
+    const para=[line];i++;
+    while(i<lines.length&&lines[i].trim()&&!lines[i].trim().startsWith('```')&&!/^#{1,3}\s/.test(lines[i])&&!isTableRow(lines[i])&&!/^\s*[-*]\s+/.test(lines[i])&&!/^\s*\d+[.)]\s+/.test(lines[i]))para.push(lines[i++]);
+    out.push('<p>'+para.map(inlineMarkdown).join('<br>')+'</p>');
+  }
+  return out.join('');
+}
+function addBubble(role,text){let d=document.createElement('div');d.className='msg '+(role==='user'?'user':'assistant');if(role==='user')d.innerHTML=esc(text).replace(/\n/g,'<br>');else d.innerHTML=renderMarkdown(text);$('messages').appendChild(d);$('content').scrollTop=$('content').scrollHeight}
+async function openChat(id){let d=await api('/api/chats/'+id);chatId=id;setDash(d.chat.dashboard||selectedDashboard);$('currentTitle').textContent=d.chat.title;renderMessages(d.messages);loadHistory()}
+async function createChat(){let d=await api('/api/chats',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({dashboard:selectedDashboard||null})});chatId=d.id;$('currentTitle').textContent='New chat';renderMessages([]);loadHistory()}
+async function send(q){if(busy||!q.trim())return;if(!selectedDashboard){alert('Select a dashboard first.');return}if(!chatId)await createChat();busy=true;addBubble('user',q);$('question').value='';$('welcome').style.display='none';let wait=document.createElement('div');wait.className='msg assistant';wait.textContent='Thinking…';$('messages').appendChild(wait);try{let job=await api('/api/chat/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:chatId,question:q,dashboard:selectedDashboard})});let d=null;for(let i=0;i<240;i++){await new Promise(resolve=>setTimeout(resolve,2000));let status=await api('/api/chat/status/'+job.job_id);if(status.status==='completed'){d=status.result;break}if(status.status==='failed')throw Error(status.error||'Chat processing failed')}if(!d)throw Error('The response is taking too long. Check the Colab app log and try again.');wait.textContent=d.answer;$('currentTitle').textContent=(await api('/api/chats/'+chatId)).chat.title;await loadHistory()}catch(e){wait.textContent='Error: '+e.message}finally{busy=false;$('content').scrollTop=$('content').scrollHeight}}
+$('form').onsubmit=e=>{e.preventDefault();send($('question').value)};$('newChat').onclick=createChat;$('sideDash').onchange=e=>setDash(e.target.value);$('topDash').onchange=e=>setDash(e.target.value);
+$('uploadBtn').onclick=()=>{$('modal').style.display='flex';$('uploadStatus').textContent=''};$('cancelUpload').onclick=()=>{$('modal').style.display='none'};
+$('doUpload').onclick=async()=>{let f=$('zipFile').files[0];if(!f){$('uploadStatus').textContent='Select a ZIP file first.';return}let fd=new FormData();fd.append('file',f);fd.append('dashboard_name',$('dashName').value);$('uploadStatus').textContent='Uploading and indexing…';try{let d=await api('/api/upload',{method:'POST',body:fd});await loadDashboards();setDash(d.dashboard);$('modal').style.display='none';await createChat();alert('Dashboard uploaded. Metadata indexed. Imported tables: '+(d.dataset_imports||[]).filter(x=>x.rows).map(x=>x.table).join(', '))}catch(e){$('uploadStatus').textContent=e.message}};
+$('question').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();$('form').requestSubmit()}});
+(async()=>{try{await loadDashboards();await loadHistory();let c=await api('/api/chats');if(c.length)await openChat(c[0].id)}catch(e){console.error(e);$('welcome').style.display='block';$('welcome').innerHTML='<h2>BI-GPT connection error</h2><p style="color:#f99;white-space:pre-wrap">'+esc(e.message)+'</p><p>Confirm the Colab API server is running, then refresh this page.</p>'}})();
+</script></body></html>
