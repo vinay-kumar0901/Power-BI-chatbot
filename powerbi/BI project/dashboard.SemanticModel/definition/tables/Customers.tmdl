@@ -1,0 +1,201 @@
+table Customers
+	lineageTag: 4bf53aa9-2dd5-4550-8885-56f3e79f32fe
+
+	measure 'Average Order Value' =
+			
+			DIVIDE(
+			    [Net Sales],
+			    [Valid Orders],
+			    0
+			)
+		lineageTag: 75e76042-056f-40ec-8272-7fe4022eb34f
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Average Discount %' =
+			
+			AVERAGEX(
+			    FILTER(
+			        Orders,
+			        Orders[OrderStatus] IN {"Completed", "Shipped"}
+			    ),
+			    Orders[DiscountRate]
+			)
+		lineageTag: f623a9b6-3d78-4225-a187-88677ee9ffca
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Unique Customers' =
+			
+			CALCULATE(
+			    DISTINCTCOUNT(Orders[CustomerID]),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		formatString: 0
+		lineageTag: 352cc92c-cda8-4708-a85a-811bc23d0e4e
+
+	measure 'Total Stores' = DISTINCTCOUNT(Stores[StoreID])
+		formatString: 0
+		lineageTag: 60aaf793-4b1b-47ba-9667-d20bdd593e63
+
+	measure 'Average Store Sales' =
+			
+			DIVIDE(
+			    [Net Sales],
+			    DISTINCTCOUNT(Stores[StoreID]),
+			    0
+			)
+		lineageTag: 6ce3d01a-928e-4671-aa3d-da144f2879a4
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Sales Per Employee' =
+			
+			DIVIDE(
+			    [Net Sales],
+			    DISTINCTCOUNT(Employees[EmployeeID]),
+			    0
+			)
+		lineageTag: d1aed1fc-5172-4c6c-989f-2a3f075185e4
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Employee Rank' =
+			
+			RANKX(
+			    ALLSELECTED(Employees[EmployeeName]),
+			    [Net Sales],
+			    ,
+			    DESC,
+			    DENSE
+			)
+		formatString: 0
+		lineageTag: 35d2ec55-5203-4e6f-bf41-572bef9a2884
+
+	measure 'Returned Orders' =
+			
+			CALCULATE(
+			    [Total Orders],
+			    Orders[OrderStatus] = "Returned"
+			)
+		formatString: 0
+		lineageTag: 8e0108d6-5cd6-4ac6-8a36-a7e7edfe9c74
+
+	measure 'Cancellation Rate %' =
+			
+			DIVIDE(
+			    [Cancelled Orders],
+			    [Total Orders],
+			    0
+			)
+		lineageTag: 607e6e22-cb2e-48ac-8a42-2cb57b9165c0
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Order Completion Rate %' =
+			
+			DIVIDE(
+			    [Completed Orders],
+			    [Total Orders],
+			    0
+			)
+		lineageTag: 374df863-05e9-4b4a-b965-b3b238c6d4bb
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Average Shipping Days' =
+			
+			CALCULATE(
+			    AVERAGE(Orders[ShippingDays]),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		lineageTag: bf1587df-5db9-411b-bd6d-bcb5a3e01300
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column CustomerID
+		dataType: int64
+		formatString: 0
+		lineageTag: 6138cb8d-2f26-4af3-a88e-9e874282b777
+		summarizeBy: none
+		sourceColumn: CustomerID
+
+		annotation SummarizationSetBy = Automatic
+
+	column CustomerName
+		dataType: string
+		lineageTag: d6f5bbcc-363d-48b3-82d6-1cce1f73390c
+		summarizeBy: none
+		sourceColumn: CustomerName
+
+		annotation SummarizationSetBy = Automatic
+
+	column Gender
+		dataType: string
+		lineageTag: 715e108d-3987-4bd7-81cd-4804a5b22861
+		summarizeBy: none
+		sourceColumn: Gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column Age
+		dataType: int64
+		formatString: 0
+		lineageTag: 8b9d22bb-4499-4a15-82bc-43dc985514bd
+		summarizeBy: sum
+		sourceColumn: Age
+
+		annotation SummarizationSetBy = Automatic
+
+	column City
+		dataType: string
+		lineageTag: 1c1656e7-f8e9-4e50-9a6f-7ffb8242e17b
+		summarizeBy: none
+		sourceColumn: City
+
+		annotation SummarizationSetBy = Automatic
+
+	column State
+		dataType: string
+		lineageTag: 2d6c0ef3-6f42-4ab6-b619-12bef46f890a
+		summarizeBy: none
+		sourceColumn: State
+
+		annotation SummarizationSetBy = Automatic
+
+	column CustomerSegment
+		dataType: string
+		lineageTag: 9ef25c9f-cf1d-4cfe-b52a-eb5f805de3d0
+		summarizeBy: none
+		sourceColumn: CustomerSegment
+
+		annotation SummarizationSetBy = Automatic
+
+	column JoinDate
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 9b9cd321-12e0-4c13-bc34-d6c144e198f5
+		summarizeBy: none
+		sourceColumn: JoinDate
+
+		variation Variation
+			isDefault
+			relationship: be4f6d25-19af-4203-9ba8-23fd7259a5fc
+			defaultHierarchy: LocalDateTable_9ed8988b-37f4-49d2-ac90-9b12f5ca7a41.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition Customers = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/vinay-kumar0901/Power-BI-chatbot/main/Dataset/Customers.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"CustomerID", Int64.Type}, {"CustomerName", type text}, {"Gender", type text}, {"Age", Int64.Type}, {"City", type text}, {"State", type text}, {"CustomerSegment", type text}, {"JoinDate", type date}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

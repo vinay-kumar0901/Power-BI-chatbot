@@ -1,0 +1,246 @@
+table 'Measure table'
+	lineageTag: 8762fbbb-55ae-4269-abbc-6149aa6d9c7a
+
+	measure 'Total Orders' =
+			
+			DISTINCTCOUNT(Orders[OrderID])
+		formatString: 0
+		lineageTag: c322eef6-53af-4e5c-a0cb-3ff5788ab5fb
+
+	measure 'Completed Orders' =
+			
+			CALCULATE(
+			    [Total Orders],
+			    Orders[OrderStatus] = "Completed"
+			)
+		formatString: 0
+		lineageTag: 37b40354-9c8f-4890-835e-7844f818710a
+
+	measure 'Shipped Orders' =
+			
+			CALCULATE(
+			    [Total Orders],
+			    Orders[OrderStatus] = "Shipped"
+			)
+		formatString: 0
+		lineageTag: 58095dcc-fd69-4936-a8fa-c0f2dc864297
+
+	measure 'Valid Orders' =
+			
+			CALCULATE(
+			    [Total Orders],
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		formatString: 0
+		lineageTag: ab4afcb2-5dd7-43d2-a019-840362d29dab
+
+	measure 'Gross Sales' =
+			
+			CALCULATE(
+			    SUMX(
+			        OrderDetails,
+			        OrderDetails[Quantity] *
+			        OrderDetails[UnitPrice]
+			    ),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		lineageTag: a90dd597-8144-41c1-a7c8-477698995b74
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Line Discount Amount' =
+			
+			CALCULATE(
+			    SUMX(
+			        OrderDetails,
+			        OrderDetails[Quantity] *
+			        OrderDetails[UnitPrice] *
+			        OrderDetails[LineDiscount]
+			    ),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		lineageTag: 4fae17eb-6b01-45e2-8477-b44a4bf851ff
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Sales After Line Discount' =
+			
+			[Gross Sales] - [Line Discount Amount]
+		lineageTag: 609a5b42-e560-4a94-831b-bb33b4aa0e6e
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Order Discount Amount' =
+			
+			CALCULATE(
+			    SUMX(
+			        OrderDetails,
+			        OrderDetails[Quantity] *
+			        OrderDetails[UnitPrice] *
+			        (1 - OrderDetails[LineDiscount]) *
+			        RELATED(Orders[DiscountRate])
+			    ),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		lineageTag: 76d2b500-726e-45b8-a156-5574d96a6ab0
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Net Sales' =
+			
+			[Sales After Line Discount] -
+			[Order Discount Amount]
+		lineageTag: d5174408-c81f-40e4-8df6-f602f1c5f005
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Total Cost' =
+			
+			CALCULATE(
+			    SUMX(
+			        OrderDetails,
+			        OrderDetails[Quantity] *
+			        OrderDetails[UnitCost]
+			    ),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		lineageTag: d46f4460-1fc6-4e46-a9e9-2a4d9472822f
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Gross Profit' =
+			
+			[Net Sales] - [Total Cost]
+		lineageTag: b206477d-eed3-4773-ac90-587d2ad4932a
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Profit Margin %' =
+			
+			DIVIDE(
+			    [Gross Profit],
+			    [Net Sales],
+			    0
+			)
+		lineageTag: a7b331a6-6f06-48f8-935e-19dfb3d5dfc9
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Total Quantity' =
+			
+			CALCULATE(
+			    SUM(OrderDetails[Quantity]),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		formatString: 0
+		lineageTag: c661af5c-e9e0-48b2-957e-b0d1e218de81
+
+	measure 'Returned Quantity' =
+			
+			SUM(OrderDetails[ReturnedQuantity])
+		formatString: 0
+		lineageTag: c8dc51a2-9b94-4b64-a820-c41913a20338
+
+	measure 'Net Quantity' =
+			
+			[Total Quantity] -
+			CALCULATE(
+			    [Returned Quantity],
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		formatString: 0
+		lineageTag: eb855646-c47e-4649-b76d-14dbecd7fd1e
+
+	measure 'Return Rate %' =
+			
+			DIVIDE(
+			    CALCULATE(
+			        [Returned Quantity],
+			        Orders[OrderStatus] IN {"Completed", "Shipped"}
+			    ),
+			    [Total Quantity],
+			    0
+			)
+		lineageTag: ed5b8f82-54e9-4ea2-8674-5fe7d543b511
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Average Selling Price' =
+			
+			DIVIDE(
+			    [Net Sales],
+			    [Net Quantity],
+			    0
+			)
+		lineageTag: b781637f-1991-4083-89e1-df1461705b22
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Products Sold' =
+			
+			CALCULATE(
+			    DISTINCTCOUNT(OrderDetails[ProductID]),
+			    Orders[OrderStatus] IN {"Completed", "Shipped"}
+			)
+		formatString: 0
+		lineageTag: ba676a44-eee0-41c8-b092-f1de578ea463
+
+	measure 'Top Product Name' =
+			
+			VAR ProductTable =
+			    TOPN(
+			        1,
+			        ADDCOLUMNS(
+			            VALUES(Products[ProductName]),
+			            "@Sales", [Net Sales]
+			        ),
+			        [@Sales], DESC
+			    )
+			RETURN
+			    CONCATENATEX(
+			        ProductTable,
+			        Products[ProductName],
+			        ", "
+			    )
+		lineageTag: 1b90404b-594c-486c-8c94-ad75b0300c74
+
+	measure 'Total Employee Target' =
+			
+			SUM(Employees[TargetAnnual])
+		formatString: 0
+		lineageTag: ce25cc9e-fc54-4561-bc29-39a36ea619a7
+
+	measure 'total employees' = DISTINCTCOUNT(Employees[EmployeeID])
+		formatString: 0
+		lineageTag: 2a8aa36d-2bf7-4bc9-9b2e-441cb604e2b6
+
+	measure 'Cancelled Orders' =
+			
+			CALCULATE(
+			    [Total Orders],
+			    Orders[OrderStatus] = "Cancelled"
+			)
+		formatString: 0
+		lineageTag: 7f884846-58b1-406a-9ebd-8ee71f715591
+
+	column Column1
+		dataType: string
+		lineageTag: 99348951-c562-4bde-aeb4-69e2466d5a00
+		summarizeBy: none
+		sourceColumn: Column1
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Measure table' = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Column1 = _t]),
+				    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Column1", type text}})
+				in
+				    #"Changed Type"
+
+	changedProperty = Name
+
+	annotation PBI_ResultType = Table
+

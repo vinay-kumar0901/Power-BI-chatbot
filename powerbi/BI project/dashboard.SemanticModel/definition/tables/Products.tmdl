@@ -1,0 +1,94 @@
+table Products
+	lineageTag: f75994e5-596a-4923-a1c4-4b428a41b27d
+
+	column ProductID
+		dataType: int64
+		formatString: 0
+		lineageTag: 390b5110-fe0c-4168-a264-782fbaf0c494
+		summarizeBy: none
+		sourceColumn: ProductID
+
+		annotation SummarizationSetBy = Automatic
+
+	column ProductName
+		dataType: string
+		lineageTag: 9ce62a01-6cc9-43ea-99f8-c4613d1fa7b6
+		summarizeBy: none
+		sourceColumn: ProductName
+
+		annotation SummarizationSetBy = Automatic
+
+	column Category
+		dataType: string
+		lineageTag: 6918c46a-c63a-4f7b-94b6-9a89ad830806
+		summarizeBy: none
+		sourceColumn: Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column SubCategory
+		dataType: string
+		lineageTag: 2a687b8d-4946-4df3-9195-d489f34de517
+		summarizeBy: none
+		sourceColumn: SubCategory
+
+		annotation SummarizationSetBy = Automatic
+
+	column Brand
+		dataType: string
+		lineageTag: 495f30e1-ee73-48be-9c17-88154d2bef56
+		summarizeBy: none
+		sourceColumn: Brand
+
+		annotation SummarizationSetBy = Automatic
+
+	column UnitCost
+		dataType: double
+		lineageTag: f4afad0f-5827-43f6-8c62-58dc6e004be9
+		summarizeBy: none
+		sourceColumn: UnitCost
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column ListPrice
+		dataType: double
+		lineageTag: 440f4ff5-5eb7-47c6-b0e9-63317bf95fd9
+		summarizeBy: none
+		sourceColumn: ListPrice
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Supplier
+		dataType: string
+		lineageTag: d0cfceec-97ea-41a3-900b-a74aeafdec3d
+		summarizeBy: none
+		sourceColumn: Supplier
+
+		annotation SummarizationSetBy = Automatic
+
+	column ProductRating
+		dataType: double
+		lineageTag: 16984474-087f-4120-a1be-bc8c0f23895f
+		summarizeBy: none
+		sourceColumn: ProductRating
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition Products = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/vinay-kumar0901/Power-BI-chatbot/main/Dataset/Products.csv"),[Delimiter=",", Columns=9, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"ProductID", Int64.Type}, {"ProductName", type text}, {"Category", type text}, {"SubCategory", type text}, {"Brand", type text}, {"UnitCost", type number}, {"ListPrice", type number}, {"Supplier", type text}, {"ProductRating", type number}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

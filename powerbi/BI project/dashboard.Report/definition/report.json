@@ -1,0 +1,96 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.3.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY26SU05",
+      "reportVersionAtImport": {
+        "visual": "2.9.0",
+        "report": "3.3.0",
+        "page": "2.3.1"
+      },
+      "type": "SharedResources"
+    }
+  },
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "resourcePackages": [
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "CY26SU05",
+          "path": "BaseThemes/CY26SU05.json",
+          "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "Report-background-4-visualizat1757246610430232.webp",
+          "path": "Report-background-4-visualizat1757246610430232.webp",
+          "type": "Image"
+        },
+        {
+          "name": "Report-background-4-visualizat2604329257332546.webp",
+          "path": "Report-background-4-visualizat2604329257332546.webp",
+          "type": "Image"
+        },
+        {
+          "name": "Report-background-4-visualizat2767771480748501.webp",
+          "path": "Report-background-4-visualizat2767771480748501.webp",
+          "type": "Image"
+        },
+        {
+          "name": "Report-background-4-visualizat4196501024210689.webp",
+          "path": "Report-background-4-visualizat4196501024210689.webp",
+          "type": "Image"
+        },
+        {
+          "name": "Report-background-4-visualizat4232490284295649.webp",
+          "path": "Report-background-4-visualizat4232490284295649.webp",
+          "type": "Image"
+        },
+        {
+          "name": "Report-background-4-visualizat5603515781968054.webp",
+          "path": "Report-background-4-visualizat5603515781968054.webp",
+          "type": "Image"
+        },
+        {
+          "name": "Report-background-4-visualizat6603250303797226.webp",
+          "path": "Report-background-4-visualizat6603250303797226.webp",
+          "type": "Image"
+        },
+        {
+          "name": "Report-background-4-visualizat8394774583215991.webp",
+          "path": "Report-background-4-visualizat8394774583215991.webp",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "exportDataMode": "AllowSummarized",
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true,
+    "useDefaultAggregateDisplayName": true
+  }
+}

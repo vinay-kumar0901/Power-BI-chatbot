@@ -1,0 +1,90 @@
+table OrderDetails
+	lineageTag: 895d0874-2831-4e7f-9bd6-6df0d4e8c2b7
+
+	column OrderDetailID
+		dataType: int64
+		formatString: 0
+		lineageTag: 20f7fa57-d38c-4248-9dc0-4617ee0f93c7
+		summarizeBy: count
+		sourceColumn: OrderDetailID
+
+		annotation SummarizationSetBy = Automatic
+
+	column OrderID
+		dataType: int64
+		formatString: 0
+		lineageTag: 623d7aff-3184-44af-b6fe-73b12f7108dc
+		summarizeBy: none
+		sourceColumn: OrderID
+
+		annotation SummarizationSetBy = Automatic
+
+	column ProductID
+		dataType: int64
+		formatString: 0
+		lineageTag: bbbe1428-c22d-4a33-806f-24673931dd38
+		summarizeBy: none
+		sourceColumn: ProductID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Quantity
+		dataType: int64
+		formatString: 0
+		lineageTag: df1f333e-4d55-4cf5-9a8b-5b41c1c6d7e1
+		summarizeBy: sum
+		sourceColumn: Quantity
+
+		annotation SummarizationSetBy = Automatic
+
+	column UnitPrice
+		dataType: double
+		lineageTag: baa69779-2945-4923-b8ab-d054b3dbcc55
+		summarizeBy: sum
+		sourceColumn: UnitPrice
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column UnitCost
+		dataType: double
+		lineageTag: df357023-bf9f-446e-8816-ad9ce8b9baeb
+		summarizeBy: sum
+		sourceColumn: UnitCost
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column LineDiscount
+		dataType: double
+		lineageTag: a7a96212-a94d-42c9-afdc-69d76b62fe4a
+		summarizeBy: sum
+		sourceColumn: LineDiscount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column ReturnedQuantity
+		dataType: int64
+		formatString: 0
+		lineageTag: be2278a8-35d2-4f99-92f7-b70ab3531822
+		summarizeBy: sum
+		sourceColumn: ReturnedQuantity
+
+		annotation SummarizationSetBy = Automatic
+
+	partition OrderDetails = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/vinay-kumar0901/Power-BI-chatbot/main/Dataset/OrderDetails.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"OrderDetailID", Int64.Type}, {"OrderID", Int64.Type}, {"ProductID", Int64.Type}, {"Quantity", Int64.Type}, {"UnitPrice", type number}, {"UnitCost", type number}, {"LineDiscount", type number}, {"ReturnedQuantity", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

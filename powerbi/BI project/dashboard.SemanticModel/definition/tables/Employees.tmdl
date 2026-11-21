@@ -1,0 +1,89 @@
+table Employees
+	lineageTag: 9ef14dd1-fe17-4528-9e43-8e1461eb293e
+
+	column EmployeeID
+		dataType: int64
+		formatString: 0
+		lineageTag: aeaaf9c7-92cf-407e-873f-d726a3e61a86
+		summarizeBy: none
+		sourceColumn: EmployeeID
+
+		annotation SummarizationSetBy = Automatic
+
+	column EmployeeName
+		dataType: string
+		lineageTag: 41f9995f-affa-40a9-a6bd-2eef9b550191
+		summarizeBy: none
+		sourceColumn: EmployeeName
+
+		annotation SummarizationSetBy = Automatic
+
+	column Department
+		dataType: string
+		lineageTag: 46f4ee3e-5a01-489e-9fe3-82698c162c0f
+		summarizeBy: none
+		sourceColumn: Department
+
+		annotation SummarizationSetBy = Automatic
+
+	column JobTitle
+		dataType: string
+		lineageTag: 20e9b474-fb5f-4319-b2f6-c6793f1dd741
+		summarizeBy: none
+		sourceColumn: JobTitle
+
+		annotation SummarizationSetBy = Automatic
+
+	column Region
+		dataType: string
+		lineageTag: ba114c6d-c6b1-45d9-8149-4418da59bbee
+		summarizeBy: none
+		sourceColumn: Region
+
+		annotation SummarizationSetBy = Automatic
+
+	column HireDate
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: c40c79bb-5cbd-4f2f-9c24-a58733f6e04d
+		summarizeBy: none
+		sourceColumn: HireDate
+
+		variation Variation
+			isDefault
+			relationship: 63f823ea-6d7e-4b22-9d2e-0307c2d15c6c
+			defaultHierarchy: LocalDateTable_0a6746a1-0bb0-4780-b2f8-b17f27510802.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Manager
+		dataType: string
+		lineageTag: 818104cc-5f0c-4ea6-a430-a87b240a1d1e
+		summarizeBy: none
+		sourceColumn: Manager
+
+		annotation SummarizationSetBy = Automatic
+
+	column TargetAnnual
+		dataType: int64
+		formatString: 0
+		lineageTag: 216fad06-7cd0-49c3-bf4d-c2127c7b7a6b
+		summarizeBy: sum
+		sourceColumn: TargetAnnual
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Employees = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/vinay-kumar0901/Power-BI-chatbot/main/Dataset/Employees.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"EmployeeID", Int64.Type}, {"EmployeeName", type text}, {"Department", type text}, {"JobTitle", type text}, {"Region", type text}, {"HireDate", type date}, {"Manager", type text}, {"TargetAnnual", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

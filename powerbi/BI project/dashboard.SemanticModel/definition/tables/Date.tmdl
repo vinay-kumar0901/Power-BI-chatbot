@@ -1,0 +1,116 @@
+table Date
+	lineageTag: 5104088a-9105-4fbb-a1b2-a8000ea419f8
+
+	column Date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 12046699-74cf-4277-91e0-dc0cc8cc21df
+		summarizeBy: none
+		sourceColumn: Date
+
+		variation Variation
+			isDefault
+			relationship: 12d4336e-c081-4346-a894-ba096d5c6775
+			defaultHierarchy: LocalDateTable_bb3d7705-7f0f-4a87-816d-eb6b1d51abe3.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Year
+		dataType: int64
+		formatString: 0
+		lineageTag: 9512345a-9a4f-40ff-96d2-70f129198c4d
+		summarizeBy: sum
+		sourceColumn: Year
+
+		annotation SummarizationSetBy = Automatic
+
+	column Quarter
+		dataType: string
+		lineageTag: 7bc234a5-0a2e-4252-82d2-b128f2ea44a7
+		summarizeBy: none
+		sourceColumn: Quarter
+
+		annotation SummarizationSetBy = Automatic
+
+	column MonthNumber
+		dataType: int64
+		formatString: 0
+		lineageTag: 33269a26-983c-4f6e-b691-2ade17e25eba
+		summarizeBy: sum
+		sourceColumn: MonthNumber
+
+		annotation SummarizationSetBy = Automatic
+
+	column Month
+		dataType: string
+		lineageTag: 65b78a88-aa5e-4cba-b9c3-907cbdbb59d9
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation SummarizationSetBy = Automatic
+
+	column YearMonth
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 458ee61c-01a1-46a5-8758-886fc7515edf
+		summarizeBy: none
+		sourceColumn: YearMonth
+
+		variation Variation
+			isDefault
+			relationship: 99de3f99-2203-4187-9ef6-87ad7082de22
+			defaultHierarchy: LocalDateTable_1521a678-0ea8-4e3f-a0f9-58e4b1ea4d41.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column WeekNumber
+		dataType: int64
+		formatString: 0
+		lineageTag: a35682ef-66c1-4f2f-85cb-ba4b39b5715e
+		summarizeBy: sum
+		sourceColumn: WeekNumber
+
+		annotation SummarizationSetBy = Automatic
+
+	column Day
+		dataType: int64
+		formatString: 0
+		lineageTag: 2efe8629-419e-4200-b108-f0db6b5f537f
+		summarizeBy: sum
+		sourceColumn: Day
+
+		annotation SummarizationSetBy = Automatic
+
+	column DayName
+		dataType: string
+		lineageTag: 3c2130ba-bc9d-4b87-905f-26652ab55fe5
+		summarizeBy: none
+		sourceColumn: DayName
+
+		annotation SummarizationSetBy = Automatic
+
+	column IsWeekend
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: d9bd13ae-a3b1-4586-9ada-a43136d53fdc
+		summarizeBy: none
+		sourceColumn: IsWeekend
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Date = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/vinay-kumar0901/Power-BI-chatbot/main/Dataset/Date.csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Date", type date}, {"Year", Int64.Type}, {"Quarter", type text}, {"MonthNumber", Int64.Type}, {"Month", type text}, {"YearMonth", type date}, {"WeekNumber", Int64.Type}, {"Day", Int64.Type}, {"DayName", type text}, {"IsWeekend", type logical}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

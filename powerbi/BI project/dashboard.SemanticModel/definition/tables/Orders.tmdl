@@ -1,0 +1,105 @@
+table Orders
+	lineageTag: d98c72cd-efbf-4469-ab01-003fb5ff8c17
+
+	column OrderID
+		dataType: int64
+		formatString: 0
+		lineageTag: 159adf9d-8883-4400-a4ac-7d8cb511fee9
+		summarizeBy: none
+		sourceColumn: OrderID
+
+		annotation SummarizationSetBy = Automatic
+
+	column OrderDate
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 69f55f04-94d1-41bc-9a61-41efc9a08ac6
+		summarizeBy: none
+		sourceColumn: OrderDate
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column CustomerID
+		dataType: int64
+		formatString: 0
+		lineageTag: 9ef22cb9-b65f-4bbd-b7be-3df16cae41df
+		summarizeBy: none
+		sourceColumn: CustomerID
+
+		annotation SummarizationSetBy = Automatic
+
+	column EmployeeID
+		dataType: int64
+		formatString: 0
+		lineageTag: 02f2d8d7-0192-4e2a-a131-092d242c1d36
+		summarizeBy: none
+		sourceColumn: EmployeeID
+
+		annotation SummarizationSetBy = Automatic
+
+	column StoreID
+		dataType: int64
+		formatString: 0
+		lineageTag: 3e6c18ce-69f3-412a-8665-f8aa6a19ce37
+		summarizeBy: none
+		sourceColumn: StoreID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Channel
+		dataType: string
+		lineageTag: 9ff434d7-e212-488a-a367-ca7aaa1ddd7b
+		summarizeBy: none
+		sourceColumn: Channel
+
+		annotation SummarizationSetBy = Automatic
+
+	column PaymentMethod
+		dataType: string
+		lineageTag: 9631ea0d-3a89-4d79-9a15-bf97bc2f3d05
+		summarizeBy: none
+		sourceColumn: PaymentMethod
+
+		annotation SummarizationSetBy = Automatic
+
+	column OrderStatus
+		dataType: string
+		lineageTag: 4b99b85d-ad81-49ee-8c31-c6c3897c45eb
+		summarizeBy: none
+		sourceColumn: OrderStatus
+
+		annotation SummarizationSetBy = Automatic
+
+	column ShippingDays
+		dataType: int64
+		formatString: 0
+		lineageTag: 688e04a2-30e7-414c-8251-bb0b23730a98
+		summarizeBy: sum
+		sourceColumn: ShippingDays
+
+		annotation SummarizationSetBy = Automatic
+
+	column DiscountRate
+		dataType: double
+		lineageTag: eb562a67-2c83-4913-86b6-2e749b3eb687
+		summarizeBy: sum
+		sourceColumn: DiscountRate
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition Orders = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/vinay-kumar0901/Power-BI-chatbot/main/Dataset/Orders.csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"OrderID", Int64.Type}, {"OrderDate", type date}, {"CustomerID", Int64.Type}, {"EmployeeID", Int64.Type}, {"StoreID", Int64.Type}, {"Channel", type text}, {"PaymentMethod", type text}, {"OrderStatus", type text}, {"ShippingDays", Int64.Type}, {"DiscountRate", type number}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

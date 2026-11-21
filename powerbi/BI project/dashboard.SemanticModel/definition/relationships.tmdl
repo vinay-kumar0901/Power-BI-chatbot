@@ -1,0 +1,49 @@
+relationship be4f6d25-19af-4203-9ba8-23fd7259a5fc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Customers.JoinDate
+	toColumn: LocalDateTable_9ed8988b-37f4-49d2-ac90-9b12f5ca7a41.Date
+
+relationship 12d4336e-c081-4346-a894-ba096d5c6775
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.Date
+	toColumn: LocalDateTable_bb3d7705-7f0f-4a87-816d-eb6b1d51abe3.Date
+
+relationship 99de3f99-2203-4187-9ef6-87ad7082de22
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Date.YearMonth
+	toColumn: LocalDateTable_1521a678-0ea8-4e3f-a0f9-58e4b1ea4d41.Date
+
+relationship 63f823ea-6d7e-4b22-9d2e-0307c2d15c6c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Employees.HireDate
+	toColumn: LocalDateTable_0a6746a1-0bb0-4780-b2f8-b17f27510802.Date
+
+relationship AutoDetected_31843224-2024-4f11-8b2b-365a2a889d99
+	fromColumn: Orders.CustomerID
+	toColumn: Customers.CustomerID
+
+relationship AutoDetected_3deef85a-6a67-43d4-8d9a-198dcb300892
+	fromColumn: Orders.EmployeeID
+	toColumn: Employees.EmployeeID
+
+relationship AutoDetected_861f7bef-53cd-4e96-9c93-be988c33c9b6
+	fromColumn: OrderDetails.OrderID
+	toColumn: Orders.OrderID
+
+relationship 6cb3b3a8-8b5f-4eec-a643-727660cee3b3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Stores.OpeningDate
+	toColumn: LocalDateTable_7156b666-f40a-48f4-9965-233075edf65a.Date
+
+relationship AutoDetected_0a93189e-201e-4058-af9a-f7e4308362c9
+	fromColumn: Orders.StoreID
+	toColumn: Stores.StoreID
+
+relationship AutoDetected_269ebeef-ff26-4eff-b712-3b443a6dcab8
+	fromColumn: OrderDetails.ProductID
+	toColumn: Products.ProductID
+
+relationship 14e568fb-a2df-901d-8eb5-8e783a0673c4
+	fromColumn: Orders.OrderDate
+	toColumn: Date.Date
+

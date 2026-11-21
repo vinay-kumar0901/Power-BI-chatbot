@@ -1,0 +1,89 @@
+table Stores
+	lineageTag: bb181333-fadb-4821-84e3-381923309db6
+
+	column StoreID
+		dataType: int64
+		formatString: 0
+		lineageTag: bbba3d7d-4f83-4be3-b0f2-2f204515ed86
+		summarizeBy: none
+		sourceColumn: StoreID
+
+		annotation SummarizationSetBy = Automatic
+
+	column StoreName
+		dataType: string
+		lineageTag: 4dd2e6e9-b0af-4623-b31e-a9bde2530d84
+		summarizeBy: none
+		sourceColumn: StoreName
+
+		annotation SummarizationSetBy = Automatic
+
+	column StoreType
+		dataType: string
+		lineageTag: d4f751a7-5ac0-4bb0-9d5e-7f8dfb3c6230
+		summarizeBy: none
+		sourceColumn: StoreType
+
+		annotation SummarizationSetBy = Automatic
+
+	column City
+		dataType: string
+		lineageTag: 9a649449-e37c-4568-b0cb-f1dbee390803
+		summarizeBy: none
+		sourceColumn: City
+
+		annotation SummarizationSetBy = Automatic
+
+	column State
+		dataType: string
+		lineageTag: 1e7ad4ef-96d2-49b1-8322-7dde61742297
+		summarizeBy: none
+		sourceColumn: State
+
+		annotation SummarizationSetBy = Automatic
+
+	column Region
+		dataType: string
+		lineageTag: 98a56ae5-9bab-4cbe-bbee-6d72680a544e
+		summarizeBy: none
+		sourceColumn: Region
+
+		annotation SummarizationSetBy = Automatic
+
+	column OpeningDate
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 9a5af5b3-6ec1-4329-91eb-30d6ac4762a7
+		summarizeBy: none
+		sourceColumn: OpeningDate
+
+		variation Variation
+			isDefault
+			relationship: 6cb3b3a8-8b5f-4eec-a643-727660cee3b3
+			defaultHierarchy: LocalDateTable_7156b666-f40a-48f4-9965-233075edf65a.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column SquareFeet
+		dataType: int64
+		formatString: 0
+		lineageTag: 0d2f8a5b-4644-4b7f-8981-912ac8e0b049
+		summarizeBy: sum
+		sourceColumn: SquareFeet
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Stores = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/vinay-kumar0901/Power-BI-chatbot/main/Dataset/Stores.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"StoreID", Int64.Type}, {"StoreName", type text}, {"StoreType", type text}, {"City", type text}, {"State", type text}, {"Region", type text}, {"OpeningDate", type date}, {"SquareFeet", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+
